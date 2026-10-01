@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Musical Lyrics & Translation Library (Hamilton, SIX, Back to the Future)</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Apple SD Gothic Neo", sans-serif;
+      background: #0b0c10;
+      color: #f0f0f5;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+    .header {
+      text-align: center;
+      max-width: 840px;
+      margin-bottom: 45px;
+    }
+    .header h1 {
+      font-size: 2.5rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #ffffff 0%, #b0b8c8 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 12px;
+    }
+    .header p {
+      font-size: 1.05rem;
+      color: #8c95a6;
+      line-height: 1.6;
+    }
+    .cards-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+      width: 100%;
+      max-width: 1140px;
+    }
+    .card {
+      background: #131620;
+      border: 1px solid #222736;
+      border-radius: 16px;
+      padding: 28px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+    }
+    .card-hamilton:hover {
+      border-color: #d4af37;
+      box-shadow: 0 20px 40px rgba(212, 175, 55, 0.15);
+    }
+    .card-six:hover {
+      border-color: #ff1493;
+      box-shadow: 0 20px 40px rgba(255, 20, 147, 0.2);
+    }
+    .card-bttf:hover {
+      border-color: #ff7700;
+      box-shadow: 0 20px 40px rgba(255, 119, 0, 0.25);
+    }
+    .card-tag {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 12px;
+      display: inline-block;
+    }
+    .card-hamilton .card-tag { color: #d4af37; }
+    .card-six .card-tag { color: #ff1493; }
+    .card-bttf .card-tag { color: #ff7700; }
+    .card h2 {
+      font-size: 1.6rem;
+      font-weight: 800;
+      margin-bottom: 12px;
+    }
+    .card p {
+      font-size: 0.92rem;
+      color: #9da4b4;
+      line-height: 1.65;
+      margin-bottom: 20px;
+      flex: 1;
+    }
+    .card-stats {
+      display: flex;
+      gap: 16px;
+      padding-top: 16px;
+      border-top: 1px solid #1f2433;
+      font-size: 0.82rem;
+      color: #727a8c;
+    }
+    .stat-val {
+      font-weight: 700;
+      color: #fff;
+    }
+    .card-btn {
+      margin-top: 20px;
+      padding: 12px 18px;
+      border-radius: 8px;
+      text-align: center;
+      font-weight: 700;
+      font-size: 0.9rem;
+      transition: all 0.2s;
+    }
+    .card-hamilton .card-btn {
+      background: rgba(212, 175, 55, 0.12);
+      color: #f5d77f;
+      border: 1px solid rgba(212, 175, 55, 0.35);
+    }
+    .card-hamilton:hover .card-btn {
+      background: #d4af37;
+      color: #000;
+    }
+    .card-six .card-btn {
+      background: rgba(255, 20, 147, 0.12);
+      color: #ff69b4;
+      border: 1px solid rgba(255, 20, 147, 0.35);
+    }
+    .card-six:hover .card-btn {
+      background: #ff1493;
+      color: #fff;
+    }
+    .card-bttf .card-btn {
+      background: rgba(255, 119, 0, 0.12);
+      color: #ffaa55;
+      border: 1px solid rgba(255, 119, 0, 0.35);
+    }
+    .card-bttf:hover .card-btn {
+      background: #ff7700;
+      color: #000;
+    }
+    .footer {
+      margin-top: 50px;
+      text-align: center;
+      font-size: 0.82rem;
+      color: #555b6a;
+    }
+    @media (max-width: 640px) {
+      body {
+        padding: 24px 16px;
+      }
+      .header {
+        margin-bottom: 30px;
+      }
+      .header h1 {
+        font-size: 1.85rem;
+      }
+      .header p {
+        font-size: 0.92rem;
+      }
+      .cards-container {
+        grid-template-columns: 1fr;
+        gap: 16px;
+      }
+      .card {
+        padding: 22px 20px;
+      }
+      .card h2 {
+        font-size: 1.4rem;
+      }
+      .card-stats {
+        gap: 12px;
+        font-size: 0.78rem;
+      }
+      .card-btn {
+        padding: 12px;
+        font-size: 0.88rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🎭 Musical Lyrics & Translation Library</h1>
+    <p>브로드웨이 & 웨스트엔드 대표 명작 뮤지컬 공식 원본 가사 및 한국어 전곡 완역 대역 아카이브</p>
+  </div>
+
+  <div class="cards-container">
+    <!-- Hamilton Card -->
+    <a href="./hamilton/index.html" class="card card-hamilton">
+      <div class="card-tag">BROADWAY MASTERPIECE</div>
+      <h2>★ HAMILTON ★</h2>
+      <p>미국 건국의 아버지 알렉산더 해밀턴의 파란만장한 생애와 건국사를 90년대 황금기 힙합과 결합한 퓰리처상 수상 명작. 전 46곡 3,258행 전수 완역 및 사료/라임 주석 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">46</span> 넘버 (2막)</div>
+        <div><span class="stat-val">3,258</span> 행 완역</div>
+        <div><span class="stat-val">100%</span> 검증</div>
+      </div>
+      <div class="card-btn">해밀턴 인터랙티브 뷰어 ➔</div>
+    </a>
+
+    <!-- SIX Card -->
+    <a href="./six/index.html" class="card card-six">
+      <div class="card-tag">WEST END & BROADWAY POP CONCERT</div>
+      <h2>👑 SIX: The Musical</h2>
+      <p>헨리 8세의 여섯 왕비가 팝 디바로 환생하여 펼치는 통쾌한 역사 전복 콘서트! 비욘세, 아델, 니키 미나즈 등 팝 디바 스타일로 무장한 전 11곡 986행 전수 완역 및 튜더 역사 주석 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">11</span> 넘버 (전곡)</div>
+        <div><span class="stat-val">986</span> 행 완역</div>
+        <div><span class="stat-val">6인</span> 퀸 프로필</div>
+      </div>
+      <div class="card-btn">식스 콘서트 뷰어 ➔</div>
+    </a>
+
+    <!-- Back to the Future Card -->
+    <a href="./back_to_the_future/index.html" class="card card-bttf">
+      <div class="card-tag">OLIVIER AWARD BEST NEW MUSICAL</div>
+      <h2>⚡ BACK TO THE FUTURE</h2>
+      <p>1985년 전설의 SF 명작을 무대 위에 완벽 구현! 드로리안의 시공간 비행, 80년대 신스록과 50년대 두왑, 앨런 실베스트리 스코어와 휴이 루이스 히트곡 전 26곡 1,060행 완역 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">26</span> 넘버 (2막)</div>
+        <div><span class="stat-val">1,060</span> 행 완역</div>
+        <div><span class="stat-val">100%</span> 검증</div>
+      </div>
+      <div class="card-btn">백투더퓨처 대시보드 뷰어 ➔</div>
+    </a>
+  </div>
+
+  <div class="footer">
+    <p>Bilingual Musical Archive Collection · Non-commercial Educational & Appreciation Purpose</p>
+  </div>
+</body>
+</html>

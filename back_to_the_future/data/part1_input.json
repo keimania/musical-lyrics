@@ -1,0 +1,1439 @@
+{
+  "1": {
+    "id": 1,
+    "act": 1,
+    "title": "Overture",
+    "title_kr": "서곡",
+    "file_rel_path": "act1/01_overture.md",
+    "stanzas": [
+      {
+        "key": "1:1",
+        "speaker_raw": "Ensemble",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Instrumental",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "act": 1,
+    "title": "It's Only a Matter of Time",
+    "title_kr": "시간 문제일 뿐이야",
+    "file_rel_path": "act1/02_its_only_a_matter_of_time.md",
+    "stanzas": [
+      {
+        "key": "2:1",
+        "speaker_raw": "MARTY McFLY",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "I'm lookin’ around",
+          "There's nothin' here can slow me down",
+          "It’s feelin' like my lucky day",
+          "Gonna make it and then skate away",
+          "I'll be on the radio",
+          "They'll know me everywhere I go",
+          "It won't be long; they're gonna see...",
+          "I'll be on MTV!"
+        ]
+      },
+      {
+        "key": "2:2",
+        "speaker_raw": "MARTY McFLY, (Backing Chorus), Both",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "I'll rock my future; a winner not a loser",
+          "Nothing anyone can say can make it any other way",
+          "I’ve got my future; a player not a cruiser",
+          "I’ll be just what I wanna be: rockin' all the way through history",
+          "It’s feeling like a new day",
+          "Not another instant replay",
+          "Gonna finally do it my way! (Outlook looking good!)",
+          "Yeah!",
+          "A perfect future, for a shak?r and a mover",
+          "Every note is in its plac? with lots of treble, lots of bass",
+          "I'll rock my future; could it be any cooler?",
+          "All I gotta do is play; my troubles disappear and go away"
+        ]
+      },
+      {
+        "key": "2:3",
+        "speaker_raw": "GOLDIE WILSON",
+        "speaker_kr": "골디 윌슨",
+        "speaker_en": "Goldie Wilson",
+        "lines": [
+          "Elect me, Goldie Wilson, for mayor! My new progress platform means more jobs, lower taxes and bigger civic improvements!",
+          "Vote for me if you want to advance",
+          "I'll serve you faithfully if you'll give me a chance",
+          "I believe the future will be brighter than before",
+          "Hey, when I got started, I was sweeping up the floor!",
+          "’Cause it's only a matter of time",
+          "Till the bells of prosperity chime",
+          "We'll be part of a new day",
+          "A long overdue day",
+          "I'll lead us as we make the climb!"
+        ]
+      },
+      {
+        "key": "2:4",
+        "speaker_raw": "Company, (MARTY McFLY), Both",
+        "speaker_kr": "마티 맥플라이, 앙상블 전체",
+        "speaker_en": "Marty McFly, Company",
+        "lines": [
+          "It's only a matter of time",
+          "(I'm breakin' through the fourth wall)",
+          "A new paradigm so sublime",
+          "(I'm flyin' and I can't fall)",
+          "Only a matter of-",
+          "It's just a matter of-",
+          "Outlook: oh so good! Yeah!"
+        ]
+      },
+      {
+        "key": "2:5",
+        "speaker_raw": "MARTY McFLY, (Backing Chorus), Both",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Come on now future, let's hit the turbo booster",
+          "Buckled up without a care, now you can take it anywhere",
+          "Write my future (write my future)",
+          "For Simon and for Schuster",
+          "The Tale of How I Came To Be",
+          "A rock 'n roll biography... yeah!!! (Wooaaaaah!)"
+        ]
+      },
+      {
+        "key": "2:6",
+        "speaker_raw": "Outro: Company, Ladies, Men, [MARTY McFLY], All",
+        "speaker_kr": "마티 맥플라이, 앙상블 전체, 전원",
+        "speaker_en": "Marty McFly, Company, All",
+        "lines": [
+          "But it's only a matter of time",
+          "(Only a matter of time) [Only a matter-]",
+          "Yes it's only a matter of-",
+          "Only a matter of ti-i-i-ime... [Yeah I know, I'm gettin' outta here!]"
+        ]
+      },
+      {
+        "key": "2:7",
+        "speaker_raw": "The greatest future of all!",
+        "speaker_kr": "전원",
+        "speaker_en": "All",
+        "lines": [
+          "What a future! Here's his future!",
+          "It's only a matter of time!",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "act": 1,
+    "title": "Audition (The Power of Love) / Got No Future",
+    "title_kr": "오디션 / 미래가 없어",
+    "file_rel_path": "act1/03_audition_got_no_future.md",
+    "stanzas": [
+      {
+        "key": "3:1",
+        "speaker_raw": "Intro: Marty McFly",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Two, three- (Instrumental)",
+          "Here, thank you",
+          "Eh, hello everyone, uh, my name is Marty McFly, er, we are the Pinheads, we'll- let me share a song... you ready, guys?"
+        ]
+      },
+      {
+        "key": "3:2",
+        "speaker_raw": "Marty, Principal Strickland",
+        "speaker_kr": "마티 맥플라이, 스트릭랜드 교감",
+        "speaker_en": "Marty McFly, Principal Strickland",
+        "lines": [
+          "The power of love is a curious thing",
+          "Make-a one man weep, (Hello?)",
+          "Make another man sing, ch- (Hello!)",
+          "Your audition's over, McFly!",
+          "Principal Strickland, I don't understand...",
+          "That song... is crap. Besides, you're a slacker, McFly! From a whole family of slackers! Face it, you got no future!"
+        ]
+      },
+      {
+        "key": "3:3",
+        "speaker_raw": "Marty",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "I've got no future",
+          "I won't be gettin' outta her?",
+          "Seems no matter what I do my dreams are n?ver comin' true...",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "act": 1,
+    "title": "Wherever We're Going",
+    "title_kr": "우리가 어디로 가든",
+    "file_rel_path": "act1/04_wherever_were_going.md",
+    "stanzas": [
+      {
+        "key": "4:1",
+        "speaker_raw": "Intro: Jennifer Parker, Marty McFly",
+        "speaker_kr": "마티 맥플라이, 제니퍼 파커",
+        "speaker_en": "Marty McFly, Jennifer Parker",
+        "lines": [
+          "Marty! I just heard about your audition. I am so sorry. Strickland is such a jerk!",
+          "Hey, what if he's right, Jennifer? What if I'm just not cut out for music? What if I never get a chance to play for an audience?",
+          "Oh come on. One rejection is not the end of the world. And you're good Marty, you're really, really good",
+          "What if today was a sign? I just don't think I can take anymore rejection...",
+          "Gee... I'm starting to sound like my old man..."
+        ]
+      },
+      {
+        "key": "4:2",
+        "speaker_raw": "Verse 1: Jennifer",
+        "speaker_kr": "제니퍼 파커",
+        "speaker_en": "Jennifer Parker",
+        "lines": [
+          "Why do you let people put you down?",
+          "It's not for them to say",
+          "Just keep your feet planted on the ground",
+          "And look the other way",
+          "They'll define you",
+          "Unless have a dream",
+          "You gotta tak? time to",
+          "Be what you can be",
+          "And l?t me remind you",
+          "You're everything to me",
+          "Something good is flowing..."
+        ]
+      },
+      {
+        "key": "4:3",
+        "speaker_raw": "Chorus 1: Jennifer",
+        "speaker_kr": "제니퍼 파커",
+        "speaker_en": "Jennifer Parker",
+        "lines": [
+          "Wherever we're going is alright with me",
+          "There's no way of knowing; we'll just wait and see",
+          "We'll get where we're going eventually",
+          "Wherever we're going is alright, alright, alright, alright with me"
+        ]
+      },
+      {
+        "key": "4:4",
+        "speaker_raw": "Verse 2: Jennifer",
+        "speaker_kr": "제니퍼 파커",
+        "speaker_en": "Jennifer Parker",
+        "lines": [
+          "I know you better than anyone",
+          "And you belong to me",
+          "And we will finish what we've begun",
+          "You'll write a song for me",
+          "I can hear it",
+          "When you sing to me",
+          "I wanna be near it",
+          "It's you I wanna see",
+          "Let me be clear that",
+          "You're everything to me",
+          "Something good is flowing..."
+        ]
+      },
+      {
+        "key": "4:5",
+        "speaker_raw": "Chorus 2: Jennifer, Marty, Both",
+        "speaker_kr": "마티 맥플라이, 제니퍼 파커",
+        "speaker_en": "Marty McFly, Jennifer Parker",
+        "lines": [
+          "Wherever we're going is alright with me",
+          "I'm lovin' just knowing you're going with me",
+          "A future together is our destiny",
+          "Wherever we're goin' is alright, alright",
+          "It's alright"
+        ]
+      },
+      {
+        "key": "4:6",
+        "speaker_raw": "Outro: Jennifer, Marty, Both",
+        "speaker_kr": "마티 맥플라이, 제니퍼 파커",
+        "speaker_en": "Marty McFly, Jennifer Parker",
+        "lines": [
+          "Wherever we're goin' we're both gonna see",
+          "Our story unfoldin' (our story)",
+          "A great mystery",
+          "I know in my heart that we're holdin' the key",
+          "Wherever we're going (Wherever)",
+          "Is alright, alright, (It's alright, alright)",
+          "It's alright, it's alright (Alright)",
+          "It's alright",
+          "It's alright with me",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "act": 1,
+    "title": "Hello, Is Anybody Home?",
+    "title_kr": "거기 누구 없어요?",
+    "file_rel_path": "act1/05_hello_is_anybody_home.md",
+    "stanzas": [
+      {
+        "key": "5:1",
+        "speaker_raw": "GEORGE McFLY, spoken",
+        "speaker_kr": "조지 맥플라이",
+        "speaker_en": "George McFly",
+        "lines": [
+          "I know what you're gonna say, son, and you're right... you're right, but, uh, Biff just happens to be my supervisor and, uh, I'm not very good at confrontations..."
+        ]
+      },
+      {
+        "key": "5:2",
+        "speaker_raw": "MARTY McFLY",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "My father doesn't have a spine",
+          "He grovels, scrapes, and toes the line",
+          "Hello",
+          "Is anybody home?",
+          "Completely lost; a hopeless case",
+          "Hey, he'd come in third in a two-man race",
+          "Hello",
+          "Is anybody home?"
+        ]
+      },
+      {
+        "key": "5:3",
+        "speaker_raw": "GEORGE",
+        "speaker_kr": "조지 맥플라이",
+        "speaker_en": "George McFly",
+        "lines": [
+          "(spoken)",
+          "Listen Marty, you shouldn't, uh, waste your time auditioning for these silly events. They'll only bring you rejection and headach?s. Just look at me...",
+          "(sung)",
+          "I don't have ambitions",
+          "Big dreams of my own",
+          "Happy with th? way things are",
+          "Just leave me alone",
+          "I don't need the headaches too much money brings",
+          "Fancy cars, tailored shirts, shiny diamond rings",
+          "Don't need the complications",
+          "Success is overrated, overstated, overblown",
+          "Listen to my mantra:",
+          "Just leave me alone..."
+        ]
+      },
+      {
+        "key": "5:4",
+        "speaker_raw": "MARTY",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Is anybody home?"
+        ]
+      },
+      {
+        "key": "5:5",
+        "speaker_raw": "DAVE McFLY, spoken",
+        "speaker_kr": "데이브 맥플라이",
+        "speaker_en": "Dave McFly",
+        "lines": [
+          "He's right Marty, the last thing you need is headaches"
+        ]
+      },
+      {
+        "key": "5:6",
+        "speaker_raw": "MARTY, spoken",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Right, big brother. Like standing behind a burger counter makes you an expert on life, huh?"
+        ]
+      },
+      {
+        "key": "5:7",
+        "speaker_raw": "DAVE",
+        "speaker_kr": "데이브 맥플라이",
+        "speaker_en": "Dave McFly",
+        "lines": [
+          "I'm the man, oh yes I am",
+          "I got this thing wired",
+          "Have you heard, ten billion served?",
+          "Gets me so inspired",
+          "Salty satisfaction",
+          "Saturated fat",
+          "All I ever have to say:",
+          "\"You want fries with that?\"",
+          "Woah",
+          "I'm a man in uniform",
+          "Arches on my hat",
+          "And all I ever have to say:",
+          "\"You want fries with that?\""
+        ]
+      },
+      {
+        "key": "5:8",
+        "speaker_raw": "LINDA McFLY",
+        "speaker_kr": "린다 맥플라이",
+        "speaker_en": "Linda McFly",
+        "lines": [
+          "Give me back my Prince CD!"
+        ]
+      },
+      {
+        "key": "5:9",
+        "speaker_raw": "DAVE",
+        "speaker_kr": "데이브 맥플라이",
+        "speaker_en": "Dave McFly",
+        "lines": [
+          "\"You want fries with that?\""
+        ]
+      },
+      {
+        "key": "5:10",
+        "speaker_raw": "LINDA",
+        "speaker_kr": "린다 맥플라이",
+        "speaker_en": "Linda McFly",
+        "lines": [
+          "And my Walkman if you please!"
+        ]
+      },
+      {
+        "key": "5:11",
+        "speaker_raw": "DAVE",
+        "speaker_kr": "데이브 맥플라이",
+        "speaker_en": "Dave McFly",
+        "lines": [
+          "\"You want fries with that?\"",
+          "The answer is a question; music to their ears",
+          "They'll all come back; it's just a fact",
+          "\"You want fries with that?\""
+        ]
+      },
+      {
+        "key": "5:12",
+        "speaker_raw": "LINDA, spoken",
+        "speaker_kr": "린다 맥플라이",
+        "speaker_en": "Linda McFly",
+        "lines": [
+          "Hey, Marty?"
+        ]
+      },
+      {
+        "key": "5:13",
+        "speaker_raw": "MARTY, spoken",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Yeah, sis?"
+        ]
+      },
+      {
+        "key": "5:14",
+        "speaker_raw": "LINDA, spoken",
+        "speaker_kr": "린다 맥플라이",
+        "speaker_en": "Linda McFly",
+        "lines": [
+          "I am not your answering service. Jennifer Parker called you... twice!"
+        ]
+      },
+      {
+        "key": "5:15",
+        "speaker_raw": "LORRAINE McFLY, spoken",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "Marty, I don't like her. Any girl who calls up a boy is just asking for trouble!"
+        ]
+      },
+      {
+        "key": "5:16",
+        "speaker_raw": "LINDA, spoken",
+        "speaker_kr": "린다 맥플라이",
+        "speaker_en": "Linda McFly",
+        "lines": [
+          "Oh, mom, there's nothing wrong with calling a boy!"
+        ]
+      },
+      {
+        "key": "5:17",
+        "speaker_raw": "LORRAINE, spoken",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "I think it's terrible, girls chasing boys. When I was your age I never chased a boy, or kissed a boy, or sat in a parked car with a boy!"
+        ]
+      },
+      {
+        "key": "5:18",
+        "speaker_raw": "LINDA, spoken",
+        "speaker_kr": "린다 맥플라이",
+        "speaker_en": "Linda McFly",
+        "lines": [
+          "Then how am I supposed to meet anybody?"
+        ]
+      },
+      {
+        "key": "5:19",
+        "speaker_raw": "LORRAINE, spoken",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "Well, when the time is right, it'll just happen"
+        ]
+      },
+      {
+        "key": "5:20",
+        "speaker_raw": "LINDA, sung",
+        "speaker_kr": "린다 맥플라이",
+        "speaker_en": "Linda McFly",
+        "lines": [
+          "She tells me it'll happen",
+          "That the sun will rise and the stars will shine",
+          "All I ever seem to do",
+          "Is sit around and wait",
+          "I just wanna date",
+          "She says she never called a boy",
+          "Or chased a boy, even kissed a boy. Ugh!",
+          "What does she expect from me",
+          "'Cause she can't relate?",
+          "I just wanna, I just wanna, I just wanna date!"
+        ]
+      },
+      {
+        "key": "5:21",
+        "speaker_raw": "LORRAINE, spoken",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "Patience, Linda, it'll just happen, like the way I met your father"
+        ]
+      },
+      {
+        "key": "5:22",
+        "speaker_raw": "LINDA, spoken",
+        "speaker_kr": "린다 맥플라이",
+        "speaker_en": "Linda McFly",
+        "lines": [
+          "Oh, that was so stupid! He fell out of a tree in front of your house!"
+        ]
+      },
+      {
+        "key": "5:23",
+        "speaker_raw": "LORRAINE, spoken",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "It was meant to be..."
+        ]
+      },
+      {
+        "key": "5:24",
+        "speaker_raw": "LORRAINE, sung",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "When life flows by so beautifully",
+          "With perfect friends and family",
+          "When love falls on you from a tree",
+          "Well, that's meant to be"
+        ]
+      },
+      {
+        "key": "5:25",
+        "speaker_raw": "McFLYS",
+        "speaker_kr": "McFLYS",
+        "speaker_en": "McFLYS",
+        "lines": [
+          "Know it's meant to be"
+        ]
+      },
+      {
+        "key": "5:26",
+        "speaker_raw": "LORRAINE",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "You look around and you start to see",
+          "That you're living out your fantasy",
+          "It starts to feel like destiny",
+          "Like it's meant to be"
+        ]
+      },
+      {
+        "key": "5:27",
+        "speaker_raw": "LORRAINE & McFLYs",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "Know it's meant to, you were sent to, must be meant to be"
+        ]
+      },
+      {
+        "key": "5:28",
+        "speaker_raw": "LORRAINE, spoken",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "Anyway, Grandpa found your father lying in the street and brought him into the house. My heart just went out to him. So we went to the Enchantment Under the Sea dance, our first date. He kissed me for the first time on that dance floor"
+        ]
+      },
+      {
+        "key": "5:29",
+        "speaker_raw": "LORRAINE",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "There was something about that boy..."
+        ]
+      },
+      {
+        "key": "5:30",
+        "speaker_raw": "MARTY",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Hello",
+          "Is anybody home?"
+        ]
+      },
+      {
+        "key": "5:31",
+        "speaker_raw": "LORRAINE",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "There was something about that boy..."
+        ]
+      },
+      {
+        "key": "5:32",
+        "speaker_raw": "MARTY",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Hello, hello, hello?",
+          "And now the walls just keep closing in",
+          "And I don't know if I'll ever win",
+          "It's just the same as it's always been",
+          "\"No go! Hello? Too slow! Hello?!\""
+        ]
+      },
+      {
+        "key": "5:33",
+        "speaker_raw": "DAVE, (LINDA), GEORGE, MARTY, LORRAINE",
+        "speaker_kr": "마티 맥플라이, 조지 맥플라이, 로레인 베인스, 데이브 맥플라이, 린다 맥플라이",
+        "speaker_en": "Marty McFly, George McFly, Lorraine Baines, Dave McFly, Linda McFly",
+        "lines": [
+          "Hello? (Hello?)",
+          "Don't need the complications",
+          "\"Do you want fries with that?\" Aaah! (Hello?!)",
+          "Or pressure situations (I just wanna date!)",
+          "Know it's meant to be! Hello?! (Hello?!)",
+          "Is anybody home?"
+        ]
+      },
+      {
+        "key": "5:34",
+        "speaker_raw": "ALL",
+        "speaker_kr": "전원",
+        "speaker_en": "All",
+        "lines": [
+          "Hello? Hello?! Hello?!? Hello?!?! Hello?!?!?",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "act": 1,
+    "title": "It Works",
+    "title_kr": "작동한다!",
+    "file_rel_path": "act1/06_it_works.md",
+    "stanzas": [
+      {
+        "key": "6:1",
+        "speaker_raw": "Ensemble",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "MARTY MCFLY: (spoken)",
+          "It's a time machine?!",
+          "Wait a minute, wait a minute Doc.",
+          "Are you trying to tell me that you built a time",
+          "machine out of a DeLorean?!",
+          "DOC BROWN: (spoken)",
+          "Well, if you're gonna build a time machine into a car,",
+          "why not do it with some style?",
+          "(sing)",
+          "I'm the architect of tick tock tech",
+          "A frequent flyer on a cosmic trek",
+          "I sorted through the quarks and quirks",
+          "And for once I know I made a thing that really works",
+          "It's a time machine that goes both ways",
+          "To new tomorrows and to yesterdays",
+          "It's a car for the stars like Captain Kirk's",
+          "And for once I knew I made a thing that really works",
+          "DOC BROWN & ENSEMBLE:",
+          "It works! It works! It works!",
+          "(It works!)",
+          "In terms of the vernacular, it's spectacular!",
+          "(Ooo-ooh, woo-oah)",
+          "Because it works! It works! It works!",
+          "(It works!)",
+          "And now I've found my glory (Oooo...ah)",
+          "In this stainless steel DeLorean (Oooo...ah)",
+          "It's gratifyin' knowing I was first (Ooooooo...ah)",
+          "Because it works!",
+          "MARTY MCFLY & DOC BROWN:",
+          "Hey Doc, who are the girls? (Ha, ha, ha)",
+          "I don't know; they just show up every time I start singing!",
+          "(Yes, it... works!)",
+          "DOC BROWN & ENSEMBLE:",
+          "Blunt force trauma up against your head (ah-ooh)",
+          "Can put you in a coma; you could end up dead (ah-ooh)",
+          "Or calling for your momma but for me instead (ah-ooh)",
+          "That blunt force trauma when I slipped and hit my head",
+          "Shook something loose in me",
+          "Some high fruit in a tree",
+          "And that's when I could see",
+          "How fluid time can be",
+          "It gave me the connection (Ha, ha)",
+          "After decades of rejection (Ha, ha, A-a-a-ah)",
+          "I never really thought I'd get to see how well...",
+          "It works! It works! It works!",
+          "(It works!)",
+          "And with this new invention I'll cut through the fourth dimension",
+          "(Ooo-ooh, woo-oah)",
+          "'Cause it works! It works! It works!",
+          "(It works!)",
+          "I found what I was searching for",
+          "It's called the Flux Capacitor",
+          "It's this year's break-through scientific first",
+          "Because it works!",
+          "ENSEMBLE:",
+          "Ha, ha, ha",
+          "Aaaaaah...",
+          "Yes, it... works!",
+          "DOC BROWN & ENSEMBLE:",
+          "The secret was confined",
+          "And it's like I was blind, man",
+          "The solution was sublime",
+          "And I knew it all the time!",
+          "I didn't see how I could do it",
+          "Until I put my mind to it",
+          "It works! It works! It works!",
+          "(It works!)",
+          "A space and time funicular but it's vehicular",
+          "(It works, it works, it works, it works!)",
+          "Because it works! It works!",
+          "(It works, it works, it works, it works!)",
+          "The world will write my story in...",
+          "This stainless steel... DeLorean...",
+          "The time continuum shall be traversed!",
+          "Because Marty...",
+          "It works! It works! It works!",
+          "(It works!)",
+          "It works! It works! It works!",
+          "(It works, It wooooooorks!)",
+          "IT WORKS!",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "act": 1,
+    "title": "Don't Drive 88!",
+    "title_kr": "88마일로 달리지 마!",
+    "file_rel_path": "act1/07_dont_drive_88.md",
+    "stanzas": [
+      {
+        "key": "7:1",
+        "speaker_raw": "Marty McFly, Doc Brown",
+        "speaker_kr": "마티 맥플라이, 에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Marty McFly, Doc Emmett Brown",
+        "lines": [
+          "Hey Doc, what's happenin' to you?",
+          "I've been irradiated, so stay back! Stay way back! Or you will be too!",
+          "Doc, you gotta let me help you! Doc, you're dyin'! I'll go to the hospital! I'll get an ambulance!",
+          "County hospital's two miles away!",
+          "I'll drive like the wind, Doc-",
+          "But don't drive 88. Don't drive 88! Whatever you do, don't drive... 88!!!"
+        ]
+      },
+      {
+        "key": "7:2",
+        "speaker_raw": "Instrumental",
+        "speaker_kr": "오케스트라 연주",
+        "speaker_en": "Orchestra Instrumental",
+        "lines": [
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "act": 1,
+    "title": "Cake",
+    "title_kr": "케이크",
+    "file_rel_path": "act1/08_cake.md",
+    "stanzas": [
+      {
+        "key": "8:1",
+        "speaker_raw": "Intro: Chamber of Commerce Spokeswoman",
+        "speaker_kr": "Intro Chamber of Commerce Spokeswoman",
+        "speaker_en": "Intro Chamber of Commerce Spokeswoman",
+        "lines": [
+          "The Chamber of Commerce welcomes you to Hill Valley! It's a nice place to live and here’s why:"
+        ]
+      },
+      {
+        "key": "8:2",
+        "speaker_raw": "Verse 1: Chamber of Commerce Spokeswoman",
+        "speaker_kr": "Verse 1 Chamber of Commerce Spokeswoman",
+        "speaker_en": "Verse 1 Chamber of Commerce Spokeswoman",
+        "lines": [
+          "You've found the future and it's here",
+          "Just look around, you’ll see it crystal clear",
+          "Business is booming",
+          "Flowers are blooming",
+          "And 1955 has been a banner year!"
+        ]
+      },
+      {
+        "key": "8:3",
+        "speaker_raw": "Verse 2: Gas Station Workers, Gasoline Salesman",
+        "speaker_kr": "Verse 2 Gas Station Workers, Gasoline Salesman",
+        "speaker_en": "Verse 2 Gas Station Workers, Gasoline Salesman",
+        "lines": [
+          "Our super-leaded gasoline...",
+          "Only 19 cents a gallon!",
+          "Will keep our atmosphere so fresh and clean",
+          "Precision tooling",
+          "And fossil fuelling",
+          "Will keep you cruising in your super sleek machine!"
+        ]
+      },
+      {
+        "key": "8:4",
+        "speaker_raw": "Verse 3: Ladies",
+        "speaker_kr": "Verse 3 Ladies",
+        "speaker_en": "Verse 3 Ladies",
+        "lines": [
+          "These filtered cigarettes ar? new (so new)",
+          "And ev?n doctors say they're good for you",
+          "And there's no question",
+          "They'll aid digestion",
+          "And pick you up when you feel blue!"
+        ]
+      },
+      {
+        "key": "8:5",
+        "speaker_raw": "Chorus: Townsfolk",
+        "speaker_kr": "힐밸리 마을 주민들",
+        "speaker_en": "Townsfolk",
+        "lines": [
+          "It's a good old-fashioned modern way of living",
+          "And no one does it better than we do!",
+          "Finally it's time when",
+          "All of these fine men",
+          "Get to have their cake and eat it too!"
+        ]
+      },
+      {
+        "key": "8:6",
+        "speaker_raw": "Bridge: Home insulation man, (Townsfolk), Farmer, All",
+        "speaker_kr": "힐밸리 마을 주민들, 전원",
+        "speaker_en": "Townsfolk, All",
+        "lines": [
+          "For home insulation, Asbestos is best (Is best)",
+          "It keeps you cosy and warm (so warm...)",
+          "We spray DDT on those worrisome pests",
+          "And we've reengineered the food from the farm!"
+        ]
+      },
+      {
+        "key": "8:7",
+        "speaker_raw": "Interlude: Chamber of Commerce Spokeswoman, Marty McFly, Mayor Red Thomas, (Mayor Thomas' supporters)",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "What did I tell you? It's like utopia!",
+          "It’s a nightmare!",
+          "Re-elect me, Mayor Red Thomas! My new progress platform means more jobs, lower taxes and bigger civic improvements! (Yay!)"
+        ]
+      },
+      {
+        "key": "8:8",
+        "speaker_raw": "Verse 4: Mayor Red Thomas",
+        "speaker_kr": "Verse 4 Mayor Red Thomas",
+        "speaker_en": "Verse 4 Mayor Red Thomas",
+        "lines": [
+          "This is our dreamland, USA",
+          "The perfect company should work and play",
+          "It’s no malarkey",
+          "Our patriarchy",
+          "We'll show the whole wide world the way to live this way!"
+        ]
+      },
+      {
+        "key": "8:9",
+        "speaker_raw": "Outro: All, Men, Ladies",
+        "speaker_kr": "전원",
+        "speaker_en": "All",
+        "lines": [
+          "It’s a good old-fashioned modern way of living",
+          "And no one does it better",
+          "They may think they do it better",
+          "The fact is no one does it better than we do!",
+          "Use super-leaded gasoline!",
+          "We love our cigarettes, it's true...",
+          "But, it just feels right when",
+          "All of these white men",
+          "Get to have their cake...",
+          "So let the women bake",
+          "We get to have our cake and",
+          "Eat... it...",
+          "Too!",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "act": 1,
+    "title": "Gotta Start Somewhere",
+    "title_kr": "어디서든 시작해야 해",
+    "file_rel_path": "act1/09_gotta_start_somewhere.md",
+    "stanzas": [
+      {
+        "key": "9:1",
+        "speaker_raw": "Goldie Wilson",
+        "speaker_kr": "골디 윌슨",
+        "speaker_en": "Goldie Wilson",
+        "lines": [
+          "Mayor Goldie Wilson... I like the sound of that!",
+          "What are you waitin' for?",
+          "Pick yourself up?from?the floor",
+          "If you?don't respect yourself",
+          "You won't get it?from no one else",
+          "No shame in workin' hard",
+          "Let them know that's who you are",
+          "Though I'm no man in the room",
+          "I'm still the best one with this broom",
+          "This ain't no step and fetch it",
+          "It's all part of the climb",
+          "There's a train, I'm gonna catch it",
+          "It's a matter of time",
+          "But you gotta start somewhere",
+          "You gotta start somewhere",
+          "You gotta get going or you're never gonna get there",
+          "And once you g?t movin'",
+          "You'll find some way somehow",
+          "And it might as well b? right here right now",
+          "Come on boy!",
+          "You gotta start somewhere",
+          "Listen up, sometimes you gotta sweep that negativity right outta the way!"
+        ]
+      },
+      {
+        "key": "9:2",
+        "speaker_raw": "Ensemble",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Yeah!"
+        ]
+      },
+      {
+        "key": "9:3",
+        "speaker_raw": "Goldie, Goldie and Ensemble",
+        "speaker_kr": "골디 윌슨, 앙상블",
+        "speaker_en": "Goldie Wilson, Ensemble",
+        "lines": [
+          "Some people's road to fame",
+          "Begin on streets that have no name",
+          "It doesn't have to hold ya back",
+          "Once you're movin' on that track",
+          "Don't be confined to it",
+          "If you put your mind to it",
+          "You can always get your way",
+          "If you're willin' just to sweat your way",
+          "Don't give me the medial",
+          "Do the best you can",
+          "Remain congenial",
+          "And someday you'll be the man!"
+        ]
+      },
+      {
+        "key": "9:4",
+        "speaker_raw": "Goldie, (Ensemble), Both",
+        "speaker_kr": "골디 윌슨, 앙상블",
+        "speaker_en": "Goldie Wilson, Ensemble",
+        "lines": [
+          "But you gotta start somewhere",
+          "(Gotta start somewhere)",
+          "You gotta start somewhere",
+          "(Gotta start somewhere)",
+          "And make yourself useful",
+          "Or you're never gonna get there",
+          "(Never gonna get there)",
+          "Once you get movin'",
+          "You'll find some way somehow",
+          "And it might as well be right here right now",
+          "Come on boy!",
+          "You gotta start somewhere",
+          "(Gotta start somewhere)",
+          "You gotta start somewhere",
+          "(Gotta start somewhere)",
+          "You gotta get goin' (You're never)",
+          "Or you're never gonna get there",
+          "(Never gonna get there)",
+          "Once you get movin'",
+          "You'll find some way somehow",
+          "And it might as well be right here, right now!",
+          "Come on boy!",
+          "{Instrumental break}"
+        ]
+      },
+      {
+        "key": "9:5",
+        "speaker_raw": "Goldie",
+        "speaker_kr": "골디 윌슨",
+        "speaker_en": "Goldie Wilson",
+        "lines": [
+          "Keep moving and a-groovin'",
+          "It's honest state of mind",
+          "As long as you're improvin'",
+          "You won't feel left behind"
+        ]
+      },
+      {
+        "key": "9:6",
+        "speaker_raw": "Goldie, (Ensemble), Both",
+        "speaker_kr": "골디 윌슨, 앙상블",
+        "speaker_en": "Goldie Wilson, Ensemble",
+        "lines": [
+          "But you gotta start somewhere",
+          "(You gotta start somewhere)",
+          "You gotta start somewhere",
+          "(You gotta start somewhere)",
+          "Movin' or you'll",
+          "(Never, never, never, no)",
+          "Never get there (Yeah!)",
+          "Once you get movin'",
+          "You'll find some way somehow",
+          "(You'll find some way somehow)",
+          "And it might as well be right here right now",
+          "(Come on, come on boy!)",
+          "Might as well be right here",
+          "(You gotta start somewhere)",
+          "You gotta start somewhere",
+          "(You gotta start right now)",
+          "(You gotta start somewhere)",
+          "You gotta start somewhere",
+          "(You gotta start right now)",
+          "(And you'll be the man!)",
+          "Heeee-yeaaah!",
+          "You'll be the man!",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "act": 1,
+    "title": "My Myopia",
+    "title_kr": "나의 근시안",
+    "file_rel_path": "act1/10_my_myopia.md",
+    "stanzas": [
+      {
+        "key": "10:1",
+        "speaker_raw": "George McFly",
+        "speaker_kr": "조지 맥플라이",
+        "speaker_en": "George McFly",
+        "lines": [
+          "I don't need to look around",
+          "I'll keep my focus on the ground",
+          "Hoping no one catches me",
+          "With sketches no one else can see",
+          "I don't need to have a look",
+          "Beyond the pages of this book",
+          "I want to be left alone",
+          "With the thoughts that are my own",
+          "My myopia",
+          "Is my utopia",
+          "And I'm hopin' ya",
+          "Feel it too",
+          "When you narrow your point of view",
+          "You see only what you want to",
+          "My myopia",
+          "Is my utopia",
+          "And I'm hopin' ya",
+          "Understand",
+          "That I'm doing the best I can",
+          "To see only what I want to",
+          "But deep inside",
+          "All I ever wanted to do was run and hide",
+          "And, yes I know I can do better",
+          "That's the only way I'll ever get her",
+          "And considering I haven't met her yet..."
+        ]
+      },
+      {
+        "key": "10:2",
+        "speaker_raw": "Marty McFly",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "He's a peeping tom!"
+        ]
+      },
+      {
+        "key": "10:3",
+        "speaker_raw": "George",
+        "speaker_kr": "조지 맥플라이",
+        "speaker_en": "George McFly",
+        "lines": [
+          "I heard about this bird down under",
+          "He's terrified by the sound of thunder",
+          "He does something that I understand",
+          "He-he takes his head and buries it in the sand",
+          "Trying to avoid a confrontation",
+          "I would rather be in hibernation",
+          "I retreat to my imagination",
+          "And my reliance on- on science fiction",
+          "To land a pretty girl? Oh well, I wish",
+          "But I float just like a jellyfish",
+          "Humble pie is my favorite dish",
+          "I live in fear of- of- of contradictions",
+          "My myopia",
+          "Is my utopia",
+          "And I'm hopin' ya feelin' it",
+          "See how I'm dealin' with it",
+          "And...I'm...hopin' you're feelin' it too...",
+          "Oh...",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "act": 1,
+    "title": "Pretty Baby",
+    "title_kr": "예쁜 그대",
+    "file_rel_path": "act1/11_pretty_baby.md",
+    "stanzas": [
+      {
+        "key": "11:1",
+        "speaker_raw": "Intro: Marty McFly, Lorraine Baines",
+        "speaker_kr": "마티 맥플라이, 로레인 베인스",
+        "speaker_en": "Marty McFly, Lorraine Baines",
+        "lines": [
+          "Calvin... Why'd you keep callin' me Calvin?",
+          "Oh, well, it is your name, isn't it, Calvin Klein? It's written all over your underwear",
+          "(Marty exclaims) I...no. Actually they call me Marty...",
+          "Oh, pleased to?meet?you?Calvin...Marty...Klein..."
+        ]
+      },
+      {
+        "key": "11:2",
+        "speaker_raw": "Lorraine, (Female Ensemble), Both",
+        "speaker_kr": "로레인 베인스, 앙상블",
+        "speaker_en": "Lorraine Baines, Ensemble",
+        "lines": [
+          "Pretty baby, got?this funny feelin'",
+          "Pretty?baby, I might need some healin'",
+          "It's getting hotter and it's giving me the chills",
+          "I think I'd better rest here for a while...(Hi-i-i...)",
+          "Pretty baby, got a little secret (Shh...)",
+          "Oh pretty baby, I hope that you can keep it",
+          "Good girls never do it (No)",
+          "They won't do it (No)",
+          "Till they do",
+          "You know that I'd be oh so good for you...",
+          "When I sit by your side (by your side)",
+          "I just can't d?scribe (can't describe)",
+          "Feelin' th?se feelings",
+          "I feel (Ah-ah-ah)",
+          "There's something deep inside (deep inside)",
+          "That cannot be denied",
+          "I can't conceal it",
+          "This can't be real",
+          "Tell me it's real!",
+          "Pretty baby, did you come to save me?",
+          "My pretty baby, oh how you drive me crazy! (Oooh... Crazy)",
+          "I'm in a hurry, (Shalala, Shalala)",
+          "Got to hurry don't you see (Shalalalaaa...)",
+          "It's up to me and you (Ba-la)",
+          "And we both know what to do (Ba-la-la-doo-da)",
+          "Pretty baby, (Baby...)",
+          "Won't cha feel it too?",
+          "(Feel it too?)",
+          "Pretty baby, I want you to feel it too...",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "act": 1,
+    "title": "Future Boy",
+    "title_kr": "미래에서 온 소년",
+    "file_rel_path": "act1/12_future_boy.md",
+    "stanzas": [
+      {
+        "key": "12:1",
+        "speaker_raw": "Intro: Marty McFly, 1955 Doc Brown",
+        "speaker_kr": "마티 맥플라이, 에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Marty McFly, Doc Emmett Brown",
+        "lines": [
+          "It's a small matter of power, Doc. Uh, we need 1.21 gigawatts",
+          "1.21 gigawatts... 1.21 gigawatts? How are you gonna generate that much juice?! I'm afraid you're stuck here!",
+          "Stuck here?!? Argh! I cannot be stuck here! I got a life in 1985! I got a family! I got a girl!",
+          "Is she pretty?",
+          "Doc, she's everything to me... please, pleasepleaseplease, you are my only hope... You've never let me down in the past...",
+          "You mean in the future?",
+          "Hey, and you've always said: \"You can accomplish anything if you just put your mind to it.\"",
+          "I said that? That's good advice, but I just don't know how to generate that kind of power, future boy!"
+        ]
+      },
+      {
+        "key": "12:2",
+        "speaker_raw": "Marty",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Future boy",
+          "I'm no future boy",
+          "'Cause I think I'm here to stay",
+          "What's the future for",
+          "If I don't get more than today?",
+          "I'm no future boy",
+          "I'll never find what I left behind",
+          "There's nothing for me here",
+          "There's only more of what came before",
+          "My future disappeared",
+          "Now everything's uncertain",
+          "Can't see behind the curtain",
+          "I can't go and I don't know",
+          "Where this all will lead..."
+        ]
+      },
+      {
+        "key": "12:3",
+        "speaker_raw": "Interlude: Doc Brown, Marty",
+        "speaker_kr": "마티 맥플라이, 에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Marty McFly, Doc Emmett Brown",
+        "lines": [
+          "Marty, there is one energy source capable of generating 1.21 gigawatts of electricity: it's a bolt... of lightning!",
+          "What did you say?",
+          "A bolt... of lightning! Unfortunately, you never know when or where it's ever gonna strike!",
+          "We do now",
+          "This is it! It says here that the bolt of lightning is going to strike the clocktower at exactly 10:04PM, next Saturday night!"
+        ]
+      },
+      {
+        "key": "12:4",
+        "speaker_raw": "Doc Brown",
+        "speaker_kr": "에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Doc Emmett Brown",
+        "lines": [
+          "The physics of this problem are perplexing",
+          "The muscles in my brain are busy flexing",
+          "As a geometric form",
+          "Of a pending thunderstorm",
+          "Is hard to calculate",
+          "But now we have a date",
+          "And all my computations must conform!",
+          "Eh... if we can somehow harness this lightning, channel it into the Flux Capacitor...",
+          "The way to get you back takes an equation",
+          "And a meteorological occasion",
+          "And then a lightning crack",
+          "Becomes a power pack",
+          "That's what it's gonna take;",
+          "No room for a mistake!",
+          "It's the only way to ever get you back!"
+        ]
+      },
+      {
+        "key": "12:5",
+        "speaker_raw": "Backing Chorus (in rounds)",
+        "speaker_kr": "Backing Chorus (in rounds)",
+        "speaker_en": "Backing Chorus (in rounds)",
+        "lines": [
+          "The only way to ever get you back!"
+        ]
+      },
+      {
+        "key": "12:6",
+        "speaker_raw": "Doc Brown, Doc & Backing Chorus, (Backing Chorus), Marty, Marty & Backing Chorus",
+        "speaker_kr": "마티 맥플라이, 에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Marty McFly, Doc Emmett Brown",
+        "lines": [
+          "Back to the future, boy!",
+          "You're the future boy!",
+          "And we know we found a way!",
+          "Ah, you're the future boy",
+          "And it's gonna be okay!",
+          "(Ah-ah-ah, Ah-ah-ah...)",
+          "I'm the future boy!",
+          "(He'll find a way! He'll find a way! He'll find a way! He'll find a waaaaaa-aaaaaay!)",
+          "I'm the future boy!",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "act": 1,
+    "title": "Something About That Boy",
+    "title_kr": "그 소년에게 뭔가 있어",
+    "file_rel_path": "act1/13_something_about_that_boy.md",
+    "stanzas": [
+      {
+        "key": "13:1",
+        "speaker_raw": "Lorraine Baines, (Backing Chorus), Lorraine and Backing Chorus",
+        "speaker_kr": "로레인 베인스",
+        "speaker_en": "Lorraine Baines",
+        "lines": [
+          "A man should be strong",
+          "A man should be true",
+          "A man can be handsome but he's gotta come through",
+          "He's gotta have manners, but not too polite",
+          "There's nothing more boring than someone too tight",
+          "He's got everything I'm looking for",
+          "He's got something different",
+          "He's got more of that extra special \"la-dee-da\"",
+          "What the French call: \"Je ne sais quoi\"",
+          "There's something about that boy",
+          "There's something about that boy",
+          "He's bringing me so much joy",
+          "I don't know what it is but those eyes of his look through me",
+          "He's got everything that a girl could need",
+          "He's not like the others; he's so sweet",
+          "And there's almost nothing I wouldn't do (nothing she wouldn't do...)",
+          "To make sure that his dreams come true... (woah...)",
+          "(There's something about that boy)",
+          "I know I just met him...",
+          "(There's something about that boy)",
+          "But I have to get him...",
+          "(He's bringing me so much joy)",
+          "And I just can't forget him; I'm ready to let him know now... (ooh...)",
+          "How special we could be",
+          "He's such a mystery (woooah...)",
+          "We could make history, 'cause there's something about (ooh...)",
+          "(Something about)",
+          "Something about...",
+          "(Something about...)",
+          "Something about that boy!"
+        ]
+      },
+      {
+        "key": "13:2",
+        "speaker_raw": "Biff Howard Tannen, 3D (Goon #1), Slick (Goon#2), (3D & Slick), Biff and gang",
+        "speaker_kr": "비프 태넌",
+        "speaker_en": "Biff Tannen",
+        "lines": [
+          "There's somethin' about that boy (about that boy)",
+          "That I don't like;",
+          "It's just not right (He's just not right)",
+          "There's somethin' that I'll destroy",
+          "He's gonna pay;",
+          "It starts today!!!",
+          "There's somethin' about that punk",
+          "A no good crumb!",
+          "A first-class bum! Yeah!",
+          "There's somethin' that just ain't right!",
+          "He's on some list",
+          "Like he's a communist!",
+          "I'm gonna find him",
+          "And when I do... (and when you do...)",
+          "I'm gonna unwind him",
+          "And break him right in three! (Two...)",
+          "Get him!",
+          "{Musical Interlude}"
+        ]
+      },
+      {
+        "key": "13:3",
+        "speaker_raw": "Lorraine, (Backing Chorus), Biff Tannen, {3D and Slick}, Biff and gang, [Lorraine and Biff], All",
+        "speaker_kr": "로레인 베인스, 비프 태넌, 전원",
+        "speaker_en": "Lorraine Baines, Biff Tannen, All",
+        "lines": [
+          "(There's something about that boy)",
+          "I can't put my finger on it",
+          "(There's something about that boy)",
+          "I just wanna linger on it...",
+          "(He's bringing me so much joy)",
+          "And there's something about that, something about that boy!",
+          "I'm gonna find him; He supplied everything that I need...",
+          "And when I do {and when you do}; He's turned up the heat inside me...",
+          "I'm gonna unwind him! {And break him!}"
+        ]
+      },
+      {
+        "key": "13:4",
+        "speaker_raw": "And I just can't forget him; I'm ready to let him know now...",
+        "speaker_kr": "And I just can't forget him; I'm ready to let him know now...",
+        "speaker_en": "And I just can't forget him; I'm ready to let him know now...",
+        "lines": [
+          "(There's something about that boy)",
+          "He'll be destroyed!; I know I just met him...",
+          "(There's something about that boy)",
+          "He'll be destroyed!; But I have to get him...",
+          "(He's bringing me so much joy!)",
+          "Something about that..."
+        ]
+      },
+      {
+        "key": "13:5",
+        "speaker_raw": "Lorraine, Girl 1, Girl 2, (Backing Chorus), [Biff], Lorraine and Backing Chorus",
+        "speaker_kr": "로레인 베인스, 비프 태넌",
+        "speaker_en": "Lorraine Baines, Biff Tannen",
+        "lines": [
+          "Something about that boy!",
+          "(There's something about that boy)",
+          "(There's something about that boy)",
+          "About that boy!",
+          "(There's something about that boy)",
+          "Oh, you weren't kidding, Lorraine!",
+          "Where did he come from?",
+          "Where does he live?",
+          "I don't know but I'm gonna find out... Calvin Klein, I'm gonna make you mine! (Something about that...)"
+        ]
+      },
+      {
+        "key": "13:6",
+        "speaker_raw": "Somethin' about that...",
+        "speaker_kr": "Somethin' about that...",
+        "speaker_en": "Somethin' about that...",
+        "lines": [
+          "Something about that boy!",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1719 @@
+{
+  "32": {
+    "id": 32,
+    "act": 2,
+    "title": "One Last Time",
+    "title_kr": "마지막으로 한 번 더",
+    "file_rel_path": "act2/32_one_last_time.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "여성 앙상블",
+      "조지 워싱턴"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Women",
+      "George Washington"
+    ],
+    "stanzas": [
+      {
+        "key": "32:1",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Mr. President, you asked to see me?"
+        ]
+      },
+      {
+        "key": "32:2",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I know you’re busy"
+        ]
+      },
+      {
+        "key": "32:3",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "What do you need, sir? Sir?"
+        ]
+      },
+      {
+        "key": "32:4",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I wanna give you a word of warning"
+        ]
+      },
+      {
+        "key": "32:5",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Sir, I don’t know what you heard but whatever it is, Jefferson started it"
+        ]
+      },
+      {
+        "key": "32:6",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Thomas Jefferson resigned this morning"
+        ]
+      },
+      {
+        "key": "32:7",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You’re kidding"
+        ]
+      },
+      {
+        "key": "32:8",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I need a favor"
+        ]
+      },
+      {
+        "key": "32:9",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Whatever you say, sir, Jefferson will pay for his behavior"
+        ]
+      },
+      {
+        "key": "32:10",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Shh. Talk less"
+        ]
+      },
+      {
+        "key": "32:11-12",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I’ll use the press",
+          "I’ll write under a pseudonym, you’ll see what I can do to him—"
+        ]
+      },
+      {
+        "key": "32:13",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I need you to draft an address"
+        ]
+      },
+      {
+        "key": "32:14",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Yes! He resigned. You can finally speak your mind—"
+        ]
+      },
+      {
+        "key": "32:15",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "No, he’s stepping down so he can run for President"
+        ]
+      },
+      {
+        "key": "32:16",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Ha. Good luck defeating you, sir"
+        ]
+      },
+      {
+        "key": "32:17",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I’m stepping down. I’m not running for President"
+        ]
+      },
+      {
+        "key": "32:18",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I’m sorry, what?"
+        ]
+      },
+      {
+        "key": "32:19-25",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "One last time",
+          "Relax, have a drink with me",
+          "One last time",
+          "Let’s take a break tonight",
+          "And then we’ll teach them how to say goodbye",
+          "To say goodbye",
+          "You and I"
+        ]
+      },
+      {
+        "key": "32:26",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "No, sir, why?"
+        ]
+      },
+      {
+        "key": "32:27",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I wanna talk about neutrality"
+        ]
+      },
+      {
+        "key": "32:28",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Sir, with Britain and France on the verge of war, is this the best time—"
+        ]
+      },
+      {
+        "key": "32:29",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I want to warn against partisan fighting"
+        ]
+      },
+      {
+        "key": "32:30",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "But—"
+        ]
+      },
+      {
+        "key": "32:31-33",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Pick up a pen, start writing",
+          "I wanna talk about what I have learned",
+          "The hard-won wisdom I have earned"
+        ]
+      },
+      {
+        "key": "32:34-35",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "As far as the people are concerned",
+          "You have to serve, you could continue to serve—"
+        ]
+      },
+      {
+        "key": "32:36-41",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "No! One last time",
+          "The people will hear from me",
+          "One last time",
+          "And if we get this right",
+          "We’re gonna teach ‘em how to say goodbye",
+          "You and I—"
+        ]
+      },
+      {
+        "key": "32:42",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Mr. President, they will say you’re weak"
+        ]
+      },
+      {
+        "key": "32:43",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "No, they will see we’re strong"
+        ]
+      },
+      {
+        "key": "32:44",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Your position is so unique"
+        ]
+      },
+      {
+        "key": "32:45",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "So I’ll use it to move them along"
+        ]
+      },
+      {
+        "key": "32:46",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Why do you have to say goodbye?"
+        ]
+      },
+      {
+        "key": "32:47-56",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "If I say goodbye, the nation learns to move on",
+          "It outlives me when I’m gone",
+          "Like the scripture says:",
+          "“Everyone shall sit under their own vine and fig tree",
+          "And no one shall make them afraid.”",
+          "They’ll be safe in the nation we’ve made",
+          "I wanna sit under my own vine and fig tree",
+          "A moment alone in the shade",
+          "At home in this nation we’ve made",
+          "One last time"
+        ]
+      },
+      {
+        "key": "32:57",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "One last time"
+        ]
+      },
+      {
+        "key": "32:58-62",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Though, in reviewing the incidents of my administration, I am unconscious of intentional error, I am nevertheless too sensible of my defects not to think it probable that I may have committed many errors. I shall also carry with me",
+          "The hope that my country will view them with indulgence",
+          "And that after forty-five years of my life dedicated to its service with an upright zeal the faults of incompetent abilities will be consigned to oblivion, as I myself must soon be to the mansions of rest",
+          "I anticipate with pleasing expectation that retreat in which I promise myself to realize the sweet enjoyment of partaking, in the midst of my fellow-citizens, the benign influence of good laws",
+          "Under a free government, the ever-favorite object of my heart, and the happy reward, as I trust of our mutual cares, labors, and dangers."
+        ]
+      },
+      {
+        "key": "32:63",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "One last time"
+        ]
+      },
+      {
+        "key": "32:64",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "George Washington’s going home!"
+        ]
+      },
+      {
+        "key": "32:65",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Teach ‘em how to say goodbye"
+        ]
+      },
+      {
+        "key": "32:66-74",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "You and I",
+          "Going home",
+          "History has its eyes on you",
+          "We’re gonna teach ‘em how to say goodbye!",
+          "Teach ‘em how to say",
+          "Goodbye",
+          "To say goodbye!",
+          "Say goodbye!",
+          "One last time!"
+        ]
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "act": 2,
+    "title": "I Know Him",
+    "title_kr": "난 그 친구 알지",
+    "file_rel_path": "act2/33_i_know_him.md",
+    "characters_kr": [
+      "조지 3세"
+    ],
+    "characters_en": [
+      "King George III"
+    ],
+    "stanzas": [
+      {
+        "key": "33:1-26",
+        "char_ids": [
+          "12"
+        ],
+        "speaker_kr": "조지 3세",
+        "speaker_en": "King George III",
+        "lines": [
+          "They say",
+          "George Washington’s yielding his power and stepping away",
+          "‘Zat true?",
+          "I wasn’t aware that was something a person could do",
+          "I’m perplexed",
+          "Are they gonna keep on replacing whoever’s in charge?",
+          "If so, who’s next?",
+          "There’s nobody else in their country who looms quite as large…",
+          "John Adams?!",
+          "I know him",
+          "That can’t be",
+          "That’s that little guy who spoke to me",
+          "All those years ago",
+          "What was it, eighty-five?",
+          "That poor man, they’re gonna eat him alive!",
+          "Oceans rise",
+          "Empires fall",
+          "Next to Washington, they all look small",
+          "All alone",
+          "Watch them run",
+          "They will tear each other into pieces",
+          "Jesus Christ, this will be fun!",
+          "Da da da dat da dat da da da da ya da",
+          "Da da da dat dat da ya daaaaa!",
+          "President John Adams",
+          "Good Luck"
+        ]
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "act": 2,
+    "title": "The Adams Administration",
+    "title_kr": "애덤스 행정부",
+    "file_rel_path": "act2/34_the_adams_administration.md",
+    "characters_kr": [
+      "아론 버",
+      "앙상블 전체",
+      "토머스 제퍼슨",
+      "알렉산더 해밀턴",
+      "제임스 매디슨"
+    ],
+    "characters_en": [
+      "Aaron Burr",
+      "Company",
+      "Thomas Jefferson",
+      "Alexander Hamilton",
+      "James Madison"
+    ],
+    "stanzas": [
+      {
+        "key": "34:1-5",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "How does Hamilton the short-tempered protean creator of the Coast Guard",
+          "Founder of the New York Post",
+          "Ardently abuse his cab’net post",
+          "Destroy his reputation?",
+          "Welcome, folks, to"
+        ]
+      },
+      {
+        "key": "34:6",
+        "char_ids": [
+          "1",
+          "24"
+        ],
+        "speaker_kr": "아론 버, 앙상블 전체",
+        "speaker_en": "Aaron Burr, Company",
+        "lines": [
+          "The Adams administration!"
+        ]
+      },
+      {
+        "key": "34:7",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Jefferson’s the runner-up, which makes him the Vice President"
+        ]
+      },
+      {
+        "key": "34:8",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Washington can’t help you now, no more mister nice President"
+        ]
+      },
+      {
+        "key": "34:9-10",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Adams fires Hamilton",
+          "Privately calls him “creole bastard” in his taunts"
+        ]
+      },
+      {
+        "key": "34:11",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Say what!"
+        ]
+      },
+      {
+        "key": "34:12",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Hamilton publishes his response"
+        ]
+      },
+      {
+        "key": "34:13",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Sit down, John, you fat mother—BLEEP"
+        ]
+      },
+      {
+        "key": "34:14",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Hamilton is out of control"
+        ]
+      },
+      {
+        "key": "34:15",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "This is great! He’s out of power. He holds no office. And he just destroyed President John Adams, the only other significant member of his party"
+        ]
+      },
+      {
+        "key": "34:16",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Hamilton’s a host unto himself. As long as he can hold a pen, he’s a threat. Let’s let him know what we know"
+        ]
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "act": 2,
+    "title": "We Know",
+    "title_kr": "우린 다 알고 있어",
+    "file_rel_path": "act2/35_we_know.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "토머스 제퍼슨",
+      "제임스 매디슨",
+      "아론 버"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Thomas Jefferson",
+      "James Madison",
+      "Aaron Burr"
+    ],
+    "stanzas": [
+      {
+        "key": "35:1-4",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Mr. Vice President",
+          "Mr. Madison",
+          "Senator Burr",
+          "What is this?"
+        ]
+      },
+      {
+        "key": "35:5",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "We have the check stubs. From separate accounts…"
+        ]
+      },
+      {
+        "key": "35:6",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Almost a thousand dollars, paid in different amounts…"
+        ]
+      },
+      {
+        "key": "35:7",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "To a Mr. James Reynolds way back in seventeen ninety-one"
+        ]
+      },
+      {
+        "key": "35:8",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Is that what you have? Are you done?"
+        ]
+      },
+      {
+        "key": "35:9",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "You are uniquely situated by virtue of your position—"
+        ]
+      },
+      {
+        "key": "35:10",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Though ‘virtue’ is not a word I’d apply to this situation—"
+        ]
+      },
+      {
+        "key": "35:11",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "To seek financial gain, to stray from your sacred mission—"
+        ]
+      },
+      {
+        "key": "35:12",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "And the evidence suggests you’ve engaged in speculation—"
+        ]
+      },
+      {
+        "key": "35:13",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "An immigrant embezzling our government funds—"
+        ]
+      },
+      {
+        "key": "35:14",
+        "char_ids": [
+          "10",
+          "11"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Thomas Jefferson, James Madison",
+        "lines": [
+          "I can almost see the headline, your career is done"
+        ]
+      },
+      {
+        "key": "35:15",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I hope you saved some money for your daughter and sons"
+        ]
+      },
+      {
+        "key": "35:16",
+        "char_ids": [
+          "1",
+          "10",
+          "11"
+        ],
+        "speaker_kr": "아론 버, 토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Aaron Burr, Thomas Jefferson, James Madison",
+        "lines": [
+          "Ya best g'wan run back where ya come from!"
+        ]
+      },
+      {
+        "key": "35:17",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Ha! You don’t even know what you’re asking me to confess"
+        ]
+      },
+      {
+        "key": "35:18",
+        "char_ids": [
+          "10",
+          "11",
+          "1"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 아론 버",
+        "speaker_en": "Thomas Jefferson, James Madison, Aaron Burr",
+        "lines": [
+          "Confess"
+        ]
+      },
+      {
+        "key": "35:19-20",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You have nothing. I don’t have to tell you anything at all",
+          "Unless"
+        ]
+      },
+      {
+        "key": "35:21",
+        "char_ids": [
+          "10",
+          "11",
+          "1"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 아론 버",
+        "speaker_en": "Thomas Jefferson, James Madison, Aaron Burr",
+        "lines": [
+          "Unless"
+        ]
+      },
+      {
+        "key": "35:22-23",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "If I can prove that I never broke the law",
+          "Do you promise not to tell another soul what you saw?"
+        ]
+      },
+      {
+        "key": "35:24",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "No one else was in the room where it happened"
+        ]
+      },
+      {
+        "key": "35:25",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Is that a yes?"
+        ]
+      },
+      {
+        "key": "35:26",
+        "char_ids": [
+          "10",
+          "11",
+          "1"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 아론 버",
+        "speaker_en": "Thomas Jefferson, James Madison, Aaron Burr",
+        "lines": [
+          "Um, yes"
+        ]
+      },
+      {
+        "key": "35:27-30",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "“Dear Sir, I hope this letter finds you in good health",
+          "And in a prosperous enough position to put wealth",
+          "In the pockets of people like me: down on their luck",
+          "You see, it was my wife who you decided to—”"
+        ]
+      },
+      {
+        "key": "35:31",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Whaaaat—"
+        ]
+      },
+      {
+        "key": "35:32-45",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "She courted me",
+          "Escorted me to bed and when she had me in a corner",
+          "That’s when Reynolds extorted me",
+          "For a sordid fee",
+          "I paid him quarterly",
+          "I may have mortally wounded my prospects but my papers are orderly!",
+          "As you can see I kept a record of every check in my checkered history",
+          "Check it again against your list n’ see consistency",
+          "I never spent a cent that wasn’t mine",
+          "You sent the dogs after my scent, that’s fine",
+          "Yes, I have reasons for shame",
+          "But I have not committed treason and sullied my good name",
+          "As you can see I have done nothing to provoke legal action",
+          "Are my answers to your satisfaction?"
+        ]
+      },
+      {
+        "key": "35:46",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "My God"
+        ]
+      },
+      {
+        "key": "35:47",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Gentlemen, let’s go"
+        ]
+      },
+      {
+        "key": "35:48",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "So?"
+        ]
+      },
+      {
+        "key": "35:49",
+        "char_ids": [
+          "10",
+          "11"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Thomas Jefferson, James Madison",
+        "lines": [
+          "The people won't know what we know"
+        ]
+      },
+      {
+        "key": "35:50-52",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Burr!",
+          "How do I know you won’t use this against me",
+          "The next time we go toe to toe?"
+        ]
+      },
+      {
+        "key": "35:53",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Alexander, rumors only grow. And we both know what we know"
+        ]
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "act": 2,
+    "title": "Hurricane",
+    "title_kr": "허리케인",
+    "file_rel_path": "act2/36_hurricane.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "앙상블 전체",
+      "아론 버"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Company",
+      "Aaron Burr"
+    ],
+    "stanzas": [
+      {
+        "key": "36:1-34",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "In the eye of a hurricane",
+          "There is quiet",
+          "For just a moment",
+          "A yellow sky",
+          "When I was seventeen a hurricane",
+          "Destroyed my town",
+          "I didn’t drown",
+          "I couldn’t seem to die",
+          "I wrote my way out",
+          "Wrote everything down far as I could see",
+          "I wrote my way out",
+          "I looked up and the town had its eyes on me",
+          "They passed a plate around",
+          "Total strangers",
+          "Moved to kindness by my story",
+          "Raised enough for me to book passage on a",
+          "Ship that was New York bound…",
+          "I wrote my way out of hell",
+          "I wrote my way to revolution",
+          "I was louder than the crack in the bell",
+          "I wrote Eliza love letters until she fell",
+          "I wrote about The Constitution and defended it well",
+          "And in the face of ignorance and resistance",
+          "I wrote financial systems into existence",
+          "And when my prayers to God were met with indifference",
+          "I picked up a pen, I wrote my own deliverance",
+          "In the eye of a hurricane",
+          "There is quiet",
+          "For just a moment",
+          "A yellow sky",
+          "I was twelve when my mother died",
+          "She was holding me",
+          "We were sick and she was holding me",
+          "I couldn’t seem to die"
+        ]
+      },
+      {
+        "key": "36:35",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Wait for it, wait for it, wait for it…"
+        ]
+      },
+      {
+        "key": "36:36-37",
+        "char_ids": [
+          "24",
+          "1"
+        ],
+        "speaker_kr": "앙상블 전체, 아론 버",
+        "speaker_en": "Company, Aaron Burr",
+        "lines": [
+          "Wait for it, wait for it, wait for it…",
+          "Wait for it, wait for it, wait for it, wait…"
+        ]
+      },
+      {
+        "key": "36:38-43",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I’ll write my way out…",
+          "Write ev’rything down, far as I can see…",
+          "I’ll write my way out…",
+          "Overwhelm them with honesty.",
+          "This is the eye of the hurricane, this is the only",
+          "Way I can protect my legacy…"
+        ]
+      },
+      {
+        "key": "36:44",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Wait for it, wait for it, wait for it, wait…"
+        ]
+      },
+      {
+        "key": "36:45",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "The Reynolds Pamphlet"
+        ]
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "act": 2,
+    "title": "The Reynolds Pamphlet",
+    "title_kr": "레이놀즈 팸플릿",
+    "file_rel_path": "act2/37_the_reynolds_pamphlet.md",
+    "characters_kr": [
+      "아론 버",
+      "앙상블 전체",
+      "안젤리카 스카일러",
+      "토머스 제퍼슨",
+      "알렉산더 해밀턴",
+      "남성 앙상블",
+      "제임스 매디슨"
+    ],
+    "characters_en": [
+      "Aaron Burr",
+      "Company",
+      "Angelica Schuyler",
+      "Thomas Jefferson",
+      "Alexander Hamilton",
+      "Men",
+      "James Madison"
+    ],
+    "stanzas": [
+      {
+        "key": "37:1",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "The Reynolds Pamphlet"
+        ]
+      },
+      {
+        "key": "37:2",
+        "char_ids": [
+          "10",
+          "11",
+          "8"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 안젤리카 스카일러",
+        "speaker_en": "Thomas Jefferson, James Madison, Angelica Schuyler",
+        "lines": [
+          "Have you read this?"
+        ]
+      },
+      {
+        "key": "37:3-4",
+        "char_ids": [
+          "1",
+          "10",
+          "11"
+        ],
+        "speaker_kr": "아론 버, 토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Aaron Burr, Thomas Jefferson, James Madison",
+        "lines": [
+          "Alexander Hamilton had a torrid affair",
+          "And he wrote it down right there"
+        ]
+      },
+      {
+        "key": "37:5",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Highlights!"
+        ]
+      },
+      {
+        "key": "37:6-9",
+        "char_ids": [
+          "2",
+          "10"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 토머스 제퍼슨",
+        "speaker_en": "Alexander Hamilton, Thomas Jefferson",
+        "lines": [
+          "“The charge against me is a connection with one James Reynolds!",
+          "For purposes of improper speculation",
+          "My real crime is an amorous connection with his wife",
+          "For a considerable time with his knowing consent\""
+        ]
+      },
+      {
+        "key": "37:10",
+        "char_ids": [
+          "11",
+          "1",
+          "10"
+        ],
+        "speaker_kr": "제임스 매디슨, 아론 버, 토머스 제퍼슨",
+        "speaker_en": "James Madison, Aaron Burr, Thomas Jefferson",
+        "lines": [
+          "Damn!"
+        ]
+      },
+      {
+        "key": "37:11",
+        "char_ids": [
+          "2",
+          "10",
+          "11"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Alexander Hamilton, Thomas Jefferson, James Madison",
+        "lines": [
+          "“I had frequent meetings with her most of them at my own house.”"
+        ]
+      },
+      {
+        "key": "37:12",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "At his own house!"
+        ]
+      },
+      {
+        "key": "37:13",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "At his own house!"
+        ]
+      },
+      {
+        "key": "37:14",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Damn!"
+        ]
+      },
+      {
+        "key": "37:15",
+        "char_ids": [
+          "2",
+          "10"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 토머스 제퍼슨",
+        "speaker_en": "Alexander Hamilton, Thomas Jefferson",
+        "lines": [
+          "“Mrs. Hamilton with our children being absent on a visit to her father.”"
+        ]
+      },
+      {
+        "key": "37:16",
+        "char_ids": [
+          "11",
+          "1"
+        ],
+        "speaker_kr": "제임스 매디슨, 아론 버",
+        "speaker_en": "James Madison, Aaron Burr",
+        "lines": [
+          "No…"
+        ]
+      },
+      {
+        "key": "37:17",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Boooo!"
+        ]
+      },
+      {
+        "key": "37:18",
+        "char_ids": [
+          "11",
+          "1"
+        ],
+        "speaker_kr": "제임스 매디슨, 아론 버",
+        "speaker_en": "James Madison, Aaron Burr",
+        "lines": [
+          "Have you read this?"
+        ]
+      },
+      {
+        "key": "37:19",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Well, he’s never gon’ be President now"
+        ]
+      },
+      {
+        "key": "37:20",
+        "char_ids": [
+          "11",
+          "1"
+        ],
+        "speaker_kr": "제임스 매디슨, 아론 버",
+        "speaker_en": "James Madison, Aaron Burr",
+        "lines": [
+          "Never gon’ be President now"
+        ]
+      },
+      {
+        "key": "37:21",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Well, he’s never gon’ be President now"
+        ]
+      },
+      {
+        "key": "37:22",
+        "char_ids": [
+          "11",
+          "1"
+        ],
+        "speaker_kr": "제임스 매디슨, 아론 버",
+        "speaker_en": "James Madison, Aaron Burr",
+        "lines": [
+          "Never gon’ be President now"
+        ]
+      },
+      {
+        "key": "37:23",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "He’s never gon’ be President now"
+        ]
+      },
+      {
+        "key": "37:24",
+        "char_ids": [
+          "11",
+          "1"
+        ],
+        "speaker_kr": "제임스 매디슨, 아론 버",
+        "speaker_en": "James Madison, Aaron Burr",
+        "lines": [
+          "Never gon’ be President now"
+        ]
+      },
+      {
+        "key": "37:25",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "That’s one less thing to worry about"
+        ]
+      },
+      {
+        "key": "37:26",
+        "char_ids": [
+          "10",
+          "11",
+          "1"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 아론 버",
+        "speaker_en": "Thomas Jefferson, James Madison, Aaron Burr",
+        "lines": [
+          "That’s one less thing to worry about!"
+        ]
+      },
+      {
+        "key": "37:27",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I came as soon as I heard"
+        ]
+      },
+      {
+        "key": "37:28",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "What?!"
+        ]
+      },
+      {
+        "key": "37:29",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Angelica—"
+        ]
+      },
+      {
+        "key": "37:30-31",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "All the way from London?!",
+          "Damn"
+        ]
+      },
+      {
+        "key": "37:32-33",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Angelica, thank God",
+          "Someone who understands what I’m struggling here to do"
+        ]
+      },
+      {
+        "key": "37:34",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I’m not here for you"
+        ]
+      },
+      {
+        "key": "37:35",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Oooooh!"
+        ]
+      },
+      {
+        "key": "37:36-43",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I know my sister like I know my own mind",
+          "You will never find anyone as trusting or as kind",
+          "I love my sister more than anything in this life",
+          "I will choose her happiness over mine every time",
+          "Put what we had aside",
+          "I’m standing at her side",
+          "You could never be satisfied",
+          "God, I hope you’re satisfied"
+        ]
+      },
+      {
+        "key": "37:44-47",
+        "char_ids": [
+          "10",
+          "11",
+          "1"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 아론 버",
+        "speaker_en": "Thomas Jefferson, James Madison, Aaron Burr",
+        "lines": [
+          "Well, he’s never gon’ be President now",
+          "Never gon’ be President now",
+          "Well, he’s never gon’ be President now",
+          "That’s one less thing to worry about."
+        ]
+      },
+      {
+        "key": "37:48-51",
+        "char_ids": [
+          "10",
+          "11"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Thomas Jefferson, James Madison",
+        "lines": [
+          "Hey!",
+          "At least he was honest with our money!",
+          "Hey!",
+          "At least he was honest with our money!"
+        ]
+      },
+      {
+        "key": "37:52-53",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "That’s one less thing to worry about!",
+          "The Reynolds Pamphlet"
+        ]
+      },
+      {
+        "key": "37:54-55",
+        "char_ids": [
+          "10",
+          "11",
+          "1"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 아론 버",
+        "speaker_en": "Thomas Jefferson, James Madison, Aaron Burr",
+        "lines": [
+          "Have you read this?",
+          "Did you ever see somebody ruin their own life?"
+        ]
+      },
+      {
+        "key": "37:56",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "His poor wife"
+        ]
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "act": 2,
+    "title": "Burn",
+    "title_kr": "불태워버려 (번)",
+    "file_rel_path": "act2/38_burn.md",
+    "characters_kr": [
+      "일라이자 스카일러"
+    ],
+    "characters_en": [
+      "Eliza Schuyler"
+    ],
+    "stanzas": [
+      {
+        "key": "38:1-54",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I saved every letter you wrote me",
+          "From the moment I read them",
+          "I knew you were mine",
+          "You said you were mine",
+          "I thought you were mine",
+          "Do you know what Angelica said",
+          "When we saw your first letter arrive?",
+          "She said",
+          "“Be careful with that one, love",
+          "He will do what it takes to survive.”",
+          "You and your words flooded my senses",
+          "Your sentences left me defenseless",
+          "You built me palaces out of paragraphs",
+          "You built cathedrals",
+          "I’m re-reading the letters you wrote me",
+          "I’m searching and scanning for answers",
+          "In every line",
+          "For some kind of sign",
+          "And when you were mine",
+          "The world seemed to",
+          "Burn",
+          "Burn",
+          "You published the letters she wrote you",
+          "You told the whole world how you brought",
+          "This girl into our bed",
+          "In clearing your name, you have ruined our lives",
+          "Do you know what Angelica said",
+          "When she read what you’d done?",
+          "She said",
+          "“You have married an Icarus",
+          "He has flown too close to the sun.”",
+          "You and your words, obsessed with your legacy...",
+          "Your sentences border on senseless",
+          "And you are paranoid in every paragraph",
+          "How they perceive you",
+          "You, you, you…",
+          "I’m erasing myself from the narrative",
+          "Let future historians wonder how Eliza",
+          "Reacted when you broke her heart",
+          "You have torn it all apart",
+          "I am watching it",
+          "Burn",
+          "Watching it burn",
+          "The world has no right to my heart",
+          "The world has no place in our bed",
+          "They don’t get to know what I said",
+          "I’m burning the memories",
+          "Burning the letters that might have redeemed you",
+          "You forfeit all rights to my heart",
+          "You forfeit the place in our bed",
+          "You sleep in your office instead",
+          "With only the memories",
+          "Of when you were mine",
+          "I hope that you burn"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1469 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Ex-Wives",
+    "title_kr": "전 부인들",
+    "file_rel_path": "songs/01_ex_wives.md",
+    "stanzas": [
+      {
+        "key": "1:1",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "Divorced"
+        ]
+      },
+      {
+        "key": "1:2",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Beheaded"
+        ]
+      },
+      {
+        "key": "1:3",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "Died"
+        ]
+      },
+      {
+        "key": "1:4",
+        "speaker_raw": "Anne Of Cleves:",
+        "speaker_kr": "클레페의 앤",
+        "speaker_en": "Anna of Cleves",
+        "lines": [
+          "Divorced"
+        ]
+      },
+      {
+        "key": "1:5",
+        "speaker_raw": "Katherine Howard:",
+        "speaker_kr": "캐서린 하워드",
+        "speaker_en": "Katherine Howard",
+        "lines": [
+          "Beheaded"
+        ]
+      },
+      {
+        "key": "1:6",
+        "speaker_raw": "Catherine Parr:",
+        "speaker_kr": "캐서린 파",
+        "speaker_en": "Catherine Parr",
+        "lines": [
+          "Survived"
+        ]
+      },
+      {
+        "key": "1:7",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "And tonight we are"
+        ]
+      },
+      {
+        "key": "1:8",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Live"
+        ]
+      },
+      {
+        "key": "1:9",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "Listen up, let me tell you a story"
+        ]
+      },
+      {
+        "key": "1:10",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "A story that you think",
+          "You've heard before"
+        ]
+      },
+      {
+        "key": "1:11",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "We know you know our names",
+          "And our fame and our faces"
+        ]
+      },
+      {
+        "key": "1:12",
+        "speaker_raw": "Anne Of Cleves:",
+        "speaker_kr": "클레페의 앤",
+        "speaker_en": "Anna of Cleves",
+        "lines": [
+          "Know all about the glories",
+          "And the disgraces"
+        ]
+      },
+      {
+        "key": "1:13",
+        "speaker_raw": "Katherine Howard:",
+        "speaker_kr": "캐서린 하워드",
+        "speaker_en": "Katherine Howard",
+        "lines": [
+          "I'm done 'cause all this time",
+          "I've been just one word",
+          "In a stupid rhyme"
+        ]
+      },
+      {
+        "key": "1:14",
+        "speaker_raw": "Catherine Parr:",
+        "speaker_kr": "캐서린 파",
+        "speaker_en": "Catherine Parr",
+        "lines": [
+          "So I picked up a pen and a microphone"
+        ]
+      },
+      {
+        "key": "1:15",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "History's about to get overthrown"
+        ]
+      },
+      {
+        "key": "1:16",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "Divorced"
+        ]
+      },
+      {
+        "key": "1:17",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Beheaded"
+        ]
+      },
+      {
+        "key": "1:18",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "Died"
+        ]
+      },
+      {
+        "key": "1:19",
+        "speaker_raw": "Anne Of Cleves:",
+        "speaker_kr": "클레페의 앤",
+        "speaker_en": "Anna of Cleves",
+        "lines": [
+          "Divorced"
+        ]
+      },
+      {
+        "key": "1:20",
+        "speaker_raw": "Katherine Howard:",
+        "speaker_kr": "캐서린 하워드",
+        "speaker_en": "Katherine Howard",
+        "lines": [
+          "Beheaded"
+        ]
+      },
+      {
+        "key": "1:21",
+        "speaker_raw": "Catherine Parr:",
+        "speaker_kr": "캐서린 파",
+        "speaker_en": "Catherine Parr",
+        "lines": [
+          "Survived"
+        ]
+      },
+      {
+        "key": "1:22",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "But just for you tonight",
+          "We're divorced, beheaded",
+          "LIVE!",
+          "Welcome to the show",
+          "To the historemix",
+          "Switching up the flow",
+          "As we add the prefix",
+          "Everybody knows that",
+          "We used to be six wives",
+          "Raising up the roof",
+          "Till we hit the ceiling",
+          "Get ready for the truth",
+          "That we'll be revealing",
+          "Everybody knows",
+          "That we used to be six wives",
+          "...but now we're ex-wives"
+        ]
+      },
+      {
+        "key": "1:23",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "All you ever hear",
+          "And read about"
+        ]
+      },
+      {
+        "key": "1:24",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Is our ex and the way it ended"
+        ]
+      },
+      {
+        "key": "1:25",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "But a pair doesn't beat a royal flush"
+        ]
+      },
+      {
+        "key": "1:26",
+        "speaker_raw": "Anne Of Cleves:",
+        "speaker_kr": "클레페의 앤",
+        "speaker_en": "Anna of Cleves",
+        "lines": [
+          "You're gonna find out",
+          "How we got unfriended"
+        ]
+      },
+      {
+        "key": "1:27",
+        "speaker_raw": "Katherine Howard:",
+        "speaker_kr": "캐서린 하워드",
+        "speaker_en": "Katherine Howard",
+        "lines": [
+          "Tonight we gonna do ourselves justice",
+          "'Cause we're taking you to court"
+        ]
+      },
+      {
+        "key": "1:28",
+        "speaker_raw": "Catherine Parr:",
+        "speaker_kr": "캐서린 파",
+        "speaker_en": "Catherine Parr",
+        "lines": [
+          "Every Tudor Rose has its thorns",
+          "And you're gonna hear 'em live in consort"
+        ]
+      },
+      {
+        "key": "1:29",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "Divorced"
+        ]
+      },
+      {
+        "key": "1:30",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Beheaded"
+        ]
+      },
+      {
+        "key": "1:31",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "Died"
+        ]
+      },
+      {
+        "key": "1:32",
+        "speaker_raw": "Anne Of Cleves:",
+        "speaker_kr": "클레페의 앤",
+        "speaker_en": "Anna of Cleves",
+        "lines": [
+          "Divorced"
+        ]
+      },
+      {
+        "key": "1:33",
+        "speaker_raw": "Katherine Howard:",
+        "speaker_kr": "캐서린 하워드",
+        "speaker_en": "Katherine Howard",
+        "lines": [
+          "Beheaded"
+        ]
+      },
+      {
+        "key": "1:34",
+        "speaker_raw": "Catherine Parr:",
+        "speaker_kr": "캐서린 파",
+        "speaker_en": "Catherine Parr",
+        "lines": [
+          "Survived"
+        ]
+      },
+      {
+        "key": "1:35",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "But just for you tonight",
+          "We're divorced, beheaded",
+          "Live!",
+          "Welcome to the show",
+          "To the historemix",
+          "Switching up the flow",
+          "As we add the prefix",
+          "Everybody knows that",
+          "We used to be six wives",
+          "Dancing to the beat",
+          "Till the break of day. Once",
+          "We're done, we'll start again",
+          "Like it's the Renaissance",
+          "Everybody knows",
+          "That we used to be six wives",
+          "...but now we're ex-wives",
+          "Divorced"
+        ]
+      },
+      {
+        "key": "1:36",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "My name is Catherine Of Aragon",
+          "Was married 24 years, I'm a paragon",
+          "Of royalty, my loyalty is to the Vatican",
+          "So if you try to dump me",
+          "You won't try that again"
+        ]
+      },
+      {
+        "key": "1:37",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Beheaded"
+        ]
+      },
+      {
+        "key": "1:38",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "I'm that Boleyn girl",
+          "And I'm up next, see",
+          "I broke England from the Church",
+          "Yeah, I'm that sexy",
+          "Why did I lose my head?",
+          "Well my sleeves may be green",
+          "But my lipstick's red!"
+        ]
+      },
+      {
+        "key": "1:39",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Died"
+        ]
+      },
+      {
+        "key": "1:40",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "Jane Seymour, the only one he truly loved"
+        ]
+      },
+      {
+        "key": "1:41",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Rude"
+        ]
+      },
+      {
+        "key": "1:42",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "When my son was newly born",
+          "I died, but I'm not what I seem",
+          "Or am I?",
+          "Stick around and you'll",
+          "Suddenly see more..."
+        ]
+      },
+      {
+        "key": "1:43",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Divorced"
+        ]
+      },
+      {
+        "key": "1:44",
+        "speaker_raw": "Anne Of Cleves:",
+        "speaker_kr": "클레페의 앤",
+        "speaker_en": "Anna of Cleves",
+        "lines": [
+          "Ich bin Anna of Cleves"
+        ]
+      },
+      {
+        "key": "1:45",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Ja"
+        ]
+      },
+      {
+        "key": "1:46",
+        "speaker_raw": "Anne Of Cleves:",
+        "speaker_kr": "클레페의 앤",
+        "speaker_en": "Anna of Cleves",
+        "lines": [
+          "When he saw my portrait he was like..."
+        ]
+      },
+      {
+        "key": "1:47",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Jaa"
+        ]
+      },
+      {
+        "key": "1:48",
+        "speaker_raw": "Anne Of Cleves:",
+        "speaker_kr": "클레페의 앤",
+        "speaker_en": "Anna of Cleves",
+        "lines": [
+          "But I didn't look as good",
+          "As I did in my pic",
+          "Funny how we all discuss that",
+          "But never Henry's little..."
+        ]
+      },
+      {
+        "key": "1:49",
+        "speaker_raw": "Katherine Howard:",
+        "speaker_kr": "캐서린 하워드",
+        "speaker_en": "Katherine Howard",
+        "lines": [
+          "Prick up your ears, I'm the Katherine",
+          "Who lost her head"
+        ]
+      },
+      {
+        "key": "1:50",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Beheaded"
+        ]
+      },
+      {
+        "key": "1:51",
+        "speaker_raw": "Katherine Howard:",
+        "speaker_kr": "캐서린 하워드",
+        "speaker_en": "Katherine Howard",
+        "lines": [
+          "For my promiscuity outside of wed",
+          "Lock up your husbands",
+          "Lock up your sons",
+          "K Howard is here",
+          "And the fun's begun"
+        ]
+      },
+      {
+        "key": "1:52",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Survived"
+        ]
+      },
+      {
+        "key": "1:53",
+        "speaker_raw": "Catherine Parr:",
+        "speaker_kr": "캐서린 파",
+        "speaker_en": "Catherine Parr",
+        "lines": [
+          "Five down, I'm the final wife",
+          "I saw him to the end of his life",
+          "I'm the survivor, Catherine Parr",
+          "I bet you wanna know how I got this far",
+          "I said I bet you wanna know",
+          "How we got this far"
+        ]
+      },
+      {
+        "key": "1:54",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Do you wanna know how we got this far?",
+          "Then welcome to the show",
+          "To the historemix",
+          "Switching up the flow",
+          "As we add the prefix",
+          "Everybody knows that",
+          "We used to be six wives",
+          "Get your hands up",
+          "Get this party buzzing",
+          "You want a queen Bee",
+          "Well there's half a dozen",
+          "Everybody knows that",
+          "We used to be six wives",
+          "But now we're ex-wives!",
+          "One",
+          "Two",
+          "Three",
+          "Four",
+          "Five",
+          "SIX!",
+          "Last Update: March, 18th 2025"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "title": "Ex-Wives (Reprise)",
+    "title_kr": "전 부인들 (리프라이즈)",
+    "file_rel_path": "songs/02_ex_wives_reprise.md",
+    "stanzas": [
+      {
+        "key": "2:1",
+        "speaker_raw": "All",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Moment in the show: Immediately after the full “Ex-Wives,” just before “No Way”",
+          "What it does onstage: A 30-second recap and hand-off to Aragon’s solo",
+          "Why it never made the cast album: Too short (under 40 s) to justify a studio cut"
+        ]
+      },
+      {
+        "key": "2:2",
+        "speaker_raw": "ALL",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "Welcome to the show",
+          "To the coronation",
+          "Who will take the crown",
+          "Be the pop sensation?",
+          "Everybody knows that?we?used to be?six wives (Six wives)",
+          "Six wives (Six?wives)",
+          "Six wives",
+          "Last Update: June, 29th 2025"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "title": "No Way",
+    "title_kr": "어림없지",
+    "file_rel_path": "songs/03_no_way.md",
+    "stanzas": [
+      {
+        "key": "3:1",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "(No no no no no no no way)",
+          "There's no way",
+          "You must agree that baby",
+          "In all the time I've been by your side",
+          "I've never lost control",
+          "No matter how many times I knew you lied",
+          "Have my golden rule",
+          "Got to keep my cool",
+          "Yeah, baby"
+        ]
+      },
+      {
+        "key": "3:2",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "You know she's got to keep her cool"
+        ]
+      },
+      {
+        "key": "3:3",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "And even though you've had your fun",
+          "Running around with some pretty young thing",
+          "And even though you've had one son",
+          "With someone who don't own a wedding ring",
+          "No matter what I heard",
+          "I didn't say a word, no, baby"
+        ]
+      },
+      {
+        "key": "3:4",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "You know she never said a word"
+        ]
+      },
+      {
+        "key": "3:5",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "I put up with your sh...",
+          "Like every single day",
+          "But now it's time to shh",
+          "And listen when I say",
+          "You must think that I'm crazy",
+          "You wanna replace me baby",
+          "There's no no no no no no no way",
+          "If you think for a moment",
+          "I'd grant you annulment, just hold up",
+          "There's no no no no no no no way",
+          "No way",
+          "No way",
+          "There's no no no no no no no way",
+          "No way",
+          "No way",
+          "There's no no no no no no no way",
+          "There's no way",
+          "So you read a bible verse that I'm cursed",
+          "'Cause I was your brothers wife",
+          "You say it's a pity 'cause quoting leviticus",
+          "I'll end up kiddy-less all my life",
+          "Well daddy weren't you there",
+          "When I gave birth to Mary? aw hi baby"
+        ]
+      },
+      {
+        "key": "3:6",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Daughters are so easy to forget"
+        ]
+      },
+      {
+        "key": "3:7",
+        "speaker_raw": "Catherine Of Aragon:",
+        "speaker_kr": "아라곤의 캐서린",
+        "speaker_en": "Catherine of Aragon",
+        "lines": [
+          "You're just so full of sh...",
+          "Must think that I'm naïve",
+          "I won't back down won't shh",
+          "And no I'll never leave",
+          "You must think that I'm crazy",
+          "You wanna replace me baby",
+          "There's no no no no no no no way",
+          "If you thought it'd be funny to",
+          "Send me to a nunnery, honey there's no way",
+          "No way",
+          "No way",
+          "There's no no no no no no no way",
+          "No way",
+          "No way",
+          "There's no no no no no no no way",
+          "There's no way",
+          "Hey",
+          "(Woo)",
+          "(Let's go)",
+          "(Woo)",
+          "(Here we go)",
+          "You've got me down on my knees",
+          "Please tell me what you think I've done wrong",
+          "Been humble, been loyal, I've tried",
+          "To swallow my pride all along",
+          "If you can just explain",
+          "A single thing I've done to cause you pain, I'll go",
+          "No?",
+          "You've got nothing to say",
+          "I'm not going away",
+          "There's no way",
+          "You must think that I'm crazy",
+          "You wanna replace me baby",
+          "There's no no no no no no no way",
+          "You made me your wife",
+          "So I'll be queen to the end of my life",
+          "No no no no no no no way",
+          "No way",
+          "No way",
+          "No no no no nope no nope no nope no no",
+          "No way",
+          "No way",
+          "There's no no no no no no no no no no no no no no no way",
+          "There's no way",
+          "Last Update: June, 24th 2025"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "title": "Don't Lose Ur Head",
+    "title_kr": "목 조심해 (멘탈 잡아)",
+    "file_rel_path": "songs/04_dont_lose_ur_head.md",
+    "stanzas": [
+      {
+        "key": "4:1",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Grew up in the French court",
+          "Oui oui bonjour",
+          "Life was a chore",
+          "So"
+        ]
+      },
+      {
+        "key": "4:2",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "She set sail"
+        ]
+      },
+      {
+        "key": "4:3",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "1522 came straight to the UK",
+          "All the British dudes lame"
+        ]
+      },
+      {
+        "key": "4:4",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Epic fail!",
+          "Ooh"
+        ]
+      },
+      {
+        "key": "4:5",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "I wanna dance and sing"
+        ]
+      },
+      {
+        "key": "4:6",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Politics"
+        ]
+      },
+      {
+        "key": "4:7",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Not my thing"
+        ]
+      },
+      {
+        "key": "4:8",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Ooh"
+        ]
+      },
+      {
+        "key": "4:9",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "But then I met the king",
+          "And soon my daddy said",
+          "\"You should try and get ahead!\"",
+          "He wanted me, obviously",
+          "Messaging me like every day",
+          "Couldn't be better then he sent me a letter",
+          "And who am I kidding",
+          "I was prêt à manger"
+        ]
+      },
+      {
+        "key": "4:10",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Ooh"
+        ]
+      },
+      {
+        "key": "4:11",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Sent a reply"
+        ]
+      },
+      {
+        "key": "4:12",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Ooh"
+        ]
+      },
+      {
+        "key": "4:13",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Just saying 'Hi'"
+        ]
+      },
+      {
+        "key": "4:14",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Ooh"
+        ]
+      },
+      {
+        "key": "4:15",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "'You're a nice guy",
+          "I'll think about it maybe",
+          "XO baby'"
+        ]
+      },
+      {
+        "key": "4:16",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Uh oh"
+        ]
+      },
+      {
+        "key": "4:17",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Here we go"
+        ]
+      },
+      {
+        "key": "4:18",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "You sent him kisses"
+        ]
+      },
+      {
+        "key": "4:19",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "I didn't know I would move in with his missus"
+        ]
+      },
+      {
+        "key": "4:20",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "What?!"
+        ]
+      },
+      {
+        "key": "4:21",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Get a life!"
+        ]
+      },
+      {
+        "key": "4:22",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "You're living with his wife"
+        ]
+      },
+      {
+        "key": "4:23",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Like, what was I meant to do?",
+          "Sorry, not sorry 'bout what I said",
+          "I'm just trying to have some fun",
+          "Don't worry, don't worry",
+          "Don't lose your head",
+          "I didn't mean to hurt anyone",
+          "LOL Say 'Oh, well!'",
+          "Or go to hell!",
+          "I'm sorry, not sorry 'bout what I said",
+          "Don't lose your head",
+          "Three in the bed",
+          "And the little one said",
+          "\"If you wanna be wed",
+          "Make up your mind!\"",
+          "Her or me, chum",
+          "Don't wanna be some",
+          "Girl in a threesome",
+          "Are you blind?"
+        ]
+      },
+      {
+        "key": "4:24",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Ooh"
+        ]
+      },
+      {
+        "key": "4:25",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Don't be bitter"
+        ]
+      },
+      {
+        "key": "4:26",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Ooh"
+        ]
+      },
+      {
+        "key": "4:27",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "'Cause I'm fitter"
+        ]
+      },
+      {
+        "key": "4:28",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Ooh"
+        ]
+      },
+      {
+        "key": "4:29",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Why hasn't it hit her?",
+          "He doesn't wanna bang you",
+          "Somebody hang you"
+        ]
+      },
+      {
+        "key": "4:30",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Uh oh"
+        ]
+      },
+      {
+        "key": "4:31",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Here we go"
+        ]
+      },
+      {
+        "key": "4:32",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Your comment went viral"
+        ]
+      },
+      {
+        "key": "4:33",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "I didn't really mean it",
+          "But rumours spiral"
+        ]
+      },
+      {
+        "key": "4:34",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Wow Anne, way to make the country hate you!"
+        ]
+      },
+      {
+        "key": "4:35",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Mate, what was I meant to do?",
+          "Sorry, not sorry about what I said",
+          "I'm just trying to have some fun",
+          "Don't worry, don't worry",
+          "Don't lose your head",
+          "I didn't mean to hurt anyone",
+          "LOL Say 'Oh, well!'",
+          "Or go to hell!",
+          "I'm sorry, not sorry 'bout what I said",
+          "Don't lose your head",
+          "Tried to elope",
+          "But the Pope said 'Nope!'",
+          "Our only hope was Henry",
+          "He got a promotion",
+          "Caused a commotion",
+          "Set in motion the C of E"
+        ]
+      },
+      {
+        "key": "4:36",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "The rules"
+        ]
+      },
+      {
+        "key": "4:37",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Were so outdated",
+          "Us two wanted to get X-rated"
+        ]
+      },
+      {
+        "key": "4:38",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Soon",
+          "Excommunicated"
+        ]
+      },
+      {
+        "key": "4:39",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Everybody chill",
+          "It's totes God's will",
+          "Henry's out every night on the town",
+          "Just sleeping around like \"What the hell?\"",
+          "If that's how it's gonna be",
+          "Maybe I'll flirt with a guy or three",
+          "Just to make him jel",
+          "Henry finds out and he goes mental",
+          "He screams and shouts like",
+          "So judgemental!",
+          "You damned witch",
+          "Mate, just shut up!",
+          "I wouldn't be such a b...",
+          "If you could get it up"
+        ]
+      },
+      {
+        "key": "4:40",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Uh oh"
+        ]
+      },
+      {
+        "key": "4:41",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Here we go"
+        ]
+      },
+      {
+        "key": "4:42",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Is that what you said?"
+        ]
+      },
+      {
+        "key": "4:43",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "And now he's going 'round like",
+          "\"Off with her head!\""
+        ]
+      },
+      {
+        "key": "4:44",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "No!"
+        ]
+      },
+      {
+        "key": "4:45",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Yeah, I'm pretty sure he means it"
+        ]
+      },
+      {
+        "key": "4:46",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Seems it"
+        ]
+      },
+      {
+        "key": "4:47",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "What was I meant to do?"
+        ]
+      },
+      {
+        "key": "4:48",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "What was she meant to do?"
+        ]
+      },
+      {
+        "key": "4:49",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Like, what was I meant to do?"
+        ]
+      },
+      {
+        "key": "4:50",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "What was she meant to do?"
+        ]
+      },
+      {
+        "key": "4:51",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "No, but what was I meant to do?",
+          "Sorry, not sorry about what I said",
+          "I'm just trying to have some fun",
+          "Don't worry, don't worry",
+          "Don't lose your head",
+          "I didn't mean to hurt anyone",
+          "LOL Say 'Oh, well!'",
+          "Or go to hell!"
+        ]
+      },
+      {
+        "key": "4:52",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Just go to hell!"
+        ]
+      },
+      {
+        "key": "4:53",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Sorry, not sorry about what I said"
+        ]
+      },
+      {
+        "key": "4:54",
+        "speaker_raw": "Ensemble:",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Sorry, not sorry about what she said"
+        ]
+      },
+      {
+        "key": "4:55",
+        "speaker_raw": "Anne Boleyn:",
+        "speaker_kr": "앤 불린",
+        "speaker_en": "Anne Boleyn",
+        "lines": [
+          "Sorry, not sorry about what I said",
+          "Don't lose your head",
+          "Last Update: March, 18th 2025"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "title": "Heart of Stone",
+    "title_kr": "돌 같은 심장 (변치 않는 사랑)",
+    "file_rel_path": "songs/05_heart_of_stone.md",
+    "stanzas": [
+      {
+        "key": "5:1",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "You've got a good heart",
+          "But I know it changes",
+          "A restless tide, untameable",
+          "You came my way",
+          "And I knew a storm could come too",
+          "You'd lift me high, or let me fall",
+          "But I took your hand",
+          "Promised I'd withstand",
+          "Any blaze you blew my way",
+          "'Cause something inside",
+          "It solidified",
+          "And I knew I'd always stay",
+          "You can build me up",
+          "You can tear me down",
+          "You can try but I'm unbreakable",
+          "You can do your best",
+          "But I'll stand the test",
+          "You'll find that I'm unshakable",
+          "When the fire's burnt",
+          "When the wind has blown",
+          "When the water's dried",
+          "You'll still find stone",
+          "My heart of stone",
+          "You say we're perfect",
+          "A perfect family",
+          "You hold us close for the world to see",
+          "And when I say you're the only one I've ever loved",
+          "I mean those words truthfully",
+          "But I know, without my son",
+          "Your love could disappear",
+          "And though it isn't fair",
+          "But I don't care",
+          "'Cause my love will still be here",
+          "You can build me up",
+          "You can tear me down",
+          "You can try but I'm unbreakable",
+          "You can do your best",
+          "But I'll stand the test",
+          "You'll find that I'm unshakable",
+          "When the fire's burnt",
+          "When the wind has blown",
+          "When the water's dried",
+          "You'll still find stone",
+          "My heart of stone",
+          "Soon I'll have to go",
+          "I'll never see him grow",
+          "But I hope my son will know",
+          "He'll never be alone",
+          "'Cause like a river runs dry",
+          "And leaves its scars behind",
+          "I'll be by your side",
+          "'Cause my love is set in stone",
+          "Yeah"
+        ]
+      },
+      {
+        "key": "5:2",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "You can build me up",
+          "You can tear me down",
+          "You can try but I'm unbreakable",
+          "You can do your best",
+          "But I'll stand the test",
+          "You'll find that I'm unshakable",
+          "The fire's burnt",
+          "The wind has blown",
+          "The water's dried"
+        ]
+      },
+      {
+        "key": "5:3",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "You'll still find stone",
+          "My heart of stone"
+        ]
+      },
+      {
+        "key": "5:4",
+        "speaker_raw": "All:",
+        "speaker_kr": "여섯 왕비 전원",
+        "speaker_en": "All Queens",
+        "lines": [
+          "You can build me up",
+          "You can tear me down",
+          "You can try but I'm unbreakable",
+          "You can do your best",
+          "But I'll stand the test",
+          "You'll find that I'm unshakable",
+          "The fire's burnt",
+          "The wind has blown",
+          "The water's dried"
+        ]
+      },
+      {
+        "key": "5:5",
+        "speaker_raw": "Jane Seymour:",
+        "speaker_kr": "제인 시모어",
+        "speaker_en": "Jane Seymour",
+        "lines": [
+          "You'll still find stone",
+          "My heart of stone",
+          "Last Update: June, 24th 2025"
+        ]
+      }
+    ]
+  }
+}

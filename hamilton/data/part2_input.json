@@ -1,0 +1,3398 @@
+{
+  "9": {
+    "id": 9,
+    "act": 1,
+    "title": "A Winter's Ball",
+    "title_kr": "어느 겨울날의 무도회",
+    "file_rel_path": "act1/09_a_winters_ball.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "남성 앙상블",
+      "앙상블 전체",
+      "아론 버"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Men",
+      "Company",
+      "Aaron Burr"
+    ],
+    "stanzas": [
+      {
+        "key": "9:1-8",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "How does the bastard, orphan, son of a whore go on and on",
+          "Grow into more of a phenomenon?",
+          "Watch this obnoxious, arrogant, loudmouth bother",
+          "Be seated at the right hand of the father",
+          "Washington hires Hamilton right on sight",
+          "But Hamilton still wants to fight, not write",
+          "Now Hamilton’s skill with a quill is undeniable",
+          "But what do we have in common? We’re reliable with the"
+        ]
+      },
+      {
+        "key": "9:9",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Ladies!"
+        ]
+      },
+      {
+        "key": "9:10",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "There are so many to deflower!"
+        ]
+      },
+      {
+        "key": "9:11",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Ladies!"
+        ]
+      },
+      {
+        "key": "9:12",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Looks! Proximity to power"
+        ]
+      },
+      {
+        "key": "9:13",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Ladies!"
+        ]
+      },
+      {
+        "key": "9:14-15",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "They delighted and distracted him",
+          "Martha Washington named her feral tomcat after him!"
+        ]
+      },
+      {
+        "key": "9:16",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "That’s true!"
+        ]
+      },
+      {
+        "key": "9:17",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "1780"
+        ]
+      },
+      {
+        "key": "9:18-19",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "A winter’s ball",
+          "And the Schuyler sisters are the envy of all"
+        ]
+      },
+      {
+        "key": "9:20",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Yo, if you can marry a sister, you’re rich, son"
+        ]
+      },
+      {
+        "key": "9:21",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Is it a question of if, Burr, or which one?"
+        ]
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "act": 1,
+    "title": "Helpless",
+    "title_kr": "어쩔 줄을 모르겠어 (헬프리스)",
+    "file_rel_path": "act1/10_helpless.md",
+    "characters_kr": [
+      "여성 앙상블",
+      "아론 버",
+      "존 로런스",
+      "안젤리카 스카일러",
+      "알렉산더 해밀턴",
+      "일라이자 스카일러"
+    ],
+    "characters_en": [
+      "Women",
+      "Aaron Burr",
+      "John Laurens",
+      "Angelica Schuyler",
+      "Alexander Hamilton",
+      "Eliza Schuyler"
+    ],
+    "stanzas": [
+      {
+        "key": "10:1-3",
+        "char_ids": [
+          "2",
+          "1",
+          "4"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 아론 버, 존 로런스",
+        "speaker_en": "Alexander Hamilton, Aaron Burr, John Laurens",
+        "lines": [
+          "Hey",
+          "Hey",
+          "Hey hey"
+        ]
+      },
+      {
+        "key": "10:4",
+        "char_ids": [
+          "2",
+          "1",
+          "4",
+          "21"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 아론 버, 존 로런스, 여성 앙상블",
+        "speaker_en": "Alexander Hamilton, Aaron Burr, John Laurens, Women",
+        "lines": [
+          "Hey hey hey hey"
+        ]
+      },
+      {
+        "key": "10:5-8",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Ohh, I do I do I do I",
+          "Dooo! Hey!",
+          "Ohh, I do I do I do I",
+          "Dooo! Boy you got me"
+        ]
+      },
+      {
+        "key": "10:9-11",
+        "char_ids": [
+          "7",
+          "21"
+        ],
+        "speaker_kr": "일라이자 스카일러, 여성 앙상블",
+        "speaker_en": "Eliza Schuyler, Women",
+        "lines": [
+          "Helpless!",
+          "Look into your eyes, and the sky’s the limit I’m helpless!",
+          "Down for the count, and I’m drownin’ in ‘em"
+        ]
+      },
+      {
+        "key": "10:12-17",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I have never been the type to try and grab the spotlight",
+          "We were at a revel with some rebels on a hot night",
+          "Laughin’ at my sister as she’s dazzling the room",
+          "Then you walked in and my heart went “Boom!”",
+          "Tryin’ to catch your eye from the side of the ballroom",
+          "Everybody’s dancin’ and the band’s top volume"
+        ]
+      },
+      {
+        "key": "10:18",
+        "char_ids": [
+          "7",
+          "21"
+        ],
+        "speaker_kr": "일라이자 스카일러, 여성 앙상블",
+        "speaker_en": "Eliza Schuyler, Women",
+        "lines": [
+          "Grind to the rhythm as we wine and dine"
+        ]
+      },
+      {
+        "key": "10:19-31",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Grab my sister, and whisper, “Yo, this one’s mine.”",
+          "My sister made her way across the room to you",
+          "And I got nervous, thinking “What’s she gonna do?”",
+          "She grabbed you by the arm, I’m thinkin’ “I’m through”",
+          "Then you look back at me and suddenly I’m helpless!",
+          "Oh, look at those eyes",
+          "Oh!",
+          "Yeah, I’m",
+          "Helpless, I know",
+          "I’m so into you",
+          "I am so into you",
+          "I know I’m down for the count",
+          "And I’m drownin’ in ‘em."
+        ]
+      },
+      {
+        "key": "10:32",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Where are you taking me?"
+        ]
+      },
+      {
+        "key": "10:33",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I’m about to change your life"
+        ]
+      },
+      {
+        "key": "10:34",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Then by all means, lead the way"
+        ]
+      },
+      {
+        "key": "10:35",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Elizabeth Schuyler. It’s a pleasure to meet you"
+        ]
+      },
+      {
+        "key": "10:36",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Schuyler?"
+        ]
+      },
+      {
+        "key": "10:37",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "My sister"
+        ]
+      },
+      {
+        "key": "10:38",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Thank you for all your service"
+        ]
+      },
+      {
+        "key": "10:39",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "If it takes fighting a war for us to meet, it will have been worth it"
+        ]
+      },
+      {
+        "key": "10:40",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I’ll leave you to it"
+        ]
+      },
+      {
+        "key": "10:41",
+        "char_ids": [
+          "7",
+          "21"
+        ],
+        "speaker_kr": "일라이자 스카일러, 여성 앙상블",
+        "speaker_en": "Eliza Schuyler, Women",
+        "lines": [
+          "One week later"
+        ]
+      },
+      {
+        "key": "10:42-44",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I’m writin’ a letter nightly",
+          "Now my life gets better, every letter that you write me",
+          "Laughin’ at my sister, cuz she wants to form a harem"
+        ]
+      },
+      {
+        "key": "10:45",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I’m just sayin’, if you really loved me, you would share him"
+        ]
+      },
+      {
+        "key": "10:46-67",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Ha!",
+          "Two weeks later",
+          "In the living room stressin’",
+          "My father’s stone-faced",
+          "While you’re asking for his blessin’",
+          "I’m dying inside, as you wine",
+          "And dine",
+          "And I’m tryin’ not to cry ‘cause",
+          "There’s nothing that your mind can’t do",
+          "My father makes his way across the room to you",
+          "I panic for a second, thinking, “We’re through”",
+          "But then he shakes your hand and says",
+          "“Be true”",
+          "And you turn back to me, smiling, and I’m",
+          "Helpless!",
+          "Helpless!",
+          "Hoo!",
+          "That boy is mine",
+          "That boy is mine!",
+          "Helpless! Helpless!",
+          "Down for the count",
+          "And I’m drownin’ in em"
+        ]
+      },
+      {
+        "key": "10:68-83",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Eliza, I don’t have a dollar to my name",
+          "An acre of land, a troop to command, a dollop of fame",
+          "All I have’s my honor, a tolerance for pain",
+          "A couple of college credits and my top-notch brain",
+          "Insane, your family brings out a different side of me",
+          "Peggy confides in me, Angelica tried to take a bite of me",
+          "No stress, my love for you is never in doubt",
+          "We’ll get a little place in Harlem and we’ll figure it out",
+          "I’ve been livin’ without a family since I was a child",
+          "My father left, my mother died, I grew up buckwild",
+          "But I’ll never forget my mother’s face, that was real",
+          "And long as I’m alive, Eliza, swear to God",
+          "You’ll never feel so…",
+          "Eliza…",
+          "I’ve never felt so—",
+          "My life is gon’ be fine cuz Eliza’s in it."
+        ]
+      },
+      {
+        "key": "10:84-86",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "In New York, you can be a new man…",
+          "In New York, you can be a new man…",
+          "In New York, you can be a new man…"
+        ]
+      },
+      {
+        "key": "10:87",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Helpless"
+        ]
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "act": 1,
+    "title": "Satisfied",
+    "title_kr": "결코 만족할 수 없어 (새티스파이드)",
+    "file_rel_path": "act1/11_satisfied.md",
+    "characters_kr": [
+      "존 로런스",
+      "앙상블 전체",
+      "안젤리카 스카일러",
+      "알렉산더 해밀턴",
+      "일라이자 스카일러"
+    ],
+    "characters_en": [
+      "John Laurens",
+      "Company",
+      "Angelica Schuyler",
+      "Alexander Hamilton",
+      "Eliza Schuyler"
+    ],
+    "stanzas": [
+      {
+        "key": "11:1-3",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "Alright, alright. That’s what I’m talkin’ about!",
+          "Now everyone give it up for the maid of honor",
+          "Angelica Schuyler!"
+        ]
+      },
+      {
+        "key": "11:4-23",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "A toast to the groom!",
+          "To the bride!",
+          "From your sister",
+          "Who is always by your side",
+          "To your union",
+          "And the hope that you provide",
+          "May you always…",
+          "Be satisfied",
+          "I remember that night, I just might",
+          "Regret that night for the rest of my days",
+          "I remember those soldier boys",
+          "Tripping over themselves to win our praise",
+          "I remember that dreamlike candlelight",
+          "Like a dream that you can’t quite place",
+          "But Alexander, I’ll never forget the first",
+          "Time I saw your face",
+          "I have never been the same",
+          "Intelligent eyes in a hunger-pang frame",
+          "And when you said “Hi,” I forgot my dang name",
+          "Set my heart aflame, ev’ry part aflame"
+        ]
+      },
+      {
+        "key": "11:24",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "This is not a game…"
+        ]
+      },
+      {
+        "key": "11:25",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You strike me as a woman who has never been satisfied"
+        ]
+      },
+      {
+        "key": "11:26",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I’m sure I don’t know what you mean. You forget yourself"
+        ]
+      },
+      {
+        "key": "11:27",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You’re like me. I’m never satisfied"
+        ]
+      },
+      {
+        "key": "11:28",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "Is that right?"
+        ]
+      },
+      {
+        "key": "11:29",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I have never been satisfied"
+        ]
+      },
+      {
+        "key": "11:30",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "My name is Angelica Schuyler"
+        ]
+      },
+      {
+        "key": "11:31",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Alexander Hamilton"
+        ]
+      },
+      {
+        "key": "11:32",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "Where’s your fam’ly from?"
+        ]
+      },
+      {
+        "key": "11:33-34",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Unimportant. There’s a million things I haven’t done but",
+          "Just you wait, just you wait…"
+        ]
+      },
+      {
+        "key": "11:35-51",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "So so so—",
+          "So this is what it feels like to match wits",
+          "With someone at your level! What the hell is the catch? It’s",
+          "The feeling of freedom, of seein’ the light",
+          "It’s Ben Franklin with a key and a kite! You see it, right?",
+          "The conversation lasted two minutes, maybe three minutes",
+          "Ev’rything we said in total agreement, it’s",
+          "A dream and it’s a bit of a dance",
+          "A bit of a posture, it’s a bit of a stance. He’s a",
+          "Bit of a flirt, but I’m ‘a give it a chance",
+          "I asked about his fam’ly, did you see his answer?",
+          "His hands started fidgeting, he looked askance?",
+          "He’s penniless, he’s flying by the seat of his pants",
+          "Handsome, boy, does he know it!",
+          "Peach fuzz, and he can’t even grow it!",
+          "I wanna take him far away from this place",
+          "Then I turn and see my sister’s face and she is…"
+        ]
+      },
+      {
+        "key": "11:52",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Helpless…"
+        ]
+      },
+      {
+        "key": "11:53",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "And I know she is…"
+        ]
+      },
+      {
+        "key": "11:54",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Helpless…"
+        ]
+      },
+      {
+        "key": "11:55",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "And her eyes are just…"
+        ]
+      },
+      {
+        "key": "11:56",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Helpless…"
+        ]
+      },
+      {
+        "key": "11:57",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "And I realize"
+        ]
+      },
+      {
+        "key": "11:58",
+        "char_ids": [
+          "8",
+          "24"
+        ],
+        "speaker_kr": "안젤리카 스카일러, 앙상블 전체",
+        "speaker_en": "Angelica Schuyler, Company",
+        "lines": [
+          "Three fundamental truths at the exact same time…"
+        ]
+      },
+      {
+        "key": "11:59",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Where are you taking me?"
+        ]
+      },
+      {
+        "key": "11:60",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I’m about to change your life"
+        ]
+      },
+      {
+        "key": "11:61",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Then by all means, lead the way"
+        ]
+      },
+      {
+        "key": "11:62",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number one!"
+        ]
+      },
+      {
+        "key": "11:63-70",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I’m a girl in a world in which",
+          "My only job is to marry rich",
+          "My father has no sons so I’m the one",
+          "Who has to social climb for one",
+          "So I’m the oldest and the wittiest and the gossip in",
+          "New York City is insidious",
+          "And Alexander is penniless",
+          "Ha! That doesn’t mean I want him any less"
+        ]
+      },
+      {
+        "key": "11:71",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Elizabeth Schuyler. It’s a pleasure to meet you"
+        ]
+      },
+      {
+        "key": "11:72",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Schuyler?"
+        ]
+      },
+      {
+        "key": "11:73",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "My sister"
+        ]
+      },
+      {
+        "key": "11:74",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number two!"
+        ]
+      },
+      {
+        "key": "11:75-81",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "He’s after me cuz I’m a Schuyler sister",
+          "That elevates his status, I’d",
+          "Have to be naïve to set that aside",
+          "Maybe that is why I introduce him to Eliza",
+          "Now that’s his bride",
+          "Nice going, Angelica, he was right",
+          "You will never be satisfied"
+        ]
+      },
+      {
+        "key": "11:82",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Thank you for all your service"
+        ]
+      },
+      {
+        "key": "11:83",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "If it takes fighting a war for us to meet, it will have been worth it"
+        ]
+      },
+      {
+        "key": "11:84",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I’ll leave you to it"
+        ]
+      },
+      {
+        "key": "11:85",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number three!"
+        ]
+      },
+      {
+        "key": "11:86-90",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I know my sister like I know my own mind",
+          "You will never find anyone as trusting or as kind",
+          "If I tell her that I love him she’d be silently resigned",
+          "He’d be mine",
+          "She would say, “I’m fine”"
+        ]
+      },
+      {
+        "key": "11:91",
+        "char_ids": [
+          "8",
+          "24"
+        ],
+        "speaker_kr": "안젤리카 스카일러, 앙상블 전체",
+        "speaker_en": "Angelica Schuyler, Company",
+        "lines": [
+          "She’d be lying"
+        ]
+      },
+      {
+        "key": "11:92-111",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "But when I fantasize at night",
+          "It’s Alexander’s eyes",
+          "As I romanticize what might",
+          "Have been if I hadn’t sized him",
+          "Up so quickly",
+          "At least my dear Eliza’s his wife;",
+          "At least I keep his eyes in my life…",
+          "To the groom!",
+          "To the bride!",
+          "From your sister",
+          "Who is always by your side",
+          "To your union",
+          "And the hope that you provide",
+          "May you always",
+          "Be satisfied",
+          "And I know",
+          "She’ll be happy as his bride",
+          "And I know",
+          "He will never be satisfied",
+          "I will never be satisfied"
+        ]
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "act": 1,
+    "title": "The Story of Tonight (Reprise)",
+    "title_kr": "오늘 밤의 이야기 (리프라이즈)",
+    "file_rel_path": "act1/12_the_story_of_tonight_reprise.md",
+    "characters_kr": [
+      "아론 버",
+      "허큘리스 멀리건",
+      "존 로런스",
+      "마르키 드 라파예트",
+      "알렉산더 해밀턴"
+    ],
+    "characters_en": [
+      "Aaron Burr",
+      "Hercules Mulligan",
+      "John Laurens",
+      "Marquis de Lafayette",
+      "Alexander Hamilton"
+    ],
+    "stanzas": [
+      {
+        "key": "12:1",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "I may not live to see our glory!"
+        ]
+      },
+      {
+        "key": "12:2",
+        "char_ids": [
+          "6",
+          "5"
+        ],
+        "speaker_kr": "허큘리스 멀리건, 마르키 드 라파예트",
+        "speaker_en": "Hercules Mulligan, Marquis de Lafayette",
+        "lines": [
+          "I may not live to see our glory!"
+        ]
+      },
+      {
+        "key": "12:3",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "But I’ve seen wonders great and small"
+        ]
+      },
+      {
+        "key": "12:4",
+        "char_ids": [
+          "6",
+          "5"
+        ],
+        "speaker_kr": "허큘리스 멀리건, 마르키 드 라파예트",
+        "speaker_en": "Hercules Mulligan, Marquis de Lafayette",
+        "lines": [
+          "I’ve seen wonders great and small"
+        ]
+      },
+      {
+        "key": "12:5",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "‘Cause if the tomcat can get married"
+        ]
+      },
+      {
+        "key": "12:6",
+        "char_ids": [
+          "6",
+          "5"
+        ],
+        "speaker_kr": "허큘리스 멀리건, 마르키 드 라파예트",
+        "speaker_en": "Hercules Mulligan, Marquis de Lafayette",
+        "lines": [
+          "If Alexander can get married—"
+        ]
+      },
+      {
+        "key": "12:7",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "There’s hope for our ass, after all!"
+        ]
+      },
+      {
+        "key": "12:8",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Raise a glass to freedom"
+        ]
+      },
+      {
+        "key": "12:9-10",
+        "char_ids": [
+          "4",
+          "6"
+        ],
+        "speaker_kr": "존 로런스, 허큘리스 멀리건",
+        "speaker_en": "John Laurens, Hercules Mulligan",
+        "lines": [
+          "Hey!",
+          "Something you will never see again!"
+        ]
+      },
+      {
+        "key": "12:11",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "No matter what she tells you"
+        ]
+      },
+      {
+        "key": "12:12",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Let’s have another round tonight!"
+        ]
+      },
+      {
+        "key": "12:13",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "Raise a glass to the four of us!"
+        ]
+      },
+      {
+        "key": "12:14",
+        "char_ids": [
+          "5",
+          "2"
+        ],
+        "speaker_kr": "마르키 드 라파예트, 알렉산더 해밀턴",
+        "speaker_en": "Marquis de Lafayette, Alexander Hamilton",
+        "lines": [
+          "Ho!"
+        ]
+      },
+      {
+        "key": "12:15",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "To the newly not poor of us!"
+        ]
+      },
+      {
+        "key": "12:16",
+        "char_ids": [
+          "2",
+          "4",
+          "5"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 존 로런스, 마르키 드 라파예트",
+        "speaker_en": "Alexander Hamilton, John Laurens, Marquis de Lafayette",
+        "lines": [
+          "Woo!"
+        ]
+      },
+      {
+        "key": "12:17",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "We’ll tell the story of tonight"
+        ]
+      },
+      {
+        "key": "12:18",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "Let’s have another round—"
+        ]
+      },
+      {
+        "key": "12:19",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Well, if it isn’t Aaron Burr"
+        ]
+      },
+      {
+        "key": "12:20",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Sir"
+        ]
+      },
+      {
+        "key": "12:21",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I didn’t think that you would make it"
+        ]
+      },
+      {
+        "key": "12:22",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "To be sure"
+        ]
+      },
+      {
+        "key": "12:23",
+        "char_ids": [
+          "6",
+          "5"
+        ],
+        "speaker_kr": "허큘리스 멀리건, 마르키 드 라파예트",
+        "speaker_en": "Hercules Mulligan, Marquis de Lafayette",
+        "lines": [
+          "Burr!"
+        ]
+      },
+      {
+        "key": "12:24",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I came to say congratulations"
+        ]
+      },
+      {
+        "key": "12:25",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "Spit a verse, Burr!"
+        ]
+      },
+      {
+        "key": "12:26",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I see the whole gang is here"
+        ]
+      },
+      {
+        "key": "12:27",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "You are the worst, Burr!"
+        ]
+      },
+      {
+        "key": "12:28-29",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Ignore them. Congrats to you, Lieutenant Colonel",
+          "I wish I had your command instead of manning George’s journal"
+        ]
+      },
+      {
+        "key": "12:30",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "No, you don’t"
+        ]
+      },
+      {
+        "key": "12:31",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Yes, I do"
+        ]
+      },
+      {
+        "key": "12:32-33",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Now, be sensible",
+          "From what I hear, you’ve made yourself indispensable"
+        ]
+      },
+      {
+        "key": "12:34-35",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "Well, well, I heard",
+          "You’ve got a special someone on the side, Burr"
+        ]
+      },
+      {
+        "key": "12:36",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Is that so?"
+        ]
+      },
+      {
+        "key": "12:37",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "What are you tryin’ to hide, Burr?"
+        ]
+      },
+      {
+        "key": "12:38",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I should go"
+        ]
+      },
+      {
+        "key": "12:39",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "No, these guys should go"
+        ]
+      },
+      {
+        "key": "12:40",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "What?"
+        ]
+      },
+      {
+        "key": "12:41",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "No!"
+        ]
+      },
+      {
+        "key": "12:42",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Leave us alone"
+        ]
+      },
+      {
+        "key": "12:43",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "Man…"
+        ]
+      },
+      {
+        "key": "12:44",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "It’s alright, Burr. I wish you’d brought this girl with you tonight, Burr"
+        ]
+      },
+      {
+        "key": "12:45",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "You’re very kind, but I’m afraid it’s unlawful, sir"
+        ]
+      },
+      {
+        "key": "12:46",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "What do you mean?"
+        ]
+      },
+      {
+        "key": "12:47",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "She’s married"
+        ]
+      },
+      {
+        "key": "12:48",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I see"
+        ]
+      },
+      {
+        "key": "12:49",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "She’s married to a British officer"
+        ]
+      },
+      {
+        "key": "12:50",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Oh shit…"
+        ]
+      },
+      {
+        "key": "12:51-52",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Congrats again, Alexander. Smile more",
+          "I’ll see you on the other side of the war"
+        ]
+      },
+      {
+        "key": "12:53-54",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I will never understand you",
+          "If you love this woman, go get her! What are you waiting for?"
+        ]
+      },
+      {
+        "key": "12:55",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I’ll see you on the other side of the war"
+        ]
+      },
+      {
+        "key": "12:56",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I’ll see you on the other side of the war"
+        ]
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "act": 1,
+    "title": "Wait for It",
+    "title_kr": "때를 기다려 (웨이트 포 잇)",
+    "file_rel_path": "act1/13_wait_for_it.md",
+    "characters_kr": [
+      "앙상블 전체",
+      "아론 버"
+    ],
+    "characters_en": [
+      "Company",
+      "Aaron Burr"
+    ],
+    "stanzas": [
+      {
+        "key": "13:1-25",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Theodosia writes me a letter every day",
+          "I'm keeping the bed warm while her husband is away",
+          "He's on the British side in Georgia",
+          "He's trying to keep the colonies in line",
+          "But he can keep all of Georgia",
+          "Theodosia, she's mine",
+          "Love doesn't discriminate",
+          "Between the sinners",
+          "And the saints",
+          "It takes and it takes and it takes",
+          "And we keep loving anyway",
+          "We laugh and we cry",
+          "And we break",
+          "And we make our mistakes",
+          "And if there's a reason I'm by her side",
+          "When so many have tried",
+          "Then I'm willing to wait for it",
+          "I'm willing to wait for it",
+          "My grandfather was a fire and brimstone preacher",
+          "But there are things that the",
+          "Homilies and hymns won't teach ya",
+          "My mother was a genius",
+          "My father commanded respect",
+          "When they died they left no instructions",
+          "Just a legacy to protect"
+        ]
+      },
+      {
+        "key": "13:26-38",
+        "char_ids": [
+          "1",
+          "24"
+        ],
+        "speaker_kr": "아론 버, 앙상블 전체",
+        "speaker_en": "Aaron Burr, Company",
+        "lines": [
+          "Death doesn’t discriminate",
+          "Between the sinners",
+          "And the saints",
+          "It takes and it takes and it takes",
+          "And we keep living anyway",
+          "We rise and we fall",
+          "And we break",
+          "And we make our mistakes",
+          "And if there’s a reason I’m still alive",
+          "When everyone who loves me has died",
+          "I’m willing to wait for it",
+          "I’m willing to wait for it",
+          "Wait for it"
+        ]
+      },
+      {
+        "key": "13:39-41",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Wait for it",
+          "Wait for it",
+          "Wait for it"
+        ]
+      },
+      {
+        "key": "13:42",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I am the one thing in life I can control"
+        ]
+      },
+      {
+        "key": "13:43-46",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Wait for it",
+          "Wait for it",
+          "Wait for it",
+          "Wait for it"
+        ]
+      },
+      {
+        "key": "13:47-48",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I am inimitable",
+          "I am an original"
+        ]
+      },
+      {
+        "key": "13:49-52",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Wait for it",
+          "Wait for it",
+          "Wait for it",
+          "Wait for it"
+        ]
+      },
+      {
+        "key": "13:53",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I’m not falling behind or running late"
+        ]
+      },
+      {
+        "key": "13:54-57",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Wait for it",
+          "Wait for it",
+          "Wait for it",
+          "Wait for it"
+        ]
+      },
+      {
+        "key": "13:58-59",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I’m not standing still",
+          "I am lying in wait"
+        ]
+      },
+      {
+        "key": "13:60-62",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Wait",
+          "Wait",
+          "Wait"
+        ]
+      },
+      {
+        "key": "13:63",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Hamilton faces an endless uphill climb"
+        ]
+      },
+      {
+        "key": "13:64-66",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Climb",
+          "Climb",
+          "Climb"
+        ]
+      },
+      {
+        "key": "13:67-68",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "He has something to prove",
+          "He has nothing to lose"
+        ]
+      },
+      {
+        "key": "13:69-72",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Lose",
+          "Lose",
+          "Lose",
+          "Lose"
+        ]
+      },
+      {
+        "key": "13:73-74",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Hamilton’s pace is relentless",
+          "He wastes no time"
+        ]
+      },
+      {
+        "key": "13:75-77",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Time",
+          "Time",
+          "Time"
+        ]
+      },
+      {
+        "key": "13:78-98",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "What is it like in his shoes?",
+          "Hamilton doesn’t hesitate",
+          "He exhibits no restraint",
+          "He takes and he takes and he takes",
+          "And he keeps winning anyway",
+          "He changes the game",
+          "He plays and he raises the stakes",
+          "And if there’s a reason",
+          "He seems to thrive when so few survive, then Goddamnit—",
+          "I'm willing to wait for it",
+          "I'm willing to wait for it...",
+          "Life doesn't discriminate",
+          "Between the sinners and the saints",
+          "It takes and it takes and it takes",
+          "We rise",
+          "We fall",
+          "And if there's a reason I'm still alive",
+          "When so many have died",
+          "Then I'm willin' to—",
+          "Wait for it...",
+          "Wait for it..."
+        ]
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "act": 1,
+    "title": "Stay Alive",
+    "title_kr": "살아남아라",
+    "file_rel_path": "act1/14_stay_alive.md",
+    "characters_kr": [
+      "여성 앙상블",
+      "조지 워싱턴",
+      "허큘리스 멀리건",
+      "존 로런스",
+      "마르키 드 라파예트",
+      "안젤리카 스카일러",
+      "앙상블 전체",
+      "알렉산더 해밀턴",
+      "찰스 리",
+      "일라이자 스카일러"
+    ],
+    "characters_en": [
+      "Women",
+      "George Washington",
+      "Hercules Mulligan",
+      "John Laurens",
+      "Marquis de Lafayette",
+      "Angelica Schuyler",
+      "Company",
+      "Alexander Hamilton",
+      "Charles Lee",
+      "Eliza Schuyler"
+    ],
+    "stanzas": [
+      {
+        "key": "14:1",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Stay alive…"
+        ]
+      },
+      {
+        "key": "14:2",
+        "char_ids": [
+          "7",
+          "8",
+          "21"
+        ],
+        "speaker_kr": "일라이자 스카일러, 안젤리카 스카일러, 여성 앙상블",
+        "speaker_en": "Eliza Schuyler, Angelica Schuyler, Women",
+        "lines": [
+          "Stay alive…"
+        ]
+      },
+      {
+        "key": "14:3-8",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I have never seen the General so despondent",
+          "I have taken over writing all his correspondence",
+          "Congress writes, “George, attack the British forces.”",
+          "I shoot back, we have resorted to eating our horses",
+          "Local merchants deny us equipment, assistance",
+          "They only take British money, so sing a song of sixpence"
+        ]
+      },
+      {
+        "key": "14:9",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "The cavalry’s not coming"
+        ]
+      },
+      {
+        "key": "14:10",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "But, sir!"
+        ]
+      },
+      {
+        "key": "14:11-12",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Alex, listen. There’s only one way for us to win this",
+          "Provoke outrage, outright"
+        ]
+      },
+      {
+        "key": "14:13",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "That’s right"
+        ]
+      },
+      {
+        "key": "14:14-15",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Don’t engage, strike by night",
+          "Remain relentless ‘til their troops take flight"
+        ]
+      },
+      {
+        "key": "14:16",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Make it impossible to justify the cost of the fight"
+        ]
+      },
+      {
+        "key": "14:17",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Outrun"
+        ]
+      },
+      {
+        "key": "14:18",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Outrun"
+        ]
+      },
+      {
+        "key": "14:19",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Outlast"
+        ]
+      },
+      {
+        "key": "14:20",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Outlast"
+        ]
+      },
+      {
+        "key": "14:21",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Hit ‘em quick, get out fast"
+        ]
+      },
+      {
+        "key": "14:22",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Chick-a-plao!"
+        ]
+      },
+      {
+        "key": "14:23-24",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Stay alive ‘til this horror show is past",
+          "We’re gonna fly a lot of flags half-mast"
+        ]
+      },
+      {
+        "key": "14:25",
+        "char_ids": [
+          "2",
+          "4",
+          "5"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 존 로런스, 마르키 드 라파예트",
+        "speaker_en": "Alexander Hamilton, John Laurens, Marquis de Lafayette",
+        "lines": [
+          "Raise a glass!"
+        ]
+      },
+      {
+        "key": "14:26",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "I go back to New York and my apprenticeship"
+        ]
+      },
+      {
+        "key": "14:27",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "I ask for French aid, I pray that France has sent a ship"
+        ]
+      },
+      {
+        "key": "14:28-30",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "I stay at work with Hamilton",
+          "We write essays against slavery",
+          "And every day’s a test of our camaraderie and bravery"
+        ]
+      },
+      {
+        "key": "14:31-35",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "We cut supply lines, we steal contraband",
+          "We pick and choose our battles and places to take a stand",
+          "And ev’ry day",
+          "“Sir, entrust me with a command,”",
+          "And ev’ry day"
+        ]
+      },
+      {
+        "key": "14:36",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "No"
+        ]
+      },
+      {
+        "key": "14:37-41",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "He dismisses me out of hand",
+          "Instead of me",
+          "He promotes",
+          "Charles Lee",
+          "Makes him second-in-command:"
+        ]
+      },
+      {
+        "key": "14:42",
+        "char_ids": [
+          "14"
+        ],
+        "speaker_kr": "찰스 리",
+        "speaker_en": "Charles Lee",
+        "lines": [
+          "I’m a General. Whee!!!!"
+        ]
+      },
+      {
+        "key": "14:43",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Yeah. He’s not the choice I would have gone with"
+        ]
+      },
+      {
+        "key": "14:44",
+        "char_ids": [
+          "2",
+          "4",
+          "5"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 존 로런스, 마르키 드 라파예트",
+        "speaker_en": "Alexander Hamilton, John Laurens, Marquis de Lafayette",
+        "lines": [
+          "He shits the bed at the Battle of Monmouth"
+        ]
+      },
+      {
+        "key": "14:45",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Ev’ryone attack!"
+        ]
+      },
+      {
+        "key": "14:46",
+        "char_ids": [
+          "14"
+        ],
+        "speaker_kr": "찰스 리",
+        "speaker_en": "Charles Lee",
+        "lines": [
+          "Retreat!"
+        ]
+      },
+      {
+        "key": "14:47",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Attack!"
+        ]
+      },
+      {
+        "key": "14:48",
+        "char_ids": [
+          "14"
+        ],
+        "speaker_kr": "찰스 리",
+        "speaker_en": "Charles Lee",
+        "lines": [
+          "Retreat!"
+        ]
+      },
+      {
+        "key": "14:49",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "What are you doing, Lee? Get back on your feet!"
+        ]
+      },
+      {
+        "key": "14:50",
+        "char_ids": [
+          "14"
+        ],
+        "speaker_kr": "찰스 리",
+        "speaker_en": "Charles Lee",
+        "lines": [
+          "But there’s so many of them!"
+        ]
+      },
+      {
+        "key": "14:51",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I’m sorry, is this not your speed?!"
+        ]
+      },
+      {
+        "key": "14:52",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Hamilton!"
+        ]
+      },
+      {
+        "key": "14:53",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Ready, sir!"
+        ]
+      },
+      {
+        "key": "14:54",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Have Lafayette take the lead!"
+        ]
+      },
+      {
+        "key": "14:55",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Yes, sir!"
+        ]
+      },
+      {
+        "key": "14:56",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "A thousand soldiers die in a hundred degree heat"
+        ]
+      },
+      {
+        "key": "14:57",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "As we snatch a stalemate from the jaws of defeat"
+        ]
+      },
+      {
+        "key": "14:58-60",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Charles Lee was left behind",
+          "Without a pot to piss in",
+          "He started sayin’ this to anybody who would listen:"
+        ]
+      },
+      {
+        "key": "14:61-64",
+        "char_ids": [
+          "14"
+        ],
+        "speaker_kr": "찰스 리",
+        "speaker_en": "Charles Lee",
+        "lines": [
+          "Washington cannot be left alone to his devices",
+          "Indecisive, from crisis to crisis",
+          "The best thing he can do for the revolution is turn n’",
+          "Go back to plantin’ tobacco in Mount Vernon"
+        ]
+      },
+      {
+        "key": "14:65",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Ooh!!"
+        ]
+      },
+      {
+        "key": "14:66",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Don’t do a thing. History will prove him wrong"
+        ]
+      },
+      {
+        "key": "14:67",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "But, sir!"
+        ]
+      },
+      {
+        "key": "14:68",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "We have a war to fight, let’s move along"
+        ]
+      },
+      {
+        "key": "14:69",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "Strong words from Lee, someone oughta hold him to it"
+        ]
+      },
+      {
+        "key": "14:70",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I can’t disobey direct orders"
+        ]
+      },
+      {
+        "key": "14:71-72",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "Then I’ll do it",
+          "Alexander, you’re the closest friend I’ve got"
+        ]
+      },
+      {
+        "key": "14:73",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Laurens, do not throw away your shot"
+        ]
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "act": 1,
+    "title": "Ten Duel Commandments",
+    "title_kr": "10가지 결투 수칙",
+    "file_rel_path": "act1/15_ten_duel_commandments.md",
+    "characters_kr": [
+      "아론 버",
+      "존 로런스",
+      "앙상블 전체",
+      "알렉산더 해밀턴",
+      "찰스 리",
+      "남성 앙상블"
+    ],
+    "characters_en": [
+      "Aaron Burr",
+      "John Laurens",
+      "Company",
+      "Alexander Hamilton",
+      "Charles Lee",
+      "Men"
+    ],
+    "stanzas": [
+      {
+        "key": "15:1",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "One, two, three, four"
+        ]
+      },
+      {
+        "key": "15:2",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Five, six, seven, eight, nine…"
+        ]
+      },
+      {
+        "key": "15:3",
+        "char_ids": [
+          "1",
+          "2",
+          "4",
+          "14"
+        ],
+        "speaker_kr": "아론 버, 알렉산더 해밀턴, 존 로런스, 찰스 리",
+        "speaker_en": "Aaron Burr, Alexander Hamilton, John Laurens, Charles Lee",
+        "lines": [
+          "It’s the Ten Duel Commandments"
+        ]
+      },
+      {
+        "key": "15:4-5",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "It’s the Ten Duel Commandments",
+          "Number one!"
+        ]
+      },
+      {
+        "key": "15:6-7",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "The challenge: demand satisfaction",
+          "If they apologize, no need for further action"
+        ]
+      },
+      {
+        "key": "15:8",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number two!"
+        ]
+      },
+      {
+        "key": "15:9",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "If they don’t, grab a friend, that’s your second"
+        ]
+      },
+      {
+        "key": "15:10",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Your lieutenant when there’s reckoning to be reckoned"
+        ]
+      },
+      {
+        "key": "15:11",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number three!"
+        ]
+      },
+      {
+        "key": "15:12",
+        "char_ids": [
+          "14"
+        ],
+        "speaker_kr": "찰스 리",
+        "speaker_en": "Charles Lee",
+        "lines": [
+          "Have your seconds meet face to face"
+        ]
+      },
+      {
+        "key": "15:13",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Negotiate a peace…"
+        ]
+      },
+      {
+        "key": "15:14",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Or negotiate a time and place"
+        ]
+      },
+      {
+        "key": "15:15",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "This is commonplace, ‘specially ‘tween recruits"
+        ]
+      },
+      {
+        "key": "15:16-17",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Most disputes die, and no one shoots",
+          "Number four!"
+        ]
+      },
+      {
+        "key": "15:18-19",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "If they don’t reach a peace, that’s alright",
+          "Time to get some pistols and a doctor on site"
+        ]
+      },
+      {
+        "key": "15:20",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You pay him in advance, you treat him with civility"
+        ]
+      },
+      {
+        "key": "15:21",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "You have him turn around so he can have deniability"
+        ]
+      },
+      {
+        "key": "15:22",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Five!"
+        ]
+      },
+      {
+        "key": "15:23",
+        "char_ids": [
+          "14"
+        ],
+        "speaker_kr": "찰스 리",
+        "speaker_en": "Charles Lee",
+        "lines": [
+          "Duel before the sun is in the sky"
+        ]
+      },
+      {
+        "key": "15:24-25",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Pick a place to die where it’s high and dry",
+          "Number six!"
+        ]
+      },
+      {
+        "key": "15:26-27",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Leave a note for your next of kin",
+          "Tell ‘em where you been. Pray that hell or heaven lets you in"
+        ]
+      },
+      {
+        "key": "15:28",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Seven!"
+        ]
+      },
+      {
+        "key": "15:29-30",
+        "char_ids": [
+          "14"
+        ],
+        "speaker_kr": "찰스 리",
+        "speaker_en": "Charles Lee",
+        "lines": [
+          "Confess your sins. Ready for the moment",
+          "Of adrenaline when you finally face your opponent"
+        ]
+      },
+      {
+        "key": "15:31",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number eight!"
+        ]
+      },
+      {
+        "key": "15:32-33",
+        "char_ids": [
+          "4",
+          "14",
+          "2",
+          "1"
+        ],
+        "speaker_kr": "존 로런스, 찰스 리, 알렉산더 해밀턴, 아론 버",
+        "speaker_en": "John Laurens, Charles Lee, Alexander Hamilton, Aaron Burr",
+        "lines": [
+          "Your last chance to negotiate",
+          "Send in your seconds, see if they can set the record straight…"
+        ]
+      },
+      {
+        "key": "15:34",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Alexander"
+        ]
+      },
+      {
+        "key": "15:35",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Aaron Burr, sir"
+        ]
+      },
+      {
+        "key": "15:36",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Can we agree that duels are dumb and immature?"
+        ]
+      },
+      {
+        "key": "15:37-38",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Sure",
+          "But your man has to answer for his words, Burr"
+        ]
+      },
+      {
+        "key": "15:39",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "With his life? We both know that’s absurd, sir"
+        ]
+      },
+      {
+        "key": "15:40",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Hang on, how many men died because Lee was inexperienced and ruinous?"
+        ]
+      },
+      {
+        "key": "15:41",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Okay, so we’re doin’ this"
+        ]
+      },
+      {
+        "key": "15:42",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number nine!"
+        ]
+      },
+      {
+        "key": "15:43-44",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Look ‘em in the eye, aim no higher",
+          "Summon all the courage you require.  Then count"
+        ]
+      },
+      {
+        "key": "15:45-46",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "One two three four",
+          "Five six seven eight nine"
+        ]
+      },
+      {
+        "key": "15:47",
+        "char_ids": [
+          "2",
+          "1"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 아론 버",
+        "speaker_en": "Alexander Hamilton, Aaron Burr",
+        "lines": [
+          "Number"
+        ]
+      },
+      {
+        "key": "15:48",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Ten paces!"
+        ]
+      },
+      {
+        "key": "15:49",
+        "char_ids": [
+          "2",
+          "1"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 아론 버",
+        "speaker_en": "Alexander Hamilton, Aaron Burr",
+        "lines": [
+          "Fire"
+        ]
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "act": 1,
+    "title": "Meet Me Inside",
+    "title_kr": "안으로 들어와",
+    "file_rel_path": "act1/16_meet_me_inside.md",
+    "characters_kr": [
+      "조지 워싱턴",
+      "아론 버",
+      "존 로런스",
+      "앙상블 전체",
+      "알렉산더 해밀턴"
+    ],
+    "characters_en": [
+      "George Washington",
+      "Aaron Burr",
+      "John Laurens",
+      "Company",
+      "Alexander Hamilton"
+    ],
+    "stanzas": [
+      {
+        "key": "16:1",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Lee, do you yield?"
+        ]
+      },
+      {
+        "key": "16:2-3",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "You shot him in the side!",
+          "Yes, he yields!"
+        ]
+      },
+      {
+        "key": "16:4",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "I’m satisfied"
+        ]
+      },
+      {
+        "key": "16:5",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Yo, we gotta clear the field!"
+        ]
+      },
+      {
+        "key": "16:6",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Go! We won"
+        ]
+      },
+      {
+        "key": "16:7",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Here comes the General!"
+        ]
+      },
+      {
+        "key": "16:8",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "This should be fun"
+        ]
+      },
+      {
+        "key": "16:9-10",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "What is the meaning of this?",
+          "Mr. Burr? get a medic for the General"
+        ]
+      },
+      {
+        "key": "16:11",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Yes, sir"
+        ]
+      },
+      {
+        "key": "16:12-14",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Lee, you will never agree with me",
+          "But believe me, these young men don’t speak for me",
+          "Thank you for your service"
+        ]
+      },
+      {
+        "key": "16:15",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Let’s ride!"
+        ]
+      },
+      {
+        "key": "16:16",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Hamilton!"
+        ]
+      },
+      {
+        "key": "16:17",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Sir!"
+        ]
+      },
+      {
+        "key": "16:18",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Meet me inside"
+        ]
+      },
+      {
+        "key": "16:19-20",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Meet him inside! Meet him inside!",
+          "Meet him inside, meet him, meet him inside!"
+        ]
+      },
+      {
+        "key": "16:21",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Son—"
+        ]
+      },
+      {
+        "key": "16:22",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Don’t call me son"
+        ]
+      },
+      {
+        "key": "16:23",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "This war is hard enough without infighting—"
+        ]
+      },
+      {
+        "key": "16:24",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Lee called you out. We called his bluff"
+        ]
+      },
+      {
+        "key": "16:25",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "You solve nothing, you aggravate our allies to the south"
+        ]
+      },
+      {
+        "key": "16:26-27",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You're absolutely right, John should have shot him in the mouth",
+          "That would’ve shut him up"
+        ]
+      },
+      {
+        "key": "16:28",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Son—"
+        ]
+      },
+      {
+        "key": "16:29",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I’m notcha son—"
+        ]
+      },
+      {
+        "key": "16:30-31",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Watch your tone",
+          "I am not a maiden in need of defending, I am grown"
+        ]
+      },
+      {
+        "key": "16:32-34",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Charles Lee, Thomas Conway",
+          "These men take your name and they rake it",
+          "Through the mud"
+        ]
+      },
+      {
+        "key": "16:35",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "My name’s been through a lot, I can take it"
+        ]
+      },
+      {
+        "key": "16:36-38",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Well, I don’t have your name. I don’t have your titles",
+          "I don’t have your land",
+          "But, if you—"
+        ]
+      },
+      {
+        "key": "16:39",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "No—"
+        ]
+      },
+      {
+        "key": "16:40",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "If you gave me command of a battalion, a group of men to lead, I could fly above my station after the war"
+        ]
+      },
+      {
+        "key": "16:41",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Or you could die and we need you alive"
+        ]
+      },
+      {
+        "key": "16:42",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I’m more than willing to die—"
+        ]
+      },
+      {
+        "key": "16:43",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Your wife needs you alive, son, I need you alive—"
+        ]
+      },
+      {
+        "key": "16:44",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Call me son one more time—"
+        ]
+      },
+      {
+        "key": "16:45-46",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Go home, Alexander",
+          "That’s an order from your commander"
+        ]
+      },
+      {
+        "key": "16:47",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Sir—"
+        ]
+      },
+      {
+        "key": "16:48",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Go home"
+        ]
+      }
+    ]
+  }
+}

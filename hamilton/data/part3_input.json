@@ -1,0 +1,2506 @@
+{
+  "17": {
+    "id": 17,
+    "act": 1,
+    "title": "That Would be Enough",
+    "title_kr": "그것만으로도 충분해요",
+    "file_rel_path": "act1/17_that_would_be_enough.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "일라이자 스카일러"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Eliza Schuyler"
+    ],
+    "stanzas": [
+      {
+        "key": "17:1-3",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Look around, look around at how lucky we are",
+          "To be alive right now",
+          "Look around, look around…"
+        ]
+      },
+      {
+        "key": "17:4",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "How long have you known?"
+        ]
+      },
+      {
+        "key": "17:5",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "A month or so"
+        ]
+      },
+      {
+        "key": "17:6",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Eliza, you should have told me"
+        ]
+      },
+      {
+        "key": "17:7",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I wrote to the General a month ago"
+        ]
+      },
+      {
+        "key": "17:8",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "No"
+        ]
+      },
+      {
+        "key": "17:9",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I begged him to send you home"
+        ]
+      },
+      {
+        "key": "17:10",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You should have told me"
+        ]
+      },
+      {
+        "key": "17:11-15",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I’m not sorry",
+          "I knew you’d fight until the war was won",
+          "But you deserve a chance to meet",
+          "Your son",
+          "Look around, look around at how lucky we are to be alive right now."
+        ]
+      },
+      {
+        "key": "17:16-17",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Will you relish being a poor man’s wife",
+          "Unable to provide for your life?"
+        ]
+      },
+      {
+        "key": "17:18-45",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I relish being your wife",
+          "Look around, look around…",
+          "Look at where you are",
+          "Look at where you started",
+          "The fact that you’re alive is a miracle",
+          "Just stay alive, that would be enough",
+          "And if this child",
+          "Shares a fraction of your smile",
+          "Or a fragment of your mind, look out world!",
+          "That would be enough",
+          "I don’t pretend to know",
+          "The challenges you’re facing",
+          "The worlds you keep erasing and creating in your mind",
+          "But I’m not afraid",
+          "I know who I married",
+          "So long as you come home at the end of the day",
+          "That would be enough",
+          "We don’t need a legacy",
+          "We don’t need money",
+          "If I could grant you peace of mind",
+          "If you could let me inside your heart…",
+          "Oh, let me be a part of the narrative",
+          "In the story they will write someday",
+          "Let this moment be the first chapter:",
+          "Where you decide to stay",
+          "And I could be enough",
+          "And we could be enough",
+          "That would be enough"
+        ]
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "act": 1,
+    "title": "Guns and Ships",
+    "title_kr": "총과 전함",
+    "file_rel_path": "act1/18_guns_and_ships.md",
+    "characters_kr": [
+      "마르키 드 라파예트",
+      "앙상블 전체",
+      "조지 워싱턴",
+      "아론 버"
+    ],
+    "characters_en": [
+      "Marquis de Lafayette",
+      "Company",
+      "George Washington",
+      "Aaron Burr"
+    ],
+    "stanzas": [
+      {
+        "key": "18:1-8",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "How does a ragtag volunteer army in need of a shower",
+          "Somehow defeat a global superpower?",
+          "How do we emerge victorious from the quagmire?",
+          "Leave the battlefield waving Betsy Ross’ flag higher?",
+          "Yo. Turns out we have a secret weapon!",
+          "An immigrant you know and love who’s unafraid to step in!",
+          "He’s constantly confusin’, confoundin’ the British henchmen",
+          "Ev’ryone give it up for America’s favorite fighting Frenchman!"
+        ]
+      },
+      {
+        "key": "18:9",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Lafayette!"
+        ]
+      },
+      {
+        "key": "18:10-11",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "I’m takin this horse by the reins makin’",
+          "Redcoats redder with bloodstains"
+        ]
+      },
+      {
+        "key": "18:12",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Lafayette!"
+        ]
+      },
+      {
+        "key": "18:13-14",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "And I’m never gonna stop until I make ‘em",
+          "Drop and burn ‘em up and scatter their remains, I’m"
+        ]
+      },
+      {
+        "key": "18:15",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Lafayette!"
+        ]
+      },
+      {
+        "key": "18:16",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Watch me engagin’ em! Escapin’ em!  Enragin’ em! I’m—"
+        ]
+      },
+      {
+        "key": "18:17",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Lafayette!"
+        ]
+      },
+      {
+        "key": "18:18",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "I go to France for more funds"
+        ]
+      },
+      {
+        "key": "18:19",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Lafayette!"
+        ]
+      },
+      {
+        "key": "18:20",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "I come back with more"
+        ]
+      },
+      {
+        "key": "18:21-23",
+        "char_ids": [
+          "5",
+          "24"
+        ],
+        "speaker_kr": "마르키 드 라파예트, 앙상블 전체",
+        "speaker_en": "Marquis de Lafayette, Company",
+        "lines": [
+          "Guns",
+          "And ships",
+          "And so the balance shifts"
+        ]
+      },
+      {
+        "key": "18:24",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "We rendezvous with Rochambeau, consolidate their gifts"
+        ]
+      },
+      {
+        "key": "18:25-26",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "We can end this war at Yorktown, cut them off at sea, but",
+          "For this to succeed, there is someone else we need:"
+        ]
+      },
+      {
+        "key": "18:27",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I know"
+        ]
+      },
+      {
+        "key": "18:28",
+        "char_ids": [
+          "3",
+          "24"
+        ],
+        "speaker_kr": "조지 워싱턴, 앙상블 전체",
+        "speaker_en": "George Washington, Company",
+        "lines": [
+          "Hamilton!"
+        ]
+      },
+      {
+        "key": "18:29-30",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Sir, he knows what to do in a trench",
+          "Ingenuitive and fluent in French, I mean—"
+        ]
+      },
+      {
+        "key": "18:31",
+        "char_ids": [
+          "3",
+          "24"
+        ],
+        "speaker_kr": "조지 워싱턴, 앙상블 전체",
+        "speaker_en": "George Washington, Company",
+        "lines": [
+          "Hamilton!"
+        ]
+      },
+      {
+        "key": "18:32-33",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Sir, you’re gonna have to use him eventually",
+          "What’s he gonna do on the bench? I mean—"
+        ]
+      },
+      {
+        "key": "18:34",
+        "char_ids": [
+          "3",
+          "24"
+        ],
+        "speaker_kr": "조지 워싱턴, 앙상블 전체",
+        "speaker_en": "George Washington, Company",
+        "lines": [
+          "Hamilton!"
+        ]
+      },
+      {
+        "key": "18:35-36",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "No one has more resilience",
+          "Or matches my practical tactical brilliance—"
+        ]
+      },
+      {
+        "key": "18:37",
+        "char_ids": [
+          "3",
+          "24"
+        ],
+        "speaker_kr": "조지 워싱턴, 앙상블 전체",
+        "speaker_en": "George Washington, Company",
+        "lines": [
+          "Hamilton!"
+        ]
+      },
+      {
+        "key": "18:38",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "You wanna fight for your land back?"
+        ]
+      },
+      {
+        "key": "18:39",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I need my right hand man back!"
+        ]
+      },
+      {
+        "key": "18:40-43",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Ah! Uh, get ya right hand man back",
+          "You know you gotta get ya right hand man back",
+          "I mean you gotta put some thought into the letter but the sooner the better",
+          "To get your right hand man back!"
+        ]
+      },
+      {
+        "key": "18:44-51",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Alexander Hamilton",
+          "Troops are waiting in the field for you",
+          "If you join us right now, together we can turn the tide",
+          "Oh, Alexander Hamilton",
+          "I have soldiers that will yield for you",
+          "If we manage to get this right",
+          "They’ll surrender by early light",
+          "The world will never be the same, Alexander…"
+        ]
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "act": 1,
+    "title": "History Has Its Eyes On You",
+    "title_kr": "역사가 당신을 지켜보고 있다",
+    "file_rel_path": "act1/19_history_has_its_eyes_on_you.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "남성 앙상블",
+      "앙상블 전체",
+      "조지 워싱턴"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Men",
+      "Company",
+      "George Washington"
+    ],
+    "stanzas": [
+      {
+        "key": "19:1-8",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I was younger than you are now",
+          "When I was given my first command",
+          "I led my men straight into a massacre",
+          "I witnessed their deaths firsthand",
+          "I made every mistake",
+          "And felt the shame rise in me",
+          "And even now I lie awake",
+          "Knowing history has its eyes on me"
+        ]
+      },
+      {
+        "key": "19:9",
+        "char_ids": [
+          "2",
+          "3"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 조지 워싱턴",
+        "speaker_en": "Alexander Hamilton, George Washington",
+        "lines": [
+          "History has its eyes on me."
+        ]
+      },
+      {
+        "key": "19:10-12",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Let me tell you what I wish I’d known",
+          "When I was young and dreamed of glory:",
+          "You have no control:"
+        ]
+      },
+      {
+        "key": "19:13",
+        "char_ids": [
+          "3",
+          "24"
+        ],
+        "speaker_kr": "조지 워싱턴, 앙상블 전체",
+        "speaker_en": "George Washington, Company",
+        "lines": [
+          "Who lives, who dies, who tells your story"
+        ]
+      },
+      {
+        "key": "19:14-16",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I know that we can win",
+          "I know that greatness lies in you",
+          "But remember from here on in"
+        ]
+      },
+      {
+        "key": "19:17-18",
+        "char_ids": [
+          "3",
+          "2",
+          "22"
+        ],
+        "speaker_kr": "조지 워싱턴, 알렉산더 해밀턴, 남성 앙상블",
+        "speaker_en": "George Washington, Alexander Hamilton, Men",
+        "lines": [
+          "History has its",
+          "Eyes on you."
+        ]
+      },
+      {
+        "key": "19:19",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "History has its eyes on you"
+        ]
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "act": 1,
+    "title": "Yorktown (The World Turned Upside Down)",
+    "title_kr": "요크타운 (뒤집힌 세상)",
+    "file_rel_path": "act1/20_yorktown_the_world_turned_upside_down.md",
+    "characters_kr": [
+      "조지 워싱턴",
+      "허큘리스 멀리건",
+      "마르키 드 라파예트",
+      "앙상블 전체",
+      "존 로런스",
+      "알렉산더 해밀턴",
+      "남성 앙상블"
+    ],
+    "characters_en": [
+      "George Washington",
+      "Hercules Mulligan",
+      "Marquis de Lafayette",
+      "Company",
+      "John Laurens",
+      "Alexander Hamilton",
+      "Men"
+    ],
+    "stanzas": [
+      {
+        "key": "20:1",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "The battle of Yorktown. 1781"
+        ]
+      },
+      {
+        "key": "20:2",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Monsieur Hamilton"
+        ]
+      },
+      {
+        "key": "20:3",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Monsieur Lafayette"
+        ]
+      },
+      {
+        "key": "20:4",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "In command where you belong"
+        ]
+      },
+      {
+        "key": "20:5-6",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "How you say, no sweat",
+          "We're finally on the field. We’ve had quite a run"
+        ]
+      },
+      {
+        "key": "20:7",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Immigrants:"
+        ]
+      },
+      {
+        "key": "20:8",
+        "char_ids": [
+          "2",
+          "5"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 마르키 드 라파예트",
+        "speaker_en": "Alexander Hamilton, Marquis de Lafayette",
+        "lines": [
+          "We get the job done"
+        ]
+      },
+      {
+        "key": "20:9",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "So what happens if we win?"
+        ]
+      },
+      {
+        "key": "20:10-11",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "I go back to France",
+          "I bring freedom to my people if I’m given the chance"
+        ]
+      },
+      {
+        "key": "20:12",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "We’ll be with you when you do"
+        ]
+      },
+      {
+        "key": "20:13",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Go lead your men"
+        ]
+      },
+      {
+        "key": "20:14",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "See you on the other side"
+        ]
+      },
+      {
+        "key": "20:15",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "‘Til we meet again, let’s go!"
+        ]
+      },
+      {
+        "key": "20:16-20",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "I am not throwin’ away my shot!",
+          "I am not throwin’ away my shot!",
+          "Hey yo, I’m just like my country, I’m young scrappy and hungry",
+          "And I’m not throwin’ away my shot!",
+          "I am not throwin’ away my shot!"
+        ]
+      },
+      {
+        "key": "20:21",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "‘Til the world turns upside down…"
+        ]
+      },
+      {
+        "key": "20:22",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "‘Til the world turns upside down!"
+        ]
+      },
+      {
+        "key": "20:23-33",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I imagine death so much it feels more like a memory",
+          "This is where it gets me:",
+          "On my feet",
+          "The enemy ahead of me",
+          "If this is the end of me, at least I have a friend with me",
+          "Weapon in my hand, a command, and my men with me",
+          "Then I remember my Eliza’s expecting me...",
+          "Not only that, my Eliza’s expecting",
+          "We gotta go, gotta get the job done",
+          "Gotta start a new nation, gotta meet my son!",
+          "Take the bullets out your gun!"
+        ]
+      },
+      {
+        "key": "20:34",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "What?"
+        ]
+      },
+      {
+        "key": "20:35",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "The bullets out your gun!"
+        ]
+      },
+      {
+        "key": "20:36",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "What?"
+        ]
+      },
+      {
+        "key": "20:37-42",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "We move under cover and we move as one",
+          "Through the night, we have one shot to live another day",
+          "We cannot let a stray gunshot give us away",
+          "We will fight up close, seize the moment and stay in it",
+          "It’s either that or meet the business end of a bayonet",
+          "The code word is ‘Rochambeau,’ dig me?"
+        ]
+      },
+      {
+        "key": "20:43",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Rochambeau!"
+        ]
+      },
+      {
+        "key": "20:44-47",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You have your orders now, go, man, go!",
+          "And so the American experiment begins",
+          "With my friends all scattered to the winds",
+          "Laurens is in South Carolina, redefining brav’ry"
+        ]
+      },
+      {
+        "key": "20:48",
+        "char_ids": [
+          "2",
+          "4"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 존 로런스",
+        "speaker_en": "Alexander Hamilton, John Laurens",
+        "lines": [
+          "We’ll never be free until we end slavery!"
+        ]
+      },
+      {
+        "key": "20:49-50",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "When we finally drive the British away",
+          "Lafayette is there waiting—"
+        ]
+      },
+      {
+        "key": "20:51",
+        "char_ids": [
+          "2",
+          "5"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 마르키 드 라파예트",
+        "speaker_en": "Alexander Hamilton, Marquis de Lafayette",
+        "lines": [
+          "In Chesapeake Bay!"
+        ]
+      },
+      {
+        "key": "20:52-53",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "How did we know that this plan would work?",
+          "We had a spy on the inside. That’s right"
+        ]
+      },
+      {
+        "key": "20:54",
+        "char_ids": [
+          "2",
+          "24"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 앙상블 전체",
+        "speaker_en": "Alexander Hamilton, Company",
+        "lines": [
+          "Hercules Mulligan!"
+        ]
+      },
+      {
+        "key": "20:55-56",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "A tailor spyin’ on the British government!",
+          "I take their measurements, information and then I smuggle it"
+        ]
+      },
+      {
+        "key": "20:57",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Up"
+        ]
+      },
+      {
+        "key": "20:58-63",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "To my brother's revolutionary covenant",
+          "I’m runnin’ with the Sons of Liberty and I am lovin’ it!",
+          "See, that’s what happens when you up against the ruffians",
+          "We in the shit now, somebody gotta shovel it!",
+          "Hercules Mulligan, I need no introduction",
+          "When you knock me down I get the fuck back up again!"
+        ]
+      },
+      {
+        "key": "20:64-66",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Left! Right! Hold!",
+          "Go!",
+          "What! What! What!"
+        ]
+      },
+      {
+        "key": "20:67",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "After a week of fighting, a young man in a red coat stands on a parapet"
+        ]
+      },
+      {
+        "key": "20:68",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "We lower our guns as he frantically waves a white handkerchief"
+        ]
+      },
+      {
+        "key": "20:69",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "And just like that, it’s over. We tend to our wounded, we count our dead"
+        ]
+      },
+      {
+        "key": "20:70",
+        "char_ids": [
+          "4"
+        ],
+        "speaker_kr": "존 로런스",
+        "speaker_en": "John Laurens",
+        "lines": [
+          "Black and white soldiers wonder alike if this really means freedom"
+        ]
+      },
+      {
+        "key": "20:71",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Not. Yet"
+        ]
+      },
+      {
+        "key": "20:72-79",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "We negotiate the terms of surrender",
+          "I see George Washington smile",
+          "We escort their men out of Yorktown",
+          "They stagger home single file",
+          "Tens of thousands of people flood the streets",
+          "There are screams and church bells ringing",
+          "And as our fallen foes retreat",
+          "I hear the drinking song they’re singing…"
+        ]
+      },
+      {
+        "key": "20:80",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "The world turned upside down"
+        ]
+      },
+      {
+        "key": "20:81-85",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "The world turned upside down",
+          "The world turned upside down",
+          "The world turned upside down",
+          "Down",
+          "Down, down, down"
+        ]
+      },
+      {
+        "key": "20:86",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "Freedom for America, freedom for France!"
+        ]
+      },
+      {
+        "key": "20:87",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Down, down, down"
+        ]
+      },
+      {
+        "key": "20:88-89",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Gotta start a new nation",
+          "Gotta meet my son"
+        ]
+      },
+      {
+        "key": "20:90",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Down, down, down"
+        ]
+      },
+      {
+        "key": "20:91",
+        "char_ids": [
+          "6"
+        ],
+        "speaker_kr": "허큘리스 멀리건",
+        "speaker_en": "Hercules Mulligan",
+        "lines": [
+          "We won!"
+        ]
+      },
+      {
+        "key": "20:92",
+        "char_ids": [
+          "5"
+        ],
+        "speaker_kr": "마르키 드 라파예트",
+        "speaker_en": "Marquis de Lafayette",
+        "lines": [
+          "We won!"
+        ]
+      },
+      {
+        "key": "20:93",
+        "char_ids": [
+          "6",
+          "5",
+          "4"
+        ],
+        "speaker_kr": "허큘리스 멀리건, 마르키 드 라파예트, 존 로런스",
+        "speaker_en": "Hercules Mulligan, Marquis de Lafayette, John Laurens",
+        "lines": [
+          "We won!"
+        ]
+      },
+      {
+        "key": "20:94",
+        "char_ids": [
+          "6",
+          "5",
+          "4",
+          "2",
+          "3"
+        ],
+        "speaker_kr": "허큘리스 멀리건, 마르키 드 라파예트, 존 로런스, 알렉산더 해밀턴, 조지 워싱턴",
+        "speaker_en": "Hercules Mulligan, Marquis de Lafayette, John Laurens, Alexander Hamilton, George Washington",
+        "lines": [
+          "We won!"
+        ]
+      },
+      {
+        "key": "20:95",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "The world turned upside down!"
+        ]
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "act": 1,
+    "title": "What Comes Next",
+    "title_kr": "다음엔 뭐가 올까?",
+    "file_rel_path": "act1/21_what_comes_next.md",
+    "characters_kr": [
+      "조지 3세"
+    ],
+    "characters_en": [
+      "King George III"
+    ],
+    "stanzas": [
+      {
+        "key": "21:1-27",
+        "char_ids": [
+          "12"
+        ],
+        "speaker_kr": "조지 3세",
+        "speaker_en": "King George III",
+        "lines": [
+          "They say",
+          "The price of my war’s not a price that they’re willing to pay",
+          "Insane",
+          "You cheat with the French, now I’m fighting with France and with Spain",
+          "I’m so blue",
+          "I thought that we’d made an arrangement",
+          "When you went away",
+          "You were mine to subdue",
+          "Well, even despite our estrangement, I’ve got",
+          "A small query for you:",
+          "What comes next?",
+          "You’ve been freed",
+          "Do you know how hard it is to lead?",
+          "You’re on your own",
+          "Awesome. Wow",
+          "Do you have a clue what happens now?",
+          "Oceans rise",
+          "Empires fall",
+          "It’s much harder when it’s all your call",
+          "All alone, across the sea",
+          "When your people say they hate you, don’t",
+          "Come crawling back to me",
+          "Da da da dat da dat da da da",
+          "Da ya da",
+          "Da da dat",
+          "Da da ya da...",
+          "You’re on your own…"
+        ]
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "act": 1,
+    "title": "Dear Theodosia",
+    "title_kr": "사랑하는 시어도시아에게",
+    "file_rel_path": "act1/22_dear_theodosia.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "아론 버"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Aaron Burr"
+    ],
+    "stanzas": [
+      {
+        "key": "22:1-15",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Dear Theodosia, what to say to you?",
+          "You have my eyes. You have your mother’s name",
+          "When you came into the world, you cried and it broke my heart",
+          "I’m dedicating every day to you",
+          "Domestic life was never quite my style",
+          "When you smile, you knock me out, I fall apart",
+          "And I thought I was so smart",
+          "You will come of age with our young nation",
+          "We’ll bleed and fight for you, we’ll make it right for you",
+          "If we lay a strong enough foundation",
+          "We’ll pass it on to you, we’ll give the world to you",
+          "And you’ll blow us all away…",
+          "Someday, someday",
+          "Yeah, you’ll blow us all away",
+          "Someday, someday"
+        ]
+      },
+      {
+        "key": "22:16-24",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Oh Philip, when you smile I am undone",
+          "My son",
+          "Look at my son. Pride is not the word I’m looking for",
+          "There is so much more inside me now",
+          "Oh Philip, you outshine the morning sun",
+          "My son",
+          "When you smile, I fall apart",
+          "And I thought I was so smart",
+          "My father wasn’t around"
+        ]
+      },
+      {
+        "key": "22:25",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "My father wasn’t around"
+        ]
+      },
+      {
+        "key": "22:26-28",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I swear that",
+          "I’ll be around for you.",
+          "I’ll do whatever it takes"
+        ]
+      },
+      {
+        "key": "22:29",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I’ll make a million mistakes"
+        ]
+      },
+      {
+        "key": "22:30-38",
+        "char_ids": [
+          "1",
+          "2"
+        ],
+        "speaker_kr": "아론 버, 알렉산더 해밀턴",
+        "speaker_en": "Aaron Burr, Alexander Hamilton",
+        "lines": [
+          "I’ll make the world safe and sound for you…",
+          "Will come of age with our young nation",
+          "We’ll bleed and fight for you, we’ll make it right for you",
+          "If we lay a strong enough foundation",
+          "We’ll pass it on to you, we’ll give the world to you",
+          "And you’ll blow us all away...",
+          "Someday, someday",
+          "Yeah, you’ll blow us all away",
+          "Someday, someday"
+        ]
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "act": 1,
+    "title": "Non-Stop",
+    "title_kr": "논스톱 (멈추지 않고)",
+    "file_rel_path": "act1/23_non-stop.md",
+    "characters_kr": [
+      "조지 워싱턴",
+      "아론 버",
+      "허큘리스 멀리건",
+      "존 로런스",
+      "앙상블 전체",
+      "안젤리카 스카일러",
+      "마르키 드 라파예트",
+      "알렉산더 해밀턴",
+      "남성 앙상블",
+      "일라이자 스카일러"
+    ],
+    "characters_en": [
+      "George Washington",
+      "Aaron Burr",
+      "Hercules Mulligan",
+      "John Laurens",
+      "Company",
+      "Angelica Schuyler",
+      "Marquis de Lafayette",
+      "Alexander Hamilton",
+      "Men",
+      "Eliza Schuyler"
+    ],
+    "stanzas": [
+      {
+        "key": "23:1",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "After the war I went back to New York"
+        ]
+      },
+      {
+        "key": "23:2",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "A-After the war I went back to New York"
+        ]
+      },
+      {
+        "key": "23:3",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I finished up my studies and I practiced law"
+        ]
+      },
+      {
+        "key": "23:4",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I practiced law, Burr worked next door"
+        ]
+      },
+      {
+        "key": "23:5-8",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Even though we started at the very same time",
+          "Alexander Hamilton began to climb",
+          "How to account for his rise to the top?",
+          "Maaaaan, the man is non-stop."
+        ]
+      },
+      {
+        "key": "23:9-15",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Gentlemen of the jury, I’m curious, bear with me",
+          "Are you aware that we’re making hist’ry?",
+          "This is the first murder trial of our brand-new nation",
+          "The liberty behind",
+          "Deliberation—",
+          "I intend to prove beyond a shadow of a doubt",
+          "With my assistant counsel—"
+        ]
+      },
+      {
+        "key": "23:16-19",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Co-counsel",
+          "Hamilton, sit down",
+          "Our client Levi Weeks is innocent. Call your first witness",
+          "That’s all you had to say!"
+        ]
+      },
+      {
+        "key": "23:20-21",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Okay!",
+          "One more thing—"
+        ]
+      },
+      {
+        "key": "23:22-26",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Why do you assume you’re the smartest in the room?",
+          "Why do you assume you’re the smartest in the room?",
+          "Why do you assume you’re the smartest in the room?",
+          "Soon that attitude",
+          "May be your doom!"
+        ]
+      },
+      {
+        "key": "23:27",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Awwww!"
+        ]
+      },
+      {
+        "key": "23:28-31",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Why do you write like you’re running out of time?",
+          "Write day and night like you’re running out of time?",
+          "Ev’ry day you fight, like you’re running out of time",
+          "Keep on fighting. In the meantime—"
+        ]
+      },
+      {
+        "key": "23:32-41",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Corruption’s such an old song that we can sing along in harmony",
+          "And nowhere is it stronger than in Albany",
+          "This colony’s economy’s increasingly stalling and",
+          "Honestly, that’s why public service",
+          "Seems to be calling me",
+          "I practiced the law, I practic’ly perfected it",
+          "I’ve seen injustice in the world and I’ve corrected it",
+          "Now for a strong central democracy",
+          "If not, then I’ll be Socrates",
+          "Throwing verbal rocks at these mediocrities"
+        ]
+      },
+      {
+        "key": "23:42",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Hamilton, at the Constitutional Convention:"
+        ]
+      },
+      {
+        "key": "23:43",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I was chosen for the Constitutional Convention!"
+        ]
+      },
+      {
+        "key": "23:44",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "There as a New York junior delegate:"
+        ]
+      },
+      {
+        "key": "23:45",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Now what I’m going to say may sound indelicate…"
+        ]
+      },
+      {
+        "key": "23:46-48",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Goes and proposes his own form of government!",
+          "His own plan for a new form of government!",
+          "Talks for six hours! The convention is listless!"
+        ]
+      },
+      {
+        "key": "23:49",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Bright young man…"
+        ]
+      },
+      {
+        "key": "23:50",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Yo, who the f is this?"
+        ]
+      },
+      {
+        "key": "23:51-53",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Why do you always say what you believe?",
+          "Why do you always say what you believe?",
+          "Ev’ry proclamation guarantees free ammunition for your enemies!"
+        ]
+      },
+      {
+        "key": "23:54-57",
+        "char_ids": [
+          "1",
+          "22"
+        ],
+        "speaker_kr": "아론 버, 남성 앙상블",
+        "speaker_en": "Aaron Burr, Men",
+        "lines": [
+          "Why do you write like it’s",
+          "Going out of style?",
+          "Write day and night like it’s",
+          "Going out of style?"
+        ]
+      },
+      {
+        "key": "23:58-59",
+        "char_ids": [
+          "1",
+          "24"
+        ],
+        "speaker_kr": "아론 버, 앙상블 전체",
+        "speaker_en": "Aaron Burr, Company",
+        "lines": [
+          "Ev’ry day you fight like it’s going out of style",
+          "Do what you do"
+        ]
+      },
+      {
+        "key": "23:60",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Alexander?"
+        ]
+      },
+      {
+        "key": "23:61",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Aaron Burr, sir"
+        ]
+      },
+      {
+        "key": "23:62",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "It’s the middle of the night"
+        ]
+      },
+      {
+        "key": "23:63",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Can we confer, sir?"
+        ]
+      },
+      {
+        "key": "23:64",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Is this a legal matter?"
+        ]
+      },
+      {
+        "key": "23:65",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Yes, and it’s important to me"
+        ]
+      },
+      {
+        "key": "23:66",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "What do you need?"
+        ]
+      },
+      {
+        "key": "23:67",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Burr, you’re a better lawyer than me"
+        ]
+      },
+      {
+        "key": "23:68",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Okay"
+        ]
+      },
+      {
+        "key": "23:69-71",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I know I talk too much, I’m abrasive",
+          "You’re incredible in court. You’re succinct, persuasive",
+          "My client needs a strong defense. You’re the solution"
+        ]
+      },
+      {
+        "key": "23:72",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Who’s your client?"
+        ]
+      },
+      {
+        "key": "23:73",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "The new U.S. Constitution?"
+        ]
+      },
+      {
+        "key": "23:74",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "No"
+        ]
+      },
+      {
+        "key": "23:75",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Hear me out"
+        ]
+      },
+      {
+        "key": "23:76",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "No way!"
+        ]
+      },
+      {
+        "key": "23:77-78",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "A series of essays, anonymously published",
+          "Defending the document to the public"
+        ]
+      },
+      {
+        "key": "23:79",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "No one will read it"
+        ]
+      },
+      {
+        "key": "23:80",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I disagree"
+        ]
+      },
+      {
+        "key": "23:81",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "And if it fails?"
+        ]
+      },
+      {
+        "key": "23:82",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Burr, that’s why we need it"
+        ]
+      },
+      {
+        "key": "23:83",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "The constitution’s a mess"
+        ]
+      },
+      {
+        "key": "23:84",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "So it needs amendments"
+        ]
+      },
+      {
+        "key": "23:85",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "It’s full of contradictions"
+        ]
+      },
+      {
+        "key": "23:86-87",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "So is independence",
+          "We have to start somewhere"
+        ]
+      },
+      {
+        "key": "23:88",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "No. No way"
+        ]
+      },
+      {
+        "key": "23:89",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You’re making a mistake"
+        ]
+      },
+      {
+        "key": "23:90",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Good night"
+        ]
+      },
+      {
+        "key": "23:91-93",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Hey",
+          "What are you waiting for?",
+          "What do you stall for?"
+        ]
+      },
+      {
+        "key": "23:94",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "What?"
+        ]
+      },
+      {
+        "key": "23:95-97",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "We won the war",
+          "What was it all for?",
+          "Do you support this constitution?"
+        ]
+      },
+      {
+        "key": "23:98",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Of course"
+        ]
+      },
+      {
+        "key": "23:99",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Then defend it"
+        ]
+      },
+      {
+        "key": "23:100",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "And what if you’re backing the wrong horse?"
+        ]
+      },
+      {
+        "key": "23:101-104",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Burr, we studied and we fought and we killed",
+          "For the notion of a nation we now get to build",
+          "For once in your life, take a stand with pride",
+          "I don’t understand how you stand to the side"
+        ]
+      },
+      {
+        "key": "23:105-113",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I’ll keep all my plans",
+          "Close to my chest",
+          "I’ll wait here and see",
+          "Which way the wind",
+          "Will blow",
+          "I’m taking my time",
+          "Watching the",
+          "Afterbirth of a nation",
+          "Watching the tension grow"
+        ]
+      },
+      {
+        "key": "23:114-119",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "I am sailing off to London",
+          "I’m accompanied by someone who always pays",
+          "I have found a wealthy husband",
+          "Who will keep me in comfort for all my days",
+          "He is not a lot of fun, but there’s no one who can match you for turn of phrase",
+          "My Alexander"
+        ]
+      },
+      {
+        "key": "23:120",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Angelica"
+        ]
+      },
+      {
+        "key": "23:121",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "Don’t forget to write"
+        ]
+      },
+      {
+        "key": "23:122-128",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Look at where you are",
+          "Look at where you started",
+          "The fact that you’re alive is a miracle",
+          "Just stay alive, that would be enough",
+          "And if your wife could share a fraction of your time",
+          "If I could grant you peace of mind",
+          "Would that be enough?"
+        ]
+      },
+      {
+        "key": "23:129-134",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Alexander joins forces with James Madison and John Jay to write a series of essays defending the new United States Constitution, entitled The Federalist Papers.",
+          "The plan was to write a total of twenty-five essays, the work divided evenly among the three men. In the end, they wrote eighty-five essays, in the span of six months. John Jay got sick after writing five. James Madison wrote twenty-nine. Hamilton wrote the other fifty-one!",
+          "How do you write like you’re",
+          "Running out of time?",
+          "Write day and night like you’re",
+          "Running out of time?"
+        ]
+      },
+      {
+        "key": "23:135-138",
+        "char_ids": [
+          "1",
+          "22"
+        ],
+        "speaker_kr": "아론 버, 남성 앙상블",
+        "speaker_en": "Aaron Burr, Men",
+        "lines": [
+          "Ev’ry day you fight like you’re",
+          "Running out of time like you’re",
+          "Running out of time",
+          "Are you running out of time?"
+        ]
+      },
+      {
+        "key": "23:139-142",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "How do you write like tomorrow won’t arrive?",
+          "How do you write like you need it to survive?",
+          "How do you write ev’ry second you’re alive?",
+          "Ev’ry second you’re alive ev’ry second you’re alive"
+        ]
+      },
+      {
+        "key": "23:143-146",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "They are asking me to lead",
+          "I am doing the best I can",
+          "To get the people that I need",
+          "I’m asking you to be my right hand man"
+        ]
+      },
+      {
+        "key": "23:147",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Treasury or State?"
+        ]
+      },
+      {
+        "key": "23:148",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "I know it’s a lot to ask"
+        ]
+      },
+      {
+        "key": "23:149",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Treasury or State?"
+        ]
+      },
+      {
+        "key": "23:150",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "To leave behind the world you know…"
+        ]
+      },
+      {
+        "key": "23:151",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Sir, do you want me to run the Treasury or State department?"
+        ]
+      },
+      {
+        "key": "23:152",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Treasury"
+        ]
+      },
+      {
+        "key": "23:153",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Let’s go"
+        ]
+      },
+      {
+        "key": "23:154",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Alexander..."
+        ]
+      },
+      {
+        "key": "23:155",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I have to leave"
+        ]
+      },
+      {
+        "key": "23:156",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Alexander—"
+        ]
+      },
+      {
+        "key": "23:157",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Look around, look around at how lucky we are to be alive right now"
+        ]
+      },
+      {
+        "key": "23:158",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Helpless…"
+        ]
+      },
+      {
+        "key": "23:159",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "They are asking me to lead"
+        ]
+      },
+      {
+        "key": "23:160",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Look around, isn’t this enough?"
+        ]
+      },
+      {
+        "key": "23:161-167",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "He will never be satisfied",
+          "He will never be satisfied",
+          "Satisfied",
+          "Satisfied…",
+          "He will never be satisfied",
+          "Satisfied…",
+          "Satisfied..."
+        ]
+      },
+      {
+        "key": "23:168-175",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "What would be enough",
+          "To be satisfied",
+          "Satisfied",
+          "Satisfied…",
+          "Look around",
+          "Look around!",
+          "Isn’t this enough?",
+          "What would be enough?"
+        ]
+      },
+      {
+        "key": "23:176-178",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "History has its eyes…",
+          "On…",
+          "You!"
+        ]
+      },
+      {
+        "key": "23:179-181",
+        "char_ids": [
+          "3",
+          "6",
+          "4",
+          "5"
+        ],
+        "speaker_kr": "조지 워싱턴, 허큘리스 멀리건, 존 로런스, 마르키 드 라파예트",
+        "speaker_en": "George Washington, Hercules Mulligan, John Laurens, Marquis de Lafayette",
+        "lines": [
+          "History has its eyes…",
+          "On…",
+          "You..."
+        ]
+      },
+      {
+        "key": "23:182-186",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Why do you assume you’re the smartest in the room?",
+          "Why do you assume you’re the smartest in the room? Why do you assume you’re the smartest in the room?",
+          "Soon that attitude’s gonna be your doom!",
+          "Why do you fight like you’re running out of time?",
+          "Why do you fight"
+        ]
+      },
+      {
+        "key": "23:187",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "History has its eyes on you"
+        ]
+      },
+      {
+        "key": "23:188-192",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I am not throwin’ away my shot!",
+          "I am not throwin’ away my shot!",
+          "I am",
+          "Alexander Hamilton!",
+          "I am not throwin’ away my shot!"
+        ]
+      }
+    ]
+  }
+}

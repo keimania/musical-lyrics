@@ -1,0 +1,907 @@
+{
+  "14": {
+    "id": 14,
+    "act": 2,
+    "title": "21st Century",
+    "title_kr": "21세기",
+    "file_rel_path": "act2/14_21st_century.md",
+    "stanzas": [
+      {
+        "key": "14:1",
+        "speaker_raw": "1955 Doc Brown, (Backing Chorus), Both",
+        "speaker_kr": "에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Doc Emmett Brown",
+        "lines": [
+          "No more hunger, no more pain; they're things of the past",
+          "Peace and love is all we'll ever know",
+          "With no more work or money we'll be happy at last",
+          "The sun will follow everywhere we go",
+          "(There's no more crime in the future",
+          "Just summertime in the future",
+          "We're out of time 'cause the future's now...)",
+          "I got myself a time machine",
+          "Imagine what we'll see",
+          "In the 21st century!",
+          "Flying cars and strange machines will fill up the sky",
+          "Trips to Mars will happen everyday",
+          "Exercising while you're sleeping; give it a try",
+          "Watch TV while inches fall away",
+          "(There's no more flair in the future",
+          "You'll have great hair in the future",
+          "Time to prepare 'cause the future's now...)",
+          "I like the way this baby feels",
+          "I can't wait to be",
+          "In the 21st Century!",
+          "So many things I need to share",
+          "I get to prove them everywhere",
+          "Experimentally",
+          "In the 21st century!",
+          "The new world will be shiny and bright (Ah-ah-ah)",
+          "It will be a delight (Oh-oh-oh-oh)",
+          "Everything bakelite",
+          "And since we've given up cash (Ah-ah-ah)",
+          "No more markets will crash (Oh-oh-oh-oh)",
+          "And we'll vaporize trash",
+          "Just imagine playing all day (Ah-ah-ah)",
+          "And with double the pay; (Oh-oh-oh-oh)",
+          "Wouldn't that be okay?",
+          "It's like the new kingdom come (It's like the new kingdom!)",
+          "And it's nothin' but fun",
+          "The new millennium!",
+          "(He's got star power)",
+          "I got myself a time machine (Meteor shower)",
+          "Imagine what we'll see (And it's his hour!)",
+          "In the 21st century!",
+          "Just think of what we're gonna find! (Here, let's fine tune it)",
+          "A world that's gonna blow your mind! (Put his mind to it)",
+          "Imagine what will be (And as time prove it)",
+          "In the 21st century!",
+          "{Instrumental break}"
+        ]
+      },
+      {
+        "key": "14:2",
+        "speaker_raw": "Doc Brown, (Backing Chorus), Both",
+        "speaker_kr": "에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Doc Emmett Brown",
+        "lines": [
+          "I got myself a time machine; (It's a miracle)",
+          "I need to keep it really clean! (Astro-lyrical)",
+          "Beyond this galaxy (It's a miracle)",
+          "In the 21st century!",
+          "I really dig this stainless steel (He'll go far and wide)",
+          "It feels so good behind the wheel! (He'll history write)",
+          "I can't wait to be (In the coolest night)",
+          "In the 21st century!",
+          "I can't wait to be...",
+          "In the 21st century!",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "act": 2,
+    "title": "Put Your Mind to It",
+    "title_kr": "마음만 먹으면 해낼 수 있어",
+    "file_rel_path": "act2/15_put_your_mind_to_it.md",
+    "stanzas": [
+      {
+        "key": "15:1",
+        "speaker_raw": "Intro: George McFly, Marty McFly",
+        "speaker_kr": "마티 맥플라이, 조지 맥플라이",
+        "speaker_en": "Marty McFly, George McFly",
+        "lines": [
+          "You make it sound so easy... I-I just wish I wasn't so scared...",
+          "Scared? George! Buddy, there's nothing to be scared about! Just remember..."
+        ]
+      },
+      {
+        "key": "15:2",
+        "speaker_raw": "Verse 1: Marty",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "When you walk",
+          "Take it slow",
+          "Like you're goin' someplace only you can go",
+          "And when you talk",
+          "Don't be loud",
+          "Friends are fine but don't be part of a crowd",
+          "And don't be in a hurry",
+          "Even when you're runnin' late",
+          "You should never worry",
+          "George, you've gotta concentrate!"
+        ]
+      },
+      {
+        "key": "15:3",
+        "speaker_raw": "Chorus: Marty and Backing Chorus",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Put your mind to it",
+          "Don't be blind to it",
+          "And we can fine tune it",
+          "Just put your mind to it",
+          "Your mind..."
+        ]
+      },
+      {
+        "key": "15:4",
+        "speaker_raw": "Interlude: George, Marty",
+        "speaker_kr": "마티 맥플라이, 조지 맥플라이",
+        "speaker_en": "Marty McFly, George McFly",
+        "lines": [
+          "I feel I was doing exactly what you were doing...",
+          "Ah...not even close",
+          "Errr...",
+          "Alright, George, now let's try again"
+        ]
+      },
+      {
+        "key": "15:5",
+        "speaker_raw": "Verse 2: Marty, George, (Backing Chorus)",
+        "speaker_kr": "마티 맥플라이, 조지 맥플라이",
+        "speaker_en": "Marty McFly, George McFly",
+        "lines": [
+          "When you play",
+          "Have some fun",
+          "Make it look like you have already won",
+          "And when you dance",
+          "On the bones",
+          "Try to swagger like Mick Jagger of the Stones",
+          "Wait, wait, what stones? And who's \"Dick\" Jagger?",
+          "Stop apologisin'",
+          "Be anythin' you want to be",
+          "(Anything you wanna be, anythin' that you wanna be)",
+          "No over-analysin'",
+          "Let that man inside go free"
+        ]
+      },
+      {
+        "key": "15:6",
+        "speaker_raw": "Chorus: Marty and Backing Chorus",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Put your mind to it",
+          "Don't be blind to it",
+          "And we can fine tune it",
+          "Just put your mind to it",
+          "Your mind..."
+        ]
+      },
+      {
+        "key": "15:7",
+        "speaker_raw": "Bridge: Marty, (Backing Chorus)",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "It's a state of mind (State of mind)",
+          "It's a point of view (Point of view)",
+          "If you want that girl (Want that girl)",
+          "Make up your mind to..."
+        ]
+      },
+      {
+        "key": "15:8",
+        "speaker_raw": "Instrumental break: Marty, George",
+        "speaker_kr": "마티 맥플라이, 조지 맥플라이",
+        "speaker_en": "Marty McFly, George McFly",
+        "lines": [
+          "Hey, you're doing it! Let's go! Hey, you feelin' it yet, George?",
+          "Yeah, right in my neck!"
+        ]
+      },
+      {
+        "key": "15:9",
+        "speaker_raw": "Outro: All, George",
+        "speaker_kr": "조지 맥플라이, 전원",
+        "speaker_en": "George McFly, All",
+        "lines": [
+          "(P-P-P-P-P) Put your mind to it",
+          "Don't be blind to it",
+          "Draw a line through it",
+          "Just put your mind to it (Put your, Put your, P-P-P)",
+          "Just put your mind to it!",
+          "And your behind to it!",
+          "Don't be confined to it!",
+          "Just put your mind to it!",
+          "My mind...",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "act": 2,
+    "title": "For the Dreamers",
+    "title_kr": "꿈꾸는 자들을 위하여",
+    "file_rel_path": "act2/16_for_the_dreamers.md",
+    "stanzas": [
+      {
+        "key": "16:1",
+        "speaker_raw": "1955 Doc Brown",
+        "speaker_kr": "에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Doc Emmett Brown",
+        "lines": [
+          "So this one's for the dreamers",
+          "Whoever tried to make it",
+          "Though very few ever break through",
+          "We celebrate them when they do",
+          "Lionise them, call them great",
+          "Ticker-tape parade them",
+          "But this one's for the dreamers",
+          "Who strive to be a winner",
+          "Go as far as they can take it",
+          "Even if they don't quite make it...",
+          "This one's for the dreamers",
+          "Let's hear it for the dreamers",
+          "Who never stop believing",
+          "One grain of sand becomes a pearl",
+          "A great idea can change the world",
+          "They can see what others don't;",
+          "Try things others won't",
+          "So this one's for the dreamers",
+          "Who live on inspiration",
+          "Go as far as they can take it",
+          "Even if they don't quite make it...",
+          "This one's for the dreamers",
+          "And I know what it's like to be misunderstood",
+          "And I know how it feels to be told you're no good",
+          "But I couldn't give up; no, I never would",
+          "But people just took advantage of me",
+          "My distractions just consumed me",
+          "But for everyone that gets it right",
+          "Thousands more keep up the fight",
+          "They burn the fires deep in the night until they lose the light!",
+          "And most just disappear and we never hear of them...",
+          "So this one's for the dreamers",
+          "Who have the guts to risk it",
+          "To take a chance on what they think;",
+          "Can't stare them down 'cause they don't blink",
+          "Ridicule or call them out;",
+          "No one sees what they're about",
+          "Yes, this one's for the dreamers",
+          "Whose names we don't remember",
+          "They were close but no cigar",
+          "And we don't know who they are...",
+          "This one's for the dreamers",
+          "This one's for the dreamers",
+          "Like me...",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "act": 2,
+    "title": "Teach Him a Lesson",
+    "title_kr": "본때를 보여주마",
+    "file_rel_path": "act2/17_teach_him_a_lesson.md",
+    "stanzas": [
+      {
+        "key": "17:1",
+        "speaker_raw": "Intro: Biff Howard Tannen, 3D (Goon #1), Slick (Goon#2)",
+        "speaker_kr": "비프 태넌",
+        "speaker_en": "Biff Tannen",
+        "lines": [
+          "You hear that guys? \"Calvin Klein's goin' to the sissy dance on Saturday\"! Well, we wouldn't be caught dead, at a thing like that, would we guys?!",
+          "No...! Yes...!"
+        ]
+      },
+      {
+        "key": "17:2",
+        "speaker_raw": "Biff Tannen, 3D (Goon #1), Slick (Goon#2), (3D & Slick), Biff and gang",
+        "speaker_kr": "비프 태넌",
+        "speaker_en": "Biff Tannen",
+        "lines": [
+          "There's somethin' about that punk",
+          "That I don't trust",
+          "He's dangerous",
+          "There's somethin' that don't add up",
+          "Arithmetic",
+          "And a hockey stick",
+          "There's somethin' about that guy",
+          "Since he appeared!",
+          "It's really weird!",
+          "Yeah",
+          "There's somethin' that's all messed up",
+          "It don't make sense how he's dressed up!",
+          "I'm gonna find him",
+          "And wh?n I do (And when you do...)",
+          "I'm gonna remind him",
+          "Of what a man can't do!",
+          "I'm gonna",
+          "Teach him a l?sson",
+          "That he'll always forget! (\"Never forget\"!)",
+          "Teach him for messin' with",
+          "A man he won't regret... (\"Man he will regret\"!)",
+          "Yes, I'm the man he won't regret! (\"Will regret\"!)",
+          "Teach him a lesson",
+          "That I haven't learnt yet",
+          "Teach him for messin' with",
+          "A man he will forget... (\"Man he won't\"!)",
+          "Yes, I'm the man",
+          "(You're the man)",
+          "I'm the man",
+          "(You're the man)",
+          "I'm the man!",
+          "(He'll be destroyed!)",
+          "There's somethin' about that boy",
+          "It's heads, he wins",
+          "And tails, I lose!",
+          "There's somethin' that I'll/(he'll) destroy",
+          "I'll pay his dues!",
+          "I'll shine his shoes!",
+          "SATURDAY NIGHT!!! (*laughs evilly*)",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "act": 2,
+    "title": "The Letter / Only a Matter of Time (Reprise)",
+    "title_kr": "편지 / 시간 문제일 뿐이야 (리프라이즈)",
+    "file_rel_path": "act2/18_the_letter_reprise.md",
+    "stanzas": [
+      {
+        "key": "18:1",
+        "speaker_raw": "1955 Doc Brown",
+        "speaker_kr": "에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Doc Emmett Brown",
+        "lines": [
+          "Y'know Marty, I'm gonna be sad to see you go. You made a real difference in my life. You've given me something to shoot for; I-just... knowing... I'm gonna live to see 1985! Then I'm gonna succeed in this; that- that I'll have the chance to travel through time. It's gonna be really hard to wait 30 years to talk about everything that's happened these last few days... I'm really gonna miss you, future boy.",
+          "I need to prepare our weather experiment, and you... you need to pick up your mother."
+        ]
+      },
+      {
+        "key": "18:2",
+        "speaker_raw": "Marty McFly",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Dear Dr. Brown,",
+          "On the night that I go back in time, you collapse from plutonium radiation poisoning.",
+          "Pl?ase take whatev?r precautions are necessary to prevent this terrible disaster.",
+          "Your friend,",
+          "Marty",
+          "I don't know how I ended up here;",
+          "It's so hard to believe",
+          "There's one chance and this much is so clear",
+          "If I miss it, I may never leave",
+          "I'll be stuck in this dream;",
+          "Can't wake up, can't get free",
+          "Destiny...",
+          "I'm not sure what that means",
+          "And history...",
+          "Well, it's not everything that it seems",
+          "Will I be on my way",
+          "Or will I have to stay?",
+          "But it's always a matter of time..."
+        ]
+      },
+      {
+        "key": "18:3",
+        "speaker_raw": "Jennifer Parker",
+        "speaker_kr": "제니퍼 파커",
+        "speaker_en": "Jennifer Parker",
+        "lines": [
+          "We've been waiting a lifetime it seems",
+          "For a chance to break through",
+          "Now I know all our hopes and our dreams",
+          "Are real and about to come true",
+          "It's so easy to see",
+          "This is all meant to be"
+        ]
+      },
+      {
+        "key": "18:4",
+        "speaker_raw": "Jennifer, Marty, Both",
+        "speaker_kr": "마티 맥플라이, 제니퍼 파커",
+        "speaker_en": "Marty McFly, Jennifer Parker",
+        "lines": [
+          "Wherever we're going is alright with me",
+          "There's no way of knowin' just where that will be",
+          "We'll get where we're going eventually",
+          "Wherever we're going is alright if you're there with me",
+          "It's only a matter of time",
+          "Only a matter",
+          "Only a matter of time",
+          "I may not get out alive",
+          "Only a matter of...",
+          "Time...",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "act": 2,
+    "title": "Deep Divin'",
+    "title_kr": "깊이 빠져들어",
+    "file_rel_path": "act2/19_deep_divin.md",
+    "stanzas": [
+      {
+        "key": "19:1",
+        "speaker_raw": "Verse 1: Marvin Berry",
+        "speaker_kr": "마빈 베리",
+        "speaker_en": "Marvin Berry",
+        "lines": [
+          "In the South Sea Islands they dive for pearls",
+          "In the USA, they dive for girls",
+          "If you take your time and play it cool",
+          "There'll be somebody waiting at the end of the pool",
+          "Everybody says that you should look before you leap",
+          "And when I look at you I'm ready to go"
+        ]
+      },
+      {
+        "key": "19:2",
+        "speaker_raw": "Chorus: Marvin, (Backing Chorus), Marvin and chorus",
+        "speaker_kr": "마빈 베리",
+        "speaker_en": "Marvin Berry",
+        "lines": [
+          "Deep...",
+          "Deep divin' for love",
+          "(deep divin', a-deep deep divin')",
+          "And well I keep",
+          "Deep divin' for love (stop drownin'; a wee little routin')",
+          "There is just so much that we've been waiting to explore...",
+          "We'll find out every treasure on the ocean floor",
+          "So deep...",
+          "Deep divin' for love",
+          "{Instrumental break}"
+        ]
+      },
+      {
+        "key": "19:3",
+        "speaker_raw": "Chorus: Marvin, (Backing Chorus), Marvin and chorus",
+        "speaker_kr": "마빈 베리",
+        "speaker_en": "Marvin Berry",
+        "lines": [
+          "(Deep...)",
+          "(Deep divin' for love) Deep divin' for love...",
+          "(deep divin' a-deep deep divin')",
+          "Deep...",
+          "Deep divin' for love",
+          "So stop drownin', it will be little routin'",
+          "There is just so much that we've been waiting to explore...",
+          "We'll find out every treasure on the ocean floor",
+          "So deep... (so deep)",
+          "Deep divin' for love",
+          "(Oooooooh...)",
+          "Deep divin' for love!",
+          "Last Update: April, 17th 2026"
+        ]
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "act": 2,
+    "title": "Earth Angel (Will You Be Mine)",
+    "title_kr": "지상의 천사",
+    "file_rel_path": "act2/20_earth_angel.md",
+    "stanzas": [
+      {
+        "key": "20:1",
+        "speaker_raw": "Intro: Marvin Berry",
+        "speaker_kr": "마빈 베리",
+        "speaker_en": "Marvin Berry",
+        "lines": [
+          "This goes out to all you lovers tonight"
+        ]
+      },
+      {
+        "key": "20:2",
+        "speaker_raw": "Marvin, (Mark Dixon), Lorraine Baines, George McFly",
+        "speaker_kr": "조지 맥플라이, 로레인 베인스, 마빈 베리",
+        "speaker_en": "George McFly, Lorraine Baines, Marvin Berry",
+        "lines": [
+          "Earth angel, Earth angel, will you be mine?",
+          "My darling dear, love you all the time",
+          "I'm just a fool, a fool in love with you",
+          "Aren't you gonna kiss me, George?",
+          "Oh, gee, I dunno, I, uh...",
+          "Earth angel, Earth angel, the one I adore (Scram, McFly, I'm cuttin' in!)",
+          "Love you for ever, and ever more...",
+          "{Music gets grittier and more shrill}",
+          "(C'mon, Lorraine, let's dance.)",
+          "Hey, stop it! No! George!",
+          "(Hey, what are you doin'? Hey, place your arms around me!)",
+          "Leave m? alone! Stop it! George!",
+          "(Com? on, Lorraine! Quit bein' such a square, huh?)",
+          "Stop it! Let me go!",
+          "(Hey, come on, let's dance with me!)",
+          "Excuse me!",
+          "{Climaxing musical interlude}"
+        ]
+      },
+      {
+        "key": "20:3",
+        "speaker_raw": "Marvin, (Backing vocals), Marvin and backing vocals, George, George and Lorraine",
+        "speaker_kr": "조지 맥플라이, 로레인 베인스, 마빈 베리",
+        "speaker_en": "George McFly, Lorraine Baines, Marvin Berry",
+        "lines": [
+          "The vision of your happiness, wo-o-o-o-o-oah...",
+          "Earth angel, Earth angel",
+          "Please be mine (Ooo-oo-oo-ooh)",
+          "My darling dear, (My darling)",
+          "Love you all the time (I love you...)",
+          "I'm just a fool (A-a-a-ah...)",
+          "A fool in love...",
+          "With you...",
+          "(Ah, a-a-a-a-ah...)",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "act": 2,
+    "title": "Johnny B. Goode",
+    "title_kr": "자니 비 굿",
+    "file_rel_path": "act2/21_johnny_b_goode.md",
+    "stanzas": [
+      {
+        "key": "21:1",
+        "speaker_raw": "Intro: Marty McFly",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Okay, ah, so, uh, this one's an oldie... Well, it's an oldie where I come from. Okay, so this is a blues riff in B flat. Watch me for the changes, and, um... yeah, try to keep up, okay?"
+        ]
+      },
+      {
+        "key": "21:2",
+        "speaker_raw": "Verse 1: Marty",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Way down in Louisiana, close to New Orleans",
+          "Way back up in the woods, among the evergreens",
+          "There stood a log cabin made of earth and wood",
+          "Where lived a country boy named-a Johnny B. Goode",
+          "Who never ever learned to read or write so well",
+          "But he could play the guitar like he's ringing a bell"
+        ]
+      },
+      {
+        "key": "21:3",
+        "speaker_raw": "Chorus: Marty",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Go, go",
+          "Go, Johnny, go, go",
+          "Go, Johnny, go, go",
+          "Go, Johnny, go, go",
+          "Go, Johnny, go, go, go",
+          "Johnny B. Goode"
+        ]
+      },
+      {
+        "key": "21:4",
+        "speaker_raw": "Verse 2: Marty",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "His mama told him, \"Someday, you will be a man",
+          "And you will be the leader of a big ol' band",
+          "Now, many people coming from-a miles around",
+          "To hear you playing music when the sun come down",
+          "Maybe someday your name will be in light",
+          "Saying \"Johnny B. Goode tonight!\"\""
+        ]
+      },
+      {
+        "key": "21:5",
+        "speaker_raw": "Chorus: Marty and Prom Attendees",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Go, go! (Go, go,)",
+          "Go, Johnny, go, go",
+          "Go, Johnny, go, go",
+          "Go, Johnny, go, go",
+          "Go, Johnny, go, go, go",
+          "Johnny B. Goode!"
+        ]
+      },
+      {
+        "key": "21:6",
+        "speaker_raw": "Outro: Marty",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Guess you guys aren't ready for that yet... but your kids are gonna love it...",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "act": 2,
+    "title": "The Clocktower / For the Dreamers (Reprise)",
+    "title_kr": "시계탑 / 꿈꾸는 자들을 위하여 (리프라이즈)",
+    "file_rel_path": "act2/22_the_clocktower_reprise.md",
+    "stanzas": [
+      {
+        "key": "22:1",
+        "speaker_raw": "Ensemble",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "{Instrumental}"
+        ]
+      },
+      {
+        "key": "22:2",
+        "speaker_raw": "1955 Doc Brown",
+        "speaker_kr": "에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Doc Emmett Brown",
+        "lines": [
+          "One grain of sand",
+          "Becomes a pearl",
+          "One small step",
+          "Can change the world",
+          "They can see what others don't",
+          "Try things others won't",
+          "So this one's for the dreamers...",
+          "This one's for the dreamers...",
+          "This one's for the dreamers...",
+          "Like... meeeeeeeeeeeeeeeeeeeee!!!",
+          "{Instrumental}",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "act": 2,
+    "title": "The Power of Love",
+    "title_kr": "사랑의 힘",
+    "file_rel_path": "act2/23_the_power_of_love.md",
+    "stanzas": [
+      {
+        "key": "23:1",
+        "speaker_raw": "Intro: George McFly",
+        "speaker_kr": "조지 맥플라이",
+        "speaker_en": "George McFly",
+        "lines": [
+          "My success...is the result of some very simple advice a young man gave to me 30 years ago: \"You can accomplish anything if you put your mind to it.\", and here's the proof. May I introduce our son, Marty McFly, and his band, the Pinheads!"
+        ]
+      },
+      {
+        "key": "23:2",
+        "speaker_raw": "Verse 1: Marty McFly",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "The power of love is a curious thing",
+          "Make-a one man weep, make another man sing",
+          "Change a hawk to a little white dove",
+          "More than a feeling, that's the power of love",
+          "Tougher than diamonds, rich like cream",
+          "Stronger and harder than a bad girl's dream",
+          "Make a bad one good, make a wrong one right",
+          "Power of love will keep you home at night"
+        ]
+      },
+      {
+        "key": "23:3",
+        "speaker_raw": "Chorus 1: Marty, Marty and Jennifer Parker",
+        "speaker_kr": "마티 맥플라이, 제니퍼 파커",
+        "speaker_en": "Marty McFly, Jennifer Parker",
+        "lines": [
+          "You don't need money, don't take fame",
+          "Don't need no credit card to ride this train",
+          "It's strong and it's sudden and it's cruel sometimes",
+          "But it might just save your life",
+          "That's the power of love",
+          "That's the power of love"
+        ]
+      },
+      {
+        "key": "23:4",
+        "speaker_raw": "Verse 2: Mayor Goldie Wilson, Marty and Goldie, Marty",
+        "speaker_kr": "마티 맥플라이, 골디 윌슨",
+        "speaker_en": "Marty McFly, Goldie Wilson",
+        "lines": [
+          "First time you feel it, it might make you sad",
+          "Next time you feel it, it might make you mad",
+          "But you'll be glad, baby, when you've found",
+          "That's the power",
+          "That makes the world go round"
+        ]
+      },
+      {
+        "key": "23:5",
+        "speaker_raw": "Chorus 2: Company",
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "You don't need money, don't take fame",
+          "Don't need no credit card to ride this train",
+          "It's strong and it's sudden and it'll be cruel sometimes",
+          "But it might just save your life"
+        ]
+      },
+      {
+        "key": "23:6",
+        "speaker_raw": "Bridge: Marty, (backing vocals)",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "They say that all in love is fair",
+          "Yeah, but you don't care",
+          "But you know what to do (oo-oo what to do...)",
+          "When it gets hold of you (ooooh...)",
+          "And with a little help from above (Ohhhhh...)",
+          "You feel the power of love",
+          "Can you feel it?"
+        ]
+      },
+      {
+        "key": "23:7",
+        "speaker_raw": "Chorus: Marty, Marty and Company, (Backing Chorus)",
+        "speaker_kr": "마티 맥플라이, 앙상블 전체",
+        "speaker_en": "Marty McFly, Company",
+        "lines": [
+          "You don't need money, you don't take fame",
+          "Don't need no credit card to ride this train",
+          "Tougher than diamonds and stronger than steel",
+          "You won't feel nothin' till you feel",
+          "Feel the power, just the power of love (woooaah...)",
+          "That's the power, that's the power of love",
+          "You feel the power of love",
+          "You feel the power of love",
+          "You feel the power of love",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "act": 2,
+    "title": "Doc Returns / Finale",
+    "title_kr": "닥의 귀환 / 피날레",
+    "file_rel_path": "act2/24_doc_returns_finale.md",
+    "stanzas": [
+      {
+        "key": "24:1",
+        "speaker_raw": "Doc Brown, Marty McFly",
+        "speaker_kr": "마티 맥플라이, 에밋 \"닥\" 브라운 박사",
+        "speaker_en": "Marty McFly, Doc Emmett Brown",
+        "lines": [
+          "Marty!",
+          "Doc!",
+          "Marty, you gotta come back with me!",
+          "Where?",
+          "Back to the future! It's incredible! You're not gonna believe your eyes! Get in the car!",
+          "Right now? But I'm in the middle of a song!",
+          "I'll have you back in thirty seconds, after all it's a time machine! Come on!",
+          "You're the doc, Doc",
+          "Alright, excuse us everyone... There's a little science experiment going on here...",
+          "Errr, give us some room! Doc, we're in the town square...",
+          "Yes...",
+          "Errr, we don't have enough road to get up to 88...",
+          "Roads? Where we're going we don't need roads...",
+          "{Instrumental}"
+        ]
+      },
+      {
+        "key": "24:2",
+        "speaker_raw": "Full Company, Ladies, (Men)",
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Aa-aa-aaah...",
+          "But it's only a matter of time",
+          "(Only a matter of time)",
+          "Yes, it's only a matter of-",
+          "Only a matter of ti-i-i-ime...",
+          "Aaa-aaa-aaa-aaaaaaaaaah...",
+          "TIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIME!!!!!",
+          "Last Update: April, 17th 2026"
+        ]
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "act": 2,
+    "title": "Back in Time",
+    "title_kr": "시간을 거슬러",
+    "file_rel_path": "act2/25_back_in_time.md",
+    "stanzas": [
+      {
+        "key": "25:1",
+        "speaker_raw": "Verse 1: Marty McFly, (Backing Chorus), Both",
+        "speaker_kr": "마티 맥플라이",
+        "speaker_en": "Marty McFly",
+        "lines": [
+          "Tell me, Doctor",
+          "Where are we goin' this time?",
+          "Is this the 50s, or 1999?",
+          "All I wanted to do",
+          "Was play my guitar and sing",
+          "So take me away",
+          "I don't mind",
+          "But you better just promise me, I’ll be back in time (Back in time!)",
+          "Gotta get back in time"
+        ]
+      },
+      {
+        "key": "25:2",
+        "speaker_raw": "Verse 2: Doc Brown, Marty, Both, Company, (Backing Company)",
+        "speaker_kr": "마티 맥플라이, 에밋 \"닥\" 브라운 박사, 앙상블 전체",
+        "speaker_en": "Marty McFly, Doc Emmett Brown, Company",
+        "lines": [
+          "Don’t bet your future",
+          "On one roll of the dice",
+          "Better remember",
+          "Lightning never strikes twice",
+          "Please don't drive 88",
+          "Don’t wanna be late again",
+          "So take me away (Ooooooh)",
+          "I don't mind (wo-o-o-oah)",
+          "But you better just promise me, I’ll be back in time (Back in time!)",
+          "Gotta get back in time",
+          "You gotta get back in time"
+        ]
+      },
+      {
+        "key": "25:3",
+        "speaker_raw": "Verse 1: Full Cast, Marvin Berry, (Backing Company)",
+        "speaker_kr": "마빈 베리, 앙상블 전체",
+        "speaker_en": "Marvin Berry, Company",
+        "lines": [
+          "All I wanted to do",
+          "(All I only wanted to do, yeah...)",
+          "Was play my guitar and sing",
+          "So take me away",
+          "I don’t mind",
+          "But you better promise me",
+          "I’ll be back in time (Back in time!)",
+          "(back back)",
+          "Ooooh, back in time! (back back)",
+          "Ooooh, back in time! (back back)",
+          "You gotta get back in time!",
+          "Last Update: July, 10th 2026"
+        ]
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "act": 2,
+    "title": "Exit Music (Back in Time)",
+    "title_kr": "퇴장 음악",
+    "file_rel_path": "act2/26_exit_music.md",
+    "stanzas": [
+      {
+        "key": "26:1",
+        "speaker_raw": "Ensemble",
+        "speaker_kr": "앙상블",
+        "speaker_en": "Ensemble",
+        "lines": [
+          "Instrumental",
+          "Last Update: April, 17th 2026"
+        ]
+      }
+    ]
+  }
+}

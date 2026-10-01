@@ -1,0 +1,3581 @@
+{
+  "39": {
+    "id": 39,
+    "act": 2,
+    "title": "Blow Us All Away",
+    "title_kr": "우리 모두를 놀라게 할 거야",
+    "file_rel_path": "act2/39_blow_us_all_away.md",
+    "characters_kr": [
+      "여성 앙상블",
+      "앙상블 전체",
+      "알렉산더 해밀턴",
+      "조지 이거",
+      "남성 앙상블",
+      "필립 해밀턴"
+    ],
+    "characters_en": [
+      "Women",
+      "Company",
+      "Alexander Hamilton",
+      "George Eacker",
+      "Men",
+      "Philip Hamilton"
+    ],
+    "stanzas": [
+      {
+        "key": "39:1-10",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Meet the latest graduate of King’s College!",
+          "I prob’ly shouldn’t brag, but, dag, I amaze and astonish!",
+          "The scholars say I got the same virtuosity and brains as my pops!",
+          "The ladies say my brain’s not where the resemblance stops!",
+          "I’m only nineteen but my mind is older",
+          "Gotta be my own man, like my father, but bolder",
+          "I shoulder his legacy with pride",
+          "I used to hear him say",
+          "That someday",
+          "I would—"
+        ]
+      },
+      {
+        "key": "39:11",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Blow us all away"
+        ]
+      },
+      {
+        "key": "39:12-15",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Ladies, I’m lookin for a Mr. George Eacker",
+          "Made a speech last week, our Fourth of July speaker",
+          "He disparaged my father’s legacy in front of a crowd",
+          "I can’t have that, I’m making my father proud"
+        ]
+      },
+      {
+        "key": "39:16-17",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "I saw him just up Broadway a couple of blocks",
+          "He was goin’ to see a play"
+        ]
+      },
+      {
+        "key": "39:18",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Well, I’ll go visit his box"
+        ]
+      },
+      {
+        "key": "39:19",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "God, you’re a fox"
+        ]
+      },
+      {
+        "key": "39:20-21",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "And y’all look pretty good in ya’ frocks",
+          "How ‘bout when I get back, we all strip down to our socks?"
+        ]
+      },
+      {
+        "key": "39:22",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "Ok!"
+        ]
+      },
+      {
+        "key": "39:23",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Blow us all away!"
+        ]
+      },
+      {
+        "key": "39:24",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "George!"
+        ]
+      },
+      {
+        "key": "39:25",
+        "char_ids": [
+          "18"
+        ],
+        "speaker_kr": "조지 이거",
+        "speaker_en": "George Eacker",
+        "lines": [
+          "Shh"
+        ]
+      },
+      {
+        "key": "39:26",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "George!"
+        ]
+      },
+      {
+        "key": "39:27",
+        "char_ids": [
+          "18"
+        ],
+        "speaker_kr": "조지 이거",
+        "speaker_en": "George Eacker",
+        "lines": [
+          "Shh! I’m tryin’ to watch the show!"
+        ]
+      },
+      {
+        "key": "39:28-29",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Ya’ shoulda watched your mouth before you",
+          "Talked about my father though!"
+        ]
+      },
+      {
+        "key": "39:30-31",
+        "char_ids": [
+          "18"
+        ],
+        "speaker_kr": "조지 이거",
+        "speaker_en": "George Eacker",
+        "lines": [
+          "I didn’t say anything that wasn’t true",
+          "Your father’s a scoundrel, and so, it seems, are you"
+        ]
+      },
+      {
+        "key": "39:32",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Ooooooooooh!"
+        ]
+      },
+      {
+        "key": "39:33",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "It’s like that?"
+        ]
+      },
+      {
+        "key": "39:34-35",
+        "char_ids": [
+          "18"
+        ],
+        "speaker_kr": "조지 이거",
+        "speaker_en": "George Eacker",
+        "lines": [
+          "Yeah, I don’t fool around",
+          "I’m not your little schoolboy friends"
+        ]
+      },
+      {
+        "key": "39:36-37",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "See you on the dueling ground",
+          "That is, unless you wanna step outside and go now"
+        ]
+      },
+      {
+        "key": "39:38-39",
+        "char_ids": [
+          "18"
+        ],
+        "speaker_kr": "조지 이거",
+        "speaker_en": "George Eacker",
+        "lines": [
+          "I know where to find you, piss off",
+          "I’m watchin’ this show now"
+        ]
+      },
+      {
+        "key": "39:40-41",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Pops, if you had only heard the shit he said about you",
+          "I doubt you would have let it slide and I was not about to—"
+        ]
+      },
+      {
+        "key": "39:42",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Slow down"
+        ]
+      },
+      {
+        "key": "39:43-44",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "I came to ask you for advice. This is my very first duel",
+          "They don’t exactly cover this subject in boarding school"
+        ]
+      },
+      {
+        "key": "39:45",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Did your friends attempt to negotiate a peace?"
+        ]
+      },
+      {
+        "key": "39:46",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "He refused to apologize, we had to let the peace talks cease"
+        ]
+      },
+      {
+        "key": "39:47",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Where is this happening?"
+        ]
+      },
+      {
+        "key": "39:48",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Across the river, in Jersey"
+        ]
+      },
+      {
+        "key": "39:49",
+        "char_ids": [
+          "2",
+          "15"
+        ],
+        "speaker_kr": "알렉산더 해밀턴, 필립 해밀턴",
+        "speaker_en": "Alexander Hamilton, Philip Hamilton",
+        "lines": [
+          "Everything is legal in New Jersey…"
+        ]
+      },
+      {
+        "key": "39:50-53",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Alright. So this is what you’re gonna do:",
+          "Stand there like a man until Eacker is in front of you",
+          "When the time comes, fire your weapon in the air",
+          "This will put an end to the whole affair"
+        ]
+      },
+      {
+        "key": "39:54",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "But what if he decides to shoot? Then I’m a goner"
+        ]
+      },
+      {
+        "key": "39:55-57",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "No. He’ll follow suit if he’s truly a man of honor",
+          "To take someone’s life, that is something you can’t shake",
+          "Philip, your mother can’t take another heartbreak"
+        ]
+      },
+      {
+        "key": "39:58",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Father—"
+        ]
+      },
+      {
+        "key": "39:59-60",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Promise me. You don’t want this",
+          "Young man’s blood on your conscience"
+        ]
+      },
+      {
+        "key": "39:61",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Okay, I promise"
+        ]
+      },
+      {
+        "key": "39:62-63",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Come back home when you’re done",
+          "Take my guns. Be smart. Make me proud, son"
+        ]
+      },
+      {
+        "key": "39:64-68",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "My name is Philip",
+          "I am a poet",
+          "I’m a little nervous, but I can’t show it",
+          "I’m sorry, I’m a Hamilton with pride",
+          "You talk about my father, I cannot let it slide"
+        ]
+      },
+      {
+        "key": "39:69",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Mister Eacker! How was the rest of your show?"
+        ]
+      },
+      {
+        "key": "39:70-72",
+        "char_ids": [
+          "18"
+        ],
+        "speaker_kr": "조지 이거",
+        "speaker_en": "George Eacker",
+        "lines": [
+          "I’d rather skip the pleasantries",
+          "Let’s go",
+          "Grab your pistol"
+        ]
+      },
+      {
+        "key": "39:73-74",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Confer with your men",
+          "The duel will commence after we count to ten"
+        ]
+      },
+      {
+        "key": "39:75",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Count to ten!"
+        ]
+      },
+      {
+        "key": "39:76-78",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Look ‘em in the eye, aim no higher",
+          "Summon all the courage you require",
+          "Then slowly and clearly aim your gun towards the sky—"
+        ]
+      },
+      {
+        "key": "39:79",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "One two three four"
+        ]
+      },
+      {
+        "key": "39:80",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Five six seven—"
+        ]
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "act": 2,
+    "title": "Stay Alive (Reprise)",
+    "title_kr": "살아남아라 (리프라이즈)",
+    "file_rel_path": "act2/40_stay_alive_reprise.md",
+    "characters_kr": [
+      "여성 앙상블",
+      "일라이자 스카일러",
+      "알렉산더 해밀턴",
+      "남성 앙상블",
+      "필립 해밀턴"
+    ],
+    "characters_en": [
+      "Women",
+      "Eliza Schuyler",
+      "Alexander Hamilton",
+      "Men",
+      "Philip Hamilton"
+    ],
+    "stanzas": [
+      {
+        "key": "40:1-3",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "Stay alive…",
+          "Stay alive…",
+          "Stay alive..."
+        ]
+      },
+      {
+        "key": "40:4",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Where’s my son?"
+        ]
+      },
+      {
+        "key": "40:5",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Mr. Hamilton, come in. They brought him in a half an hour ago. He lost a lot of blood on the way over."
+        ]
+      },
+      {
+        "key": "40:6",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Is he alive?"
+        ]
+      },
+      {
+        "key": "40:7-8",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Yes. But you have to understand",
+          "The bullet entered just above his hip and lodged in his right arm"
+        ]
+      },
+      {
+        "key": "40:9",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Can I see him please?"
+        ]
+      },
+      {
+        "key": "40:10",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "I’m doing ev’rything I can, but the wound was already infected when he arrived—"
+        ]
+      },
+      {
+        "key": "40:11",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Philip"
+        ]
+      },
+      {
+        "key": "40:12-14",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Pa",
+          "I did exactly as you said, Pa",
+          "I held my head up high"
+        ]
+      },
+      {
+        "key": "40:15-24",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I know, I know. Shh",
+          "I know, I know",
+          "Shh. I know you did",
+          "Ev’rything just right",
+          "Shh",
+          "I know, I know",
+          "I know, I know",
+          "I know",
+          "Save your strength and",
+          "Stay alive…"
+        ]
+      },
+      {
+        "key": "40:25",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "No!"
+        ]
+      },
+      {
+        "key": "40:26",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Eliza"
+        ]
+      },
+      {
+        "key": "40:27-28",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Is he breathing? Is he going to survive this?",
+          "Who did this, Alexander, did you know?"
+        ]
+      },
+      {
+        "key": "40:29",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Mom, I’m so sorry for forgetting what you taught me"
+        ]
+      },
+      {
+        "key": "40:30",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "My son—"
+        ]
+      },
+      {
+        "key": "40:31",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "We played piano"
+        ]
+      },
+      {
+        "key": "40:32",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I taught you piano"
+        ]
+      },
+      {
+        "key": "40:33",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "You would put your hands on mine"
+        ]
+      },
+      {
+        "key": "40:34",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "You changed the melody every time"
+        ]
+      },
+      {
+        "key": "40:35",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "Ha. I would always change the line"
+        ]
+      },
+      {
+        "key": "40:36",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Shh. I know, I know"
+        ]
+      },
+      {
+        "key": "40:37",
+        "char_ids": [
+          "15"
+        ],
+        "speaker_kr": "필립 해밀턴",
+        "speaker_en": "Philip Hamilton",
+        "lines": [
+          "I would always change the line"
+        ]
+      },
+      {
+        "key": "40:38",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I know, I know"
+        ]
+      },
+      {
+        "key": "40:39-46",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Un deux trois quatre",
+          "Cinq six sept huit neuf",
+          "Good",
+          "Un deux trois quatre",
+          "Cinq six sept",
+          "Huit neuf",
+          "Sept huit neuf—",
+          "Sept huit…"
+        ]
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "act": 2,
+    "title": "It's Quiet Uptown",
+    "title_kr": "업타운은 고요하네",
+    "file_rel_path": "act2/41_its_quiet_uptown.md",
+    "characters_kr": [
+      "여성 앙상블",
+      "앙상블 전체",
+      "안젤리카 스카일러",
+      "알렉산더 해밀턴",
+      "남성 앙상블",
+      "일라이자 스카일러"
+    ],
+    "characters_en": [
+      "Women",
+      "Company",
+      "Angelica Schuyler",
+      "Alexander Hamilton",
+      "Men",
+      "Eliza Schuyler"
+    ],
+    "stanzas": [
+      {
+        "key": "41:1-6",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "There are moments that the words don’t reach",
+          "There is suffering too terrible to name",
+          "You hold your child as tight as you can",
+          "And push away the unimaginable",
+          "The moments when you’re in so deep",
+          "It feels easier to just swim down"
+        ]
+      },
+      {
+        "key": "41:7-8",
+        "char_ids": [
+          "8",
+          "24"
+        ],
+        "speaker_kr": "안젤리카 스카일러, 앙상블 전체",
+        "speaker_en": "Angelica Schuyler, Company",
+        "lines": [
+          "The Hamiltons move uptown",
+          "And learn to live with the unimaginable"
+        ]
+      },
+      {
+        "key": "41:9-16",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I spend hours in the garden",
+          "I walk alone to the store",
+          "And it’s quiet uptown",
+          "I never liked the quiet before",
+          "I take the children to church on Sunday",
+          "A sign of the cross at the door",
+          "And I pray",
+          "That never used to happen before"
+        ]
+      },
+      {
+        "key": "41:17-18",
+        "char_ids": [
+          "8",
+          "21"
+        ],
+        "speaker_kr": "안젤리카 스카일러, 여성 앙상블",
+        "speaker_en": "Angelica Schuyler, Women",
+        "lines": [
+          "If you see him in the street, walking by himself, talking to himself",
+          "Have pity"
+        ]
+      },
+      {
+        "key": "41:19-20",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Philip, you would like it uptown",
+          "It’s quiet uptown"
+        ]
+      },
+      {
+        "key": "41:21",
+        "char_ids": [
+          "8",
+          "21"
+        ],
+        "speaker_kr": "안젤리카 스카일러, 여성 앙상블",
+        "speaker_en": "Angelica Schuyler, Women",
+        "lines": [
+          "He is working through the unimaginable"
+        ]
+      },
+      {
+        "key": "41:22",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "His hair has gone grey. He passes every day. They say he walks the length of the city"
+        ]
+      },
+      {
+        "key": "41:23",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You knock me out, I fall apart"
+        ]
+      },
+      {
+        "key": "41:24",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Can you imagine?"
+        ]
+      },
+      {
+        "key": "41:25-40",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Look at where we are",
+          "Look at where we started",
+          "I know I don’t deserve you, Eliza",
+          "But hear me out. That would be enough",
+          "If I could spare his life",
+          "If I could trade his life for mine",
+          "He’d be standing here right now",
+          "And you would smile, and that would be enough",
+          "I don’t pretend to know",
+          "The challenges we’re facing",
+          "I know there’s no replacing what we’ve lost",
+          "And you need time",
+          "But I’m not afraid",
+          "I know who I married",
+          "Just let me stay here by your side",
+          "That would be enough"
+        ]
+      },
+      {
+        "key": "41:41-42",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "If you see him in the street, walking by her",
+          "Side, talking by her side, have pity"
+        ]
+      },
+      {
+        "key": "41:43",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Eliza, do you like it uptown? It’s quiet uptown"
+        ]
+      },
+      {
+        "key": "41:44-45",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "He is trying to do the unimaginable",
+          "See them walking in the park, long after dark, taking in the sights of the city"
+        ]
+      },
+      {
+        "key": "41:46",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Look around, look around, Eliza"
+        ]
+      },
+      {
+        "key": "41:47",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "They are trying to do the unimaginable"
+        ]
+      },
+      {
+        "key": "41:48-54",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "There are moments that the words don’t reach",
+          "There is a grace too powerful to name",
+          "We push away what we can never understand",
+          "We push away the unimaginable",
+          "They are standing in the garden",
+          "Alexander by Eliza’s side",
+          "She takes his hand"
+        ]
+      },
+      {
+        "key": "41:55",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "It’s quiet uptown"
+        ]
+      },
+      {
+        "key": "41:56-59",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Forgiveness. Can you imagine?",
+          "Forgiveness. Can you imagine?",
+          "If you see him in the street, walking by her side, talking by her side, have pity",
+          "They are going through the unimaginable"
+        ]
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "act": 2,
+    "title": "The Election of 1800",
+    "title_kr": "1800년 미국 대통령 선거",
+    "file_rel_path": "act2/42_the_election_of_1800.md",
+    "characters_kr": [
+      "여성 앙상블",
+      "아론 버",
+      "앙상블 전체",
+      "토머스 제퍼슨",
+      "알렉산더 해밀턴",
+      "남성 앙상블",
+      "제임스 매디슨"
+    ],
+    "characters_en": [
+      "Women",
+      "Aaron Burr",
+      "Company",
+      "Thomas Jefferson",
+      "Alexander Hamilton",
+      "Men",
+      "James Madison"
+    ],
+    "stanzas": [
+      {
+        "key": "42:1",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "The election of 1800"
+        ]
+      },
+      {
+        "key": "42:2",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Can we get back to politics?"
+        ]
+      },
+      {
+        "key": "42:3",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Please?"
+        ]
+      },
+      {
+        "key": "42:4-7",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Yo. Ev’ry action has an equal, opposite reaction",
+          "John Adams shat the bed. I love the guy, but he’s in traction",
+          "Poor Alexander Hamilton? He is missing in action",
+          "So now I’m facing—"
+        ]
+      },
+      {
+        "key": "42:8",
+        "char_ids": [
+          "10",
+          "11"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Thomas Jefferson, James Madison",
+        "lines": [
+          "Aaron Burr!"
+        ]
+      },
+      {
+        "key": "42:9",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "With his own faction"
+        ]
+      },
+      {
+        "key": "42:10",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "He’s very attractive in the North. New Yorkers like his chances"
+        ]
+      },
+      {
+        "key": "42:11",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "He’s not very forthcoming on any particular stances"
+        ]
+      },
+      {
+        "key": "42:12",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Ask him a question: it glances off, he obfuscates, he dances"
+        ]
+      },
+      {
+        "key": "42:13",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "And they say I’m a Francophile: at least they know I know where France is!"
+        ]
+      },
+      {
+        "key": "42:14",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Thomas that’s the problem, see, they see Burr as a less extreme you"
+        ]
+      },
+      {
+        "key": "42:15",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Ha!"
+        ]
+      },
+      {
+        "key": "42:16",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "You need to change course, a key endorsement might redeem you"
+        ]
+      },
+      {
+        "key": "42:17",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Who did you have in mind?"
+        ]
+      },
+      {
+        "key": "42:18",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Don’t laugh"
+        ]
+      },
+      {
+        "key": "42:19",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Who is it?"
+        ]
+      },
+      {
+        "key": "42:20",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "You used to work on the same staff"
+        ]
+      },
+      {
+        "key": "42:21",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Whaaaat"
+        ]
+      },
+      {
+        "key": "42:22-23",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "It might be nice, it might be nice",
+          "To get Hamilton on your side"
+        ]
+      },
+      {
+        "key": "42:24-25",
+        "char_ids": [
+          "10",
+          "11"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Thomas Jefferson, James Madison",
+        "lines": [
+          "It might be nice, it might be nice",
+          "To get Hamilton on your side"
+        ]
+      },
+      {
+        "key": "42:26-32",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Talk less!",
+          "Smile more!",
+          "Don’t let ‘em know what you’re against or what you’re for!",
+          "Shake hands with him!",
+          "Charm her!",
+          "It’s eighteen hundred, ladies, tell your husbands: vote for",
+          "Burr!"
+        ]
+      },
+      {
+        "key": "42:33",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "I don’t like Adams"
+        ]
+      },
+      {
+        "key": "42:34",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "Well, he’s gonna lose, that’s just defeatist"
+        ]
+      },
+      {
+        "key": "42:35-36",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "And Jefferson—",
+          "In love with France!"
+        ]
+      },
+      {
+        "key": "42:37-39",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "Yeah, he’s so elitist!",
+          "I like that Aaron Burr!",
+          "I can’t believe we’re here with him!"
+        ]
+      },
+      {
+        "key": "42:40-41",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "He seems approachable…?",
+          "Like you could grab a beer with him!"
+        ]
+      },
+      {
+        "key": "42:42",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Dear Mr. Hamilton: your fellow Fed’ralists would like to know how you’ll be voting"
+        ]
+      },
+      {
+        "key": "42:43",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "It’s quiet uptown"
+        ]
+      },
+      {
+        "key": "42:44",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Dear Mr. Hamilton: John Adams doesn’t stand a chance, so who are you promoting?"
+        ]
+      },
+      {
+        "key": "42:45",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "It’s quiet uptown"
+        ]
+      },
+      {
+        "key": "42:46-49",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "Jefferson or Burr?",
+          "We know it’s lose-lose",
+          "Jefferson or Burr?",
+          "But if you had to choose"
+        ]
+      },
+      {
+        "key": "42:50-52",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Dear Mr. Hamilton:",
+          "John Adams doesn’t stand a chance so who are you promoting?",
+          "But if you had to choose"
+        ]
+      },
+      {
+        "key": "42:53",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Well, if it isn’t Aaron Burr. Sir!"
+        ]
+      },
+      {
+        "key": "42:54",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Alexander!"
+        ]
+      },
+      {
+        "key": "42:55",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You’ve created quite a stir, sir!"
+        ]
+      },
+      {
+        "key": "42:56",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I’m going door to door!"
+        ]
+      },
+      {
+        "key": "42:57",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You’re openly campaigning?"
+        ]
+      },
+      {
+        "key": "42:58",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Sure!"
+        ]
+      },
+      {
+        "key": "42:59",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "That’s new"
+        ]
+      },
+      {
+        "key": "42:60",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Honestly, it’s kind of draining"
+        ]
+      },
+      {
+        "key": "42:61",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Burr—"
+        ]
+      },
+      {
+        "key": "42:62",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Sir!"
+        ]
+      },
+      {
+        "key": "42:63",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Is there anything you wouldn’t do?"
+        ]
+      },
+      {
+        "key": "42:64-65",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "No. I’m chasing what I want",
+          "And you know what?"
+        ]
+      },
+      {
+        "key": "42:66",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "What?"
+        ]
+      },
+      {
+        "key": "42:67",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I learned that from you"
+        ]
+      },
+      {
+        "key": "42:68-69",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "If you had to choose",
+          "If you had to choose"
+        ]
+      },
+      {
+        "key": "42:70",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "It’s a tie!"
+        ]
+      },
+      {
+        "key": "42:71-72",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "If you had to choose",
+          "If you had to choose"
+        ]
+      },
+      {
+        "key": "42:73",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "It’s up to the delegates!"
+        ]
+      },
+      {
+        "key": "42:74-75",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "If you had to choose",
+          "If you had to choose"
+        ]
+      },
+      {
+        "key": "42:76",
+        "char_ids": [
+          "10",
+          "11"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨",
+        "speaker_en": "Thomas Jefferson, James Madison",
+        "lines": [
+          "It’s up to Hamilton!"
+        ]
+      },
+      {
+        "key": "42:77-82",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "If you had to choose",
+          "If you had to choose",
+          "If you had to",
+          "Choose",
+          "Choose",
+          "Choose!"
+        ]
+      },
+      {
+        "key": "42:83",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Yo"
+        ]
+      },
+      {
+        "key": "42:84",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Oh!"
+        ]
+      },
+      {
+        "key": "42:85",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "The people are asking to hear my voice"
+        ]
+      },
+      {
+        "key": "42:86",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Oh!"
+        ]
+      },
+      {
+        "key": "42:87",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "For the country is facing a difficult choice"
+        ]
+      },
+      {
+        "key": "42:88",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Oh!"
+        ]
+      },
+      {
+        "key": "42:89",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "And if you were to ask me who I’d promote—"
+        ]
+      },
+      {
+        "key": "42:90",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Oh!"
+        ]
+      },
+      {
+        "key": "42:91",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "—Jefferson has my vote"
+        ]
+      },
+      {
+        "key": "42:92",
+        "char_ids": [
+          "10",
+          "11",
+          "24"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 앙상블 전체",
+        "speaker_en": "Thomas Jefferson, James Madison, Company",
+        "lines": [
+          "Oh!"
+        ]
+      },
+      {
+        "key": "42:93",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I have never agreed with Jefferson once"
+        ]
+      },
+      {
+        "key": "42:94",
+        "char_ids": [
+          "10",
+          "11",
+          "24"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 앙상블 전체",
+        "speaker_en": "Thomas Jefferson, James Madison, Company",
+        "lines": [
+          "Oh!"
+        ]
+      },
+      {
+        "key": "42:95",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "We have fought on like seventy-five diff’rent fronts"
+        ]
+      },
+      {
+        "key": "42:96",
+        "char_ids": [
+          "10",
+          "11",
+          "24"
+        ],
+        "speaker_kr": "토머스 제퍼슨, 제임스 매디슨, 앙상블 전체",
+        "speaker_en": "Thomas Jefferson, James Madison, Company",
+        "lines": [
+          "Oh!"
+        ]
+      },
+      {
+        "key": "42:97-98",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "But when all is said and all is done",
+          "Jefferson has beliefs. Burr has none"
+        ]
+      },
+      {
+        "key": "42:99",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Oooooooooooooh"
+        ]
+      },
+      {
+        "key": "42:100-101",
+        "char_ids": [
+          "11",
+          "10"
+        ],
+        "speaker_kr": "제임스 매디슨, 토머스 제퍼슨",
+        "speaker_en": "James Madison, Thomas Jefferson",
+        "lines": [
+          "Well, I’ll be damned",
+          "Well, I’ll be damned"
+        ]
+      },
+      {
+        "key": "42:102",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Hamilton’s on your side"
+        ]
+      },
+      {
+        "key": "42:103-104",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Well, I’ll be damned",
+          "Well, I’ll be damned"
+        ]
+      },
+      {
+        "key": "42:105",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "And?"
+        ]
+      },
+      {
+        "key": "42:106",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "You won in a landslide"
+        ]
+      },
+      {
+        "key": "42:107-108",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Congrats on a race well-run",
+          "I did give you a fight"
+        ]
+      },
+      {
+        "key": "42:109",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Uh-huh"
+        ]
+      },
+      {
+        "key": "42:110",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I look forward to our partnership"
+        ]
+      },
+      {
+        "key": "42:111",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Our partnership?"
+        ]
+      },
+      {
+        "key": "42:112",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "As your vice-President"
+        ]
+      },
+      {
+        "key": "42:113-114",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Ha. Yeah, right",
+          "You hear this guy? Man openly campaigns against me, talkin’ bout, “I look forward to our partnership.”"
+        ]
+      },
+      {
+        "key": "42:115",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "It’s crazy that the guy who comes in second gets to be Vice President"
+        ]
+      },
+      {
+        "key": "42:116",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "Yeah, you know what? We can change that. You know why?"
+        ]
+      },
+      {
+        "key": "42:117",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "Why?"
+        ]
+      },
+      {
+        "key": "42:118",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "‘cuz I’m the President. Hey, Burr, when you see Hamilton, thank him for the endorsement"
+        ]
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "act": 2,
+    "title": "Your Obedient Servant",
+    "title_kr": "당신의 충직한 종복",
+    "file_rel_path": "act2/43_your_obedient_servant.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "앙상블 전체",
+      "아론 버"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Company",
+      "Aaron Burr"
+    ],
+    "stanzas": [
+      {
+        "key": "43:1-9",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "How does Hamilton",
+          "An arrogant",
+          "Immigrant, orphan",
+          "Bastard, whoreson",
+          "Somehow endorse",
+          "Thomas Jefferson, his enemy",
+          "A man he’s despised since the beginning",
+          "Just to keep me from winning?",
+          "I wanna be in the room where it happens—"
+        ]
+      },
+      {
+        "key": "43:10-11",
+        "char_ids": [
+          "1",
+          "24"
+        ],
+        "speaker_kr": "아론 버, 앙상블 전체",
+        "speaker_en": "Aaron Burr, Company",
+        "lines": [
+          "The room where it happens",
+          "The room where it happens"
+        ]
+      },
+      {
+        "key": "43:12",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "You’ve kept me from—"
+        ]
+      },
+      {
+        "key": "43:13",
+        "char_ids": [
+          "1",
+          "24"
+        ],
+        "speaker_kr": "아론 버, 앙상블 전체",
+        "speaker_en": "Aaron Burr, Company",
+        "lines": [
+          "The room where it happens"
+        ]
+      },
+      {
+        "key": "43:14-29",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "For the last time",
+          "Dear Alexander:",
+          "I am slow to anger",
+          "But I toe the line",
+          "As I reckon with the effects",
+          "Of your life on mine",
+          "I look back on where I failed",
+          "And in every place I checked",
+          "The only common thread has been your disrespect",
+          "Now you call me “amoral,”",
+          "A “dangerous disgrace,”",
+          "If you’ve got something to say",
+          "Name a time and place",
+          "Face to face",
+          "I have the honor to be Your Obedient Servant",
+          "A dot Burr"
+        ]
+      },
+      {
+        "key": "43:30-37",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Mr. Vice President:",
+          "I am not the reason no one trusts you",
+          "No one knows what you believe",
+          "I will not equivocate on my opinion",
+          "I have always worn it on my sleeve",
+          "Even if I said what you think I said",
+          "You would need to cite a more specific grievance",
+          "Here’s an itemized list of thirty years of disagreements"
+        ]
+      },
+      {
+        "key": "43:38",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Sweet Jesus"
+        ]
+      },
+      {
+        "key": "43:39-45",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Hey, I have not been shy",
+          "I am just a guy in the public eye",
+          "Tryin’ to do my best for our republic",
+          "I don’t wanna fight",
+          "But I won’t apologize for doing what’s right",
+          "I have the honor to be Your Obedient Servant",
+          "A dot Ham"
+        ]
+      },
+      {
+        "key": "43:46-48",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Careful how you proceed, good man",
+          "Intemperate indeed, good man",
+          "Answer for the accusations I lay at your feet or prepare to bleed, good man"
+        ]
+      },
+      {
+        "key": "43:49-53",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Burr, your grievance is legitimate",
+          "I stand by what I said, every bit of it",
+          "You stand only for yourself",
+          "It’s what you do",
+          "I can’t apologize because it’s true"
+        ]
+      },
+      {
+        "key": "43:54-56",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Then stand, Alexander",
+          "Weehawken. Dawn",
+          "Guns. Drawn"
+        ]
+      },
+      {
+        "key": "43:57",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "You’re on"
+        ]
+      },
+      {
+        "key": "43:58",
+        "char_ids": [
+          "1",
+          "2"
+        ],
+        "speaker_kr": "아론 버, 알렉산더 해밀턴",
+        "speaker_en": "Aaron Burr, Alexander Hamilton",
+        "lines": [
+          "I have the honor to be Your Obedient Servant"
+        ]
+      },
+      {
+        "key": "43:59",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "A dot Ham"
+        ]
+      },
+      {
+        "key": "43:60",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "A dot Burr"
+        ]
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "act": 2,
+    "title": "Best of Wives and Best of Women",
+    "title_kr": "최고의 아내이자 최고의 여인",
+    "file_rel_path": "act2/44_best_of_wives_and_best_of_women.md",
+    "characters_kr": [
+      "알렉산더 해밀턴",
+      "일라이자 스카일러"
+    ],
+    "characters_en": [
+      "Alexander Hamilton",
+      "Eliza Schuyler"
+    ],
+    "stanzas": [
+      {
+        "key": "44:1",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Alexander, come back to sleep"
+        ]
+      },
+      {
+        "key": "44:2",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I have an early meeting out of town"
+        ]
+      },
+      {
+        "key": "44:3",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "It’s still dark outside"
+        ]
+      },
+      {
+        "key": "44:4",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I know. I just need to write something down"
+        ]
+      },
+      {
+        "key": "44:5",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Why do you write like you’re running out of time?"
+        ]
+      },
+      {
+        "key": "44:6",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Shhh"
+        ]
+      },
+      {
+        "key": "44:7",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Come back to bed. That would be enough"
+        ]
+      },
+      {
+        "key": "44:8",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I’ll be back before you know I’m gone"
+        ]
+      },
+      {
+        "key": "44:9",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Come back to sleep"
+        ]
+      },
+      {
+        "key": "44:10",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "This meeting’s at dawn"
+        ]
+      },
+      {
+        "key": "44:11",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "Well, I’m going back to sleep"
+        ]
+      },
+      {
+        "key": "44:12",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "Hey. Best of wives and best of women"
+        ]
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "act": 2,
+    "title": "The World Was Wide Enough",
+    "title_kr": "세상은 우리 둘 모두에게 충분히 넓었거늘",
+    "file_rel_path": "act2/45_the_world_was_wide_enough.md",
+    "characters_kr": [
+      "아론 버",
+      "앙상블 전체",
+      "안젤리카 스카일러",
+      "알렉산더 해밀턴",
+      "남성 앙상블",
+      "필립 해밀턴"
+    ],
+    "characters_en": [
+      "Aaron Burr",
+      "Company",
+      "Angelica Schuyler",
+      "Alexander Hamilton",
+      "Men",
+      "Philip Hamilton"
+    ],
+    "stanzas": [
+      {
+        "key": "45:1",
+        "char_ids": [
+          "22"
+        ],
+        "speaker_kr": "남성 앙상블",
+        "speaker_en": "Men",
+        "lines": [
+          "One two three four"
+        ]
+      },
+      {
+        "key": "45:2",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Five six seven eight nine—"
+        ]
+      },
+      {
+        "key": "45:3",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "There are ten things you need to know"
+        ]
+      },
+      {
+        "key": "45:4",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number one!"
+        ]
+      },
+      {
+        "key": "45:5-6",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "We rowed across the Hudson at dawn",
+          "My friend, William P. Van Ness signed on as my—"
+        ]
+      },
+      {
+        "key": "45:7",
+        "char_ids": [
+          "1",
+          "24"
+        ],
+        "speaker_kr": "아론 버, 앙상블 전체",
+        "speaker_en": "Aaron Burr, Company",
+        "lines": [
+          "Number two!"
+        ]
+      },
+      {
+        "key": "45:8-9",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Hamilton arrived with his crew:",
+          "Nathaniel Pendleton and a doctor that he knew"
+        ]
+      },
+      {
+        "key": "45:10",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number three!"
+        ]
+      },
+      {
+        "key": "45:11-13",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I watched Hamilton examine the terrain",
+          "I wish I could tell you what was happ’ning in his brain",
+          "This man has poisoned my political pursuits!"
+        ]
+      },
+      {
+        "key": "45:14",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Most disputes die and no one shoots! Number four!"
+        ]
+      },
+      {
+        "key": "45:15-18",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Hamilton drew first position",
+          "Looking, to the world, like a man on a mission",
+          "This is a soldier with a marksman’s ability",
+          "The doctor turned around so he could have deniability"
+        ]
+      },
+      {
+        "key": "45:19",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Five!"
+        ]
+      },
+      {
+        "key": "45:20",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Now I didn’t know this at the time, but we were—"
+        ]
+      },
+      {
+        "key": "45:21",
+        "char_ids": [
+          "1",
+          "15"
+        ],
+        "speaker_kr": "아론 버, 필립 해밀턴",
+        "speaker_en": "Aaron Burr, Philip Hamilton",
+        "lines": [
+          "Near the same spot your son died, is that why—"
+        ]
+      },
+      {
+        "key": "45:22",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Six!"
+        ]
+      },
+      {
+        "key": "45:23-24",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "He examined his gun with such rigor?",
+          "I watched as he methodically fiddled with the trigger"
+        ]
+      },
+      {
+        "key": "45:25",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Seven!"
+        ]
+      },
+      {
+        "key": "45:26-27",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Confession time? Here’s what I got",
+          "My fellow soldiers’ll tell you I’m a terrible shot"
+        ]
+      },
+      {
+        "key": "45:28",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number eight!"
+        ]
+      },
+      {
+        "key": "45:29-30",
+        "char_ids": [
+          "1",
+          "2",
+          "22"
+        ],
+        "speaker_kr": "아론 버, 알렉산더 해밀턴, 남성 앙상블",
+        "speaker_en": "Aaron Burr, Alexander Hamilton, Men",
+        "lines": [
+          "Your last chance to negotiate",
+          "Send in your seconds, see if they can set the record straight"
+        ]
+      },
+      {
+        "key": "45:31-36",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "They won’t teach you this in your classes",
+          "But look it up, Hamilton was wearing his glasses",
+          "Why? If not to take deadly aim?",
+          "It’s him or me, the world will never be the same",
+          "I had only one thought before the slaughter:",
+          "This man will not make an orphan of my daughter"
+        ]
+      },
+      {
+        "key": "45:37",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Number nine!"
+        ]
+      },
+      {
+        "key": "45:38-40",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Look him in the eye, aim no higher",
+          "Summon all the courage you require",
+          "Then count:"
+        ]
+      },
+      {
+        "key": "45:41-42",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "One two three four five six seven eight nine",
+          "Number ten paces! Fire!—"
+        ]
+      },
+      {
+        "key": "45:43-70",
+        "char_ids": [
+          "2"
+        ],
+        "speaker_kr": "알렉산더 해밀턴",
+        "speaker_en": "Alexander Hamilton",
+        "lines": [
+          "I imagine death so much it feels more like a memory",
+          "Is this where it gets me, on my feet, sev’ral feet ahead of me?",
+          "I see it coming, do I run or fire my gun or let it be?",
+          "There is no beat, no melody",
+          "Burr, my first friend, my enemy",
+          "Maybe the last face I ever see",
+          "If I throw away my shot, is this how you’ll remember me?",
+          "What if this bullet is my legacy?",
+          "Legacy. What is a legacy?",
+          "It’s planting seeds in a garden you never get to see",
+          "I wrote some notes at the beginning of a song someone will sing for me",
+          "America, you great unfinished symphony, you sent for me",
+          "You let me make a difference",
+          "A place where even orphan immigrants",
+          "Can leave their fingerprints and rise up",
+          "I’m running out of time. I’m running, and my time’s up",
+          "Wise up. Eyes up",
+          "I catch a glimpse of the other side",
+          "Laurens leads a soldiers’ chorus on the other side",
+          "My son is on the other side",
+          "He’s with my mother on the other side",
+          "Washington is watching from the other side",
+          "Teach me how to say goodbye",
+          "Rise up, rise up, rise up",
+          "Eliza",
+          "My love, take your time",
+          "I’ll see you on the other side",
+          "Raise a glass to freedom..."
+        ]
+      },
+      {
+        "key": "45:71",
+        "char_ids": [
+          "1",
+          "24"
+        ],
+        "speaker_kr": "아론 버, 앙상블 전체",
+        "speaker_en": "Aaron Burr, Company",
+        "lines": [
+          "He aims his pistol at the sky—"
+        ]
+      },
+      {
+        "key": "45:72-76",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Wait!",
+          "I strike him right between his ribs",
+          "I walk towards him, but I am ushered away",
+          "They row him back across the Hudson",
+          "I get a drink"
+        ]
+      },
+      {
+        "key": "45:77-79",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Aaaah",
+          "Aaaah",
+          "Aaaah"
+        ]
+      },
+      {
+        "key": "45:80",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "I hear wailing in the streets"
+        ]
+      },
+      {
+        "key": "45:81-83",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Aaaah",
+          "Aaaah",
+          "Aaaah"
+        ]
+      },
+      {
+        "key": "45:84",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Somebody tells me, “You’d better hide.”"
+        ]
+      },
+      {
+        "key": "45:85-87",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Aaaah",
+          "Aaaah",
+          "Aaaah"
+        ]
+      },
+      {
+        "key": "45:88",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "They say"
+        ]
+      },
+      {
+        "key": "45:89",
+        "char_ids": [
+          "1",
+          "8"
+        ],
+        "speaker_kr": "아론 버, 안젤리카 스카일러",
+        "speaker_en": "Aaron Burr, Angelica Schuyler",
+        "lines": [
+          "Angelica and Eliza—"
+        ]
+      },
+      {
+        "key": "45:90-107",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "Were both at his side when he died",
+          "Death doesn’t discriminate",
+          "Between the sinners and the saints",
+          "It takes and it takes and it takes",
+          "History obliterates",
+          "In every picture it paints",
+          "It paints me and all my mistakes",
+          "When Alexander aimed",
+          "At the sky",
+          "He may have been the first one to die",
+          "But I’m the one who paid for it",
+          "I survived, but I paid for it",
+          "Now I’m the villain in your history",
+          "I was too young and blind to see...",
+          "I should’ve known",
+          "I should’ve known",
+          "The world was wide enough for both Hamilton and me",
+          "The world was wide enough for both Hamilton and me"
+        ]
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "act": 2,
+    "title": "Who Lives, Who Dies, Who Tells Your Story",
+    "title_kr": "누가 살고, 누가 죽고, 누가 당신의 이야기를 전하는가",
+    "file_rel_path": "act2/46_who_lives_who_dies_who_tells_your_story.md",
+    "characters_kr": [
+      "여성 앙상블",
+      "조지 워싱턴",
+      "아론 버",
+      "허큘리스 멀리건",
+      "마르키 드 라파예트",
+      "앙상블 전체",
+      "토머스 제퍼슨",
+      "안젤리카 스카일러",
+      "존 로런스",
+      "남성 앙상블",
+      "일라이자 스카일러",
+      "제임스 매디슨"
+    ],
+    "characters_en": [
+      "Women",
+      "George Washington",
+      "Aaron Burr",
+      "Hercules Mulligan",
+      "Marquis de Lafayette",
+      "Company",
+      "Thomas Jefferson",
+      "Angelica Schuyler",
+      "John Laurens",
+      "Men",
+      "Eliza Schuyler",
+      "James Madison"
+    ],
+    "stanzas": [
+      {
+        "key": "46:1-3",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "Let me tell you what I wish I’d known",
+          "When I was young and dreamed of glory",
+          "You have no control:"
+        ]
+      },
+      {
+        "key": "46:4-6",
+        "char_ids": [
+          "3",
+          "24"
+        ],
+        "speaker_kr": "조지 워싱턴, 앙상블 전체",
+        "speaker_en": "George Washington, Company",
+        "lines": [
+          "Who lives",
+          "Who dies",
+          "Who tells your story?"
+        ]
+      },
+      {
+        "key": "46:7",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "President Jefferson:"
+        ]
+      },
+      {
+        "key": "46:8-9",
+        "char_ids": [
+          "10"
+        ],
+        "speaker_kr": "토머스 제퍼슨",
+        "speaker_en": "Thomas Jefferson",
+        "lines": [
+          "I’ll give him this: his financial system is a work of genius. I couldn’t undo it if I tried",
+          "And I tried"
+        ]
+      },
+      {
+        "key": "46:10-12",
+        "char_ids": [
+          "3",
+          "24"
+        ],
+        "speaker_kr": "조지 워싱턴, 앙상블 전체",
+        "speaker_en": "George Washington, Company",
+        "lines": [
+          "Who lives",
+          "Who dies",
+          "Who tells your story?"
+        ]
+      },
+      {
+        "key": "46:13",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "President Madison:"
+        ]
+      },
+      {
+        "key": "46:14-16",
+        "char_ids": [
+          "11"
+        ],
+        "speaker_kr": "제임스 매디슨",
+        "speaker_en": "James Madison",
+        "lines": [
+          "He took our country from bankruptcy to prosperity",
+          "I hate to admit it, but he doesn’t get enough credit",
+          "For all the credit he gave us"
+        ]
+      },
+      {
+        "key": "46:17-19",
+        "char_ids": [
+          "3",
+          "24"
+        ],
+        "speaker_kr": "조지 워싱턴, 앙상블 전체",
+        "speaker_en": "George Washington, Company",
+        "lines": [
+          "Who lives",
+          "Who dies",
+          "Who tells your story?"
+        ]
+      },
+      {
+        "key": "46:20-21",
+        "char_ids": [
+          "8"
+        ],
+        "speaker_kr": "안젤리카 스카일러",
+        "speaker_en": "Angelica Schuyler",
+        "lines": [
+          "Every other founding father story gets told",
+          "Every other founding father gets to grow old"
+        ]
+      },
+      {
+        "key": "46:22-23",
+        "char_ids": [
+          "1"
+        ],
+        "speaker_kr": "아론 버",
+        "speaker_en": "Aaron Burr",
+        "lines": [
+          "But when you’re gone, who remembers your name?",
+          "Who keeps your flame?"
+        ]
+      },
+      {
+        "key": "46:24-25",
+        "char_ids": [
+          "1",
+          "22"
+        ],
+        "speaker_kr": "아론 버, 남성 앙상블",
+        "speaker_en": "Aaron Burr, Men",
+        "lines": [
+          "Who tells your story?",
+          "Who tells your story?"
+        ]
+      },
+      {
+        "key": "46:26",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "Eliza"
+        ]
+      },
+      {
+        "key": "46:27",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I put myself back in the narrative"
+        ]
+      },
+      {
+        "key": "46:28",
+        "char_ids": [
+          "21"
+        ],
+        "speaker_kr": "여성 앙상블",
+        "speaker_en": "Women",
+        "lines": [
+          "Eliza"
+        ]
+      },
+      {
+        "key": "46:29-31",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I stop wasting time on tears",
+          "I live another fifty years",
+          "It’s not enough"
+        ]
+      },
+      {
+        "key": "46:32",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Eliza"
+        ]
+      },
+      {
+        "key": "46:33",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I interview every soldier who fought by your side"
+        ]
+      },
+      {
+        "key": "46:34",
+        "char_ids": [
+          "6",
+          "5",
+          "4"
+        ],
+        "speaker_kr": "허큘리스 멀리건, 마르키 드 라파예트, 존 로런스",
+        "speaker_en": "Hercules Mulligan, Marquis de Lafayette, John Laurens",
+        "lines": [
+          "She tells our story"
+        ]
+      },
+      {
+        "key": "46:35-36",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I try to make sense of your thousands of pages of writings",
+          "You really do write like you’re running out of—"
+        ]
+      },
+      {
+        "key": "46:37",
+        "char_ids": [
+          "7",
+          "24"
+        ],
+        "speaker_kr": "일라이자 스카일러, 앙상블 전체",
+        "speaker_en": "Eliza Schuyler, Company",
+        "lines": [
+          "Time"
+        ]
+      },
+      {
+        "key": "46:38",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I rely on—"
+        ]
+      },
+      {
+        "key": "46:39",
+        "char_ids": [
+          "7",
+          "8"
+        ],
+        "speaker_kr": "일라이자 스카일러, 안젤리카 스카일러",
+        "speaker_en": "Eliza Schuyler, Angelica Schuyler",
+        "lines": [
+          "Angelica"
+        ]
+      },
+      {
+        "key": "46:40",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "While she’s alive—"
+        ]
+      },
+      {
+        "key": "46:41",
+        "char_ids": [
+          "7",
+          "8"
+        ],
+        "speaker_kr": "일라이자 스카일러, 안젤리카 스카일러",
+        "speaker_en": "Eliza Schuyler, Angelica Schuyler",
+        "lines": [
+          "We tell your story"
+        ]
+      },
+      {
+        "key": "46:42",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "She is buried in Trinity Church"
+        ]
+      },
+      {
+        "key": "46:43",
+        "char_ids": [
+          "7",
+          "8"
+        ],
+        "speaker_kr": "일라이자 스카일러, 안젤리카 스카일러",
+        "speaker_en": "Eliza Schuyler, Angelica Schuyler",
+        "lines": [
+          "Near you"
+        ]
+      },
+      {
+        "key": "46:44",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "When I needed her most, she was right on—"
+        ]
+      },
+      {
+        "key": "46:45",
+        "char_ids": [
+          "7",
+          "24"
+        ],
+        "speaker_kr": "일라이자 스카일러, 앙상블 전체",
+        "speaker_en": "Eliza Schuyler, Company",
+        "lines": [
+          "Time"
+        ]
+      },
+      {
+        "key": "46:46-47",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "And I’m still not through",
+          "I ask myself, “What would you do if you had more—”"
+        ]
+      },
+      {
+        "key": "46:48",
+        "char_ids": [
+          "7",
+          "24"
+        ],
+        "speaker_kr": "일라이자 스카일러, 앙상블 전체",
+        "speaker_en": "Eliza Schuyler, Company",
+        "lines": [
+          "Time"
+        ]
+      },
+      {
+        "key": "46:49-51",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "The Lord, in his kindness",
+          "He gives me what you always wanted",
+          "He gives me more—"
+        ]
+      },
+      {
+        "key": "46:52",
+        "char_ids": [
+          "7",
+          "24"
+        ],
+        "speaker_kr": "일라이자 스카일러, 앙상블 전체",
+        "speaker_en": "Eliza Schuyler, Company",
+        "lines": [
+          "Time"
+        ]
+      },
+      {
+        "key": "46:53",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I raise funds in D.C. for the Washington Monument"
+        ]
+      },
+      {
+        "key": "46:54",
+        "char_ids": [
+          "3"
+        ],
+        "speaker_kr": "조지 워싱턴",
+        "speaker_en": "George Washington",
+        "lines": [
+          "She tells my story"
+        ]
+      },
+      {
+        "key": "46:55-56",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I speak out against slavery",
+          "You could have done so much more if you only had—"
+        ]
+      },
+      {
+        "key": "46:57",
+        "char_ids": [
+          "7",
+          "24"
+        ],
+        "speaker_kr": "일라이자 스카일러, 앙상블 전체",
+        "speaker_en": "Eliza Schuyler, Company",
+        "lines": [
+          "Time"
+        ]
+      },
+      {
+        "key": "46:58-60",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "And when my time is up, have I done enough?",
+          "Will they tell our story?",
+          "Oh. Can I show you what I’m proudest of?"
+        ]
+      },
+      {
+        "key": "46:61",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "The orphanage"
+        ]
+      },
+      {
+        "key": "46:62",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I established the first private orphanage in New York City"
+        ]
+      },
+      {
+        "key": "46:63",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "The orphanage"
+        ]
+      },
+      {
+        "key": "46:64-65",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "I help to raise hundreds of children",
+          "I get to see them growing up"
+        ]
+      },
+      {
+        "key": "46:66",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "The orphanage"
+        ]
+      },
+      {
+        "key": "46:67-68",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "In their eyes I see you, Alexander",
+          "I see you every—"
+        ]
+      },
+      {
+        "key": "46:69",
+        "char_ids": [
+          "7",
+          "24"
+        ],
+        "speaker_kr": "일라이자 스카일러, 앙상블 전체",
+        "speaker_en": "Eliza Schuyler, Company",
+        "lines": [
+          "Time"
+        ]
+      },
+      {
+        "key": "46:70-74",
+        "char_ids": [
+          "7"
+        ],
+        "speaker_kr": "일라이자 스카일러",
+        "speaker_en": "Eliza Schuyler",
+        "lines": [
+          "And when my time is up",
+          "Have I done enough?",
+          "Will they tell my story?",
+          "Oh, I can’t wait to see you again",
+          "It’s only a matter of—"
+        ]
+      },
+      {
+        "key": "46:75",
+        "char_ids": [
+          "7",
+          "24"
+        ],
+        "speaker_kr": "일라이자 스카일러, 앙상블 전체",
+        "speaker_en": "Eliza Schuyler, Company",
+        "lines": [
+          "Time"
+        ]
+      },
+      {
+        "key": "46:76-80",
+        "char_ids": [
+          "24"
+        ],
+        "speaker_kr": "앙상블 전체",
+        "speaker_en": "Company",
+        "lines": [
+          "Will they tell your story?",
+          "Who lives, who dies, who tells your story?",
+          "Will they tell your story?",
+          "Who lives, who dies—",
+          "Who tells your story?"
+        ]
+      }
+    ]
+  }
+}
