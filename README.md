@@ -3,6 +3,9 @@
 
 세계적인 명작 뮤지컬의 브로드웨이/웨스트엔드 오리지널 영어 가사 전수 조사 및 문학적·역사적 맥락을 살린 한국어 전곡 완역 대역·주석 컬렉션입니다.
 
+> 🌐 **모바일 & 웹 공식 온라인 라이브러리**: [https://keimania.github.io/musical-lyrics/](https://keimania.github.io/musical-lyrics/)  
+> 스마트폰(iOS/Android), 태블릿, PC 브라우저에서 별도 설치 없이 3대 명작 뮤지컬 83곡의 영한 대역, 한국어 전용, 영어 전용 가사 및 해설을 감상할 수 있습니다.
+
 ---
 
 ## 📚 수록 뮤지컬 컬렉션 (Collections)
