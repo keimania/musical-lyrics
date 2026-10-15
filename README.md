@@ -4,7 +4,7 @@
 세계적인 명작 뮤지컬의 브로드웨이/웨스트엔드 오리지널 영어 가사 전수 조사 및 문학적·역사적 맥락을 살린 한국어 전곡 완역 대역·주석 컬렉션입니다.
 
 > 🌐 **모바일 & 웹 공식 온라인 라이브러리**: [https://keimania.github.io/musical-lyrics/](https://keimania.github.io/musical-lyrics/)  
-> 스마트폰(iOS/Android), 태블릿, PC 브라우저에서 별도 설치 없이 3대 명작 뮤지컬 83곡의 영한 대역, 한국어 전용, 영어 전용 가사 및 해설을 감상할 수 있습니다.
+> 스마트폰(iOS/Android), 태블릿, PC 브라우저에서 별도 설치 없이 4대 명작 뮤지컬 105곡의 영한 대역, 한국어 전용, 영어 전용 가사 및 해설을 감상할 수 있습니다.
 
 ---
 
@@ -63,9 +63,28 @@
 
 ---
 
+### 4. 🧙‍♀️ [영화 <위키드(Wicked 2부작)> 바로가기](./wicked/README.md)
+> **"Everyone deserves the chance to fly!"**  
+> **"Because I knew you, I have been changed for good."**  
+> 존 M. 추 감독 연출, 신시아 에리보 & 아리아나 그란데 주연! 유니버설 픽처스의 시네마틱 2부작 대작 영화 《위키드》(2024) 및 《위키드: 포 굿》(2025) 공식 사운드트랙 전곡 아카이브.  
+> 브로드웨이 무대를 넘어 스크린으로 확장된 웅장한 시네마틱 오케스트레이션과 100% 현장 라이브 보컬, 그리고 스티븐 슈워츠가 새롭게 쓴 오리지널 신곡까지 전수 수록.
+
+- **수록 규모**: 총 22개 영화 사운드트랙 넘버 (1부 11곡 / 2부 11곡, 전곡 완역, 총 626행)
+- **주요 특징**:
+  - 신시아 에리보(엘파바)의 하이 F5 라이브 벨팅 및 아리아나 그란데(글린다)의 오페라틱 하이 E 소프라노 보컬 완벽 반영
+  - 2부(2025) 영화 오리지널 신곡 (*No Place Like Home*, *The Girl in the Bubble*) 및 무대 미공개 복원 넘버 (*The Wicked Witch of the East*) 수록
+  - 에메랄드 시티 정권의 프로파간다 선전선동, 동물 차별과 인권, 두 마녀의 영원한 우정과 연대 해설
+- **주요 문서**:
+  - 📖 [위키드 메인 해설집 (README.md)](./wicked/README.md)
+  - 📜 [위키드 전곡 단일 통합 완본 (wicked_complete.md)](./wicked/wicked_complete.md)
+  - 🖥️ [위키드 인터랙티브 웹 뷰어 (index.html)](./wicked/index.html)
+  - 📂 [제1부 넘버 상세 (part1/)](./wicked/part1) | [제2부 넘버 상세 (part2/)](./wicked/part2)
+
+---
+
 ## 🖥️ 뮤지컬 통합 포털 대시보드 ([index.html](./index.html))
 
-작업 공간 루트의 [`index.html`](./index.html)을 웹 브라우저로 열면, **해밀턴**, **식스**, **백 투 더 퓨처** 3대 뮤지컬의 인터랙티브 웹 뷰어로 원클릭 이동할 수 있는 통합 대시보드가 제공됩니다.
+작업 공간 루트의 [`index.html`](./index.html)을 웹 브라우저로 열면, **해밀턴**, **식스**, **백 투 더 퓨처**, **위키드** 4대 뮤지컬의 인터랙티브 웹 뷰어로 원클릭 이동할 수 있는 통합 대시보드가 제공됩니다.
 
 ---
 
@@ -81,4 +100,7 @@ python3 six/scripts/verify_six.py
 
 # 백 투 더 퓨처 전 26곡 1,060행 검증
 python3 back_to_the_future/scripts/verify_bttf.py
+
+# 위키드 2부작 영화 전 22곡 626행 검증
+python3 wicked/scripts/verify_wicked.py
 ```

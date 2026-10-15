@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Musical Lyrics & Translation Library (Hamilton, SIX, Back to the Future)</title>
+  <title>Musical Lyrics & Translation Library (Hamilton, SIX, Back to the Future, Wicked)</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -72,6 +72,10 @@
       border-color: #ff7700;
       box-shadow: 0 20px 40px rgba(255, 119, 0, 0.25);
     }
+    .card-wicked:hover {
+      border-color: #00ff87;
+      box-shadow: 0 20px 40px rgba(0, 255, 135, 0.2);
+    }
     .card-tag {
       font-size: 0.72rem;
       font-weight: 700;
@@ -83,6 +87,7 @@
     .card-hamilton .card-tag { color: #d4af37; }
     .card-six .card-tag { color: #ff1493; }
     .card-bttf .card-tag { color: #ff7700; }
+    .card-wicked .card-tag { color: #00ff87; }
     .card h2 {
       font-size: 1.6rem;
       font-weight: 800;
@@ -142,6 +147,17 @@
     .card-bttf:hover .card-btn {
       background: #ff7700;
       color: #000;
+    }
+    .card-wicked .card-btn {
+      background: rgba(0, 255, 135, 0.12);
+      color: #00ff87;
+      border: 1px solid rgba(0, 255, 135, 0.35);
+    }
+    .card-wicked:hover .card-btn {
+      background: linear-gradient(135deg, #00ff87 0%, #ff69b4 100%);
+      color: #000;
+      font-weight: 800;
+      border-color: transparent;
     }
     .footer {
       margin-top: 50px;
@@ -227,6 +243,19 @@
         <div><span class="stat-val">100%</span> 검증</div>
       </div>
       <div class="card-btn">백투더퓨처 대시보드 뷰어 ➔</div>
+    </a>
+
+    <!-- Wicked Card -->
+    <a href="./wicked/index.html" class="card card-wicked">
+      <div class="card-tag">CINEMATIC 2-PART MOVIE ADAPTATION</div>
+      <h2>🧙‍♀️ WICKED (위키드 2부작)</h2>
+      <p>존 M. 추 감독 연출, 신시아 에리보 & 아리아나 그란데 주연의 대작 영화 《위키드》(2024) 및 《위키드: 포 굿》(2025) 2부작 전 22곡 완역! 스티븐 슈워츠 작사/작곡 영화 오리지널 신곡 2곡 및 복원 넘버 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">22</span> 넘버 (2부작)</div>
+        <div><span class="stat-val">626</span> 행 완역</div>
+        <div><span class="stat-val">신곡 2곡</span> 포함</div>
+      </div>
+      <div class="card-btn">위키드 에메랄드 뷰어 ➔</div>
     </a>
   </div>
 
