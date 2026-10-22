@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Musical Lyrics & Translation Library (Hamilton, SIX, Back to the Future, Wicked)</title>
+  <title>Musical Lyrics & Translation Library (10 Masterpieces · 262 Songs)</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -19,7 +19,7 @@
     }
     .header {
       text-align: center;
-      max-width: 840px;
+      max-width: 880px;
       margin-bottom: 45px;
     }
     .header h1 {
@@ -41,7 +41,7 @@
       grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
       gap: 24px;
       width: 100%;
-      max-width: 1140px;
+      max-width: 1180px;
     }
     .card {
       background: #131620;
@@ -76,6 +76,31 @@
       border-color: #00ff87;
       box-shadow: 0 20px 40px rgba(0, 255, 135, 0.2);
     }
+    .card-deh:hover {
+      border-color: #00a8ff;
+      box-shadow: 0 20px 40px rgba(0, 168, 255, 0.2);
+    }
+    .card-heathers:hover {
+      border-color: #ff0055;
+      box-shadow: 0 20px 40px rgba(255, 0, 85, 0.2);
+    }
+    .card-ith:hover {
+      border-color: #ffb800;
+      box-shadow: 0 20px 40px rgba(255, 184, 0, 0.2);
+    }
+    .card-hadestown:hover {
+      border-color: #ff9f1a;
+      box-shadow: 0 20px 40px rgba(255, 159, 26, 0.2);
+    }
+    .card-rent:hover {
+      border-color: #eb2f06;
+      box-shadow: 0 20px 40px rgba(235, 47, 6, 0.2);
+    }
+    .card-lesmis:hover {
+      border-color: #3867d6;
+      box-shadow: 0 20px 40px rgba(56, 103, 214, 0.2);
+    }
+
     .card-tag {
       font-size: 0.72rem;
       font-weight: 700;
@@ -88,6 +113,13 @@
     .card-six .card-tag { color: #ff1493; }
     .card-bttf .card-tag { color: #ff7700; }
     .card-wicked .card-tag { color: #00ff87; }
+    .card-deh .card-tag { color: #00a8ff; }
+    .card-heathers .card-tag { color: #ff0055; }
+    .card-ith .card-tag { color: #ffb800; }
+    .card-hadestown .card-tag { color: #ff9f1a; }
+    .card-rent .card-tag { color: #eb2f06; }
+    .card-lesmis .card-tag { color: #3867d6; }
+
     .card h2 {
       font-size: 1.6rem;
       font-weight: 800;
@@ -159,6 +191,66 @@
       font-weight: 800;
       border-color: transparent;
     }
+    .card-deh .card-btn {
+      background: rgba(0, 168, 255, 0.12);
+      color: #00a8ff;
+      border: 1px solid rgba(0, 168, 255, 0.35);
+    }
+    .card-deh:hover .card-btn {
+      background: #00a8ff;
+      color: #000;
+      font-weight: 800;
+    }
+    .card-heathers .card-btn {
+      background: rgba(255, 0, 85, 0.12);
+      color: #ff0055;
+      border: 1px solid rgba(255, 0, 85, 0.35);
+    }
+    .card-heathers:hover .card-btn {
+      background: #ff0055;
+      color: #fff;
+      font-weight: 800;
+    }
+    .card-ith .card-btn {
+      background: rgba(255, 184, 0, 0.12);
+      color: #ffb800;
+      border: 1px solid rgba(255, 184, 0, 0.35);
+    }
+    .card-ith:hover .card-btn {
+      background: #ffb800;
+      color: #000;
+      font-weight: 800;
+    }
+    .card-hadestown .card-btn {
+      background: rgba(255, 159, 26, 0.12);
+      color: #ff9f1a;
+      border: 1px solid rgba(255, 159, 26, 0.35);
+    }
+    .card-hadestown:hover .card-btn {
+      background: #ff9f1a;
+      color: #000;
+      font-weight: 800;
+    }
+    .card-rent .card-btn {
+      background: rgba(235, 47, 6, 0.12);
+      color: #eb2f06;
+      border: 1px solid rgba(235, 47, 6, 0.35);
+    }
+    .card-rent:hover .card-btn {
+      background: #eb2f06;
+      color: #fff;
+      font-weight: 800;
+    }
+    .card-lesmis .card-btn {
+      background: rgba(56, 103, 214, 0.12);
+      color: #3867d6;
+      border: 1px solid rgba(56, 103, 214, 0.35);
+    }
+    .card-lesmis:hover .card-btn {
+      background: #3867d6;
+      color: #fff;
+      font-weight: 800;
+    }
     .footer {
       margin-top: 50px;
       text-align: center;
@@ -202,7 +294,7 @@
 <body>
   <div class="header">
     <h1>🎭 Musical Lyrics & Translation Library</h1>
-    <p>브로드웨이 & 웨스트엔드 대표 명작 뮤지컬 공식 원본 가사 및 한국어 전곡 완역 대역 아카이브</p>
+    <p>브로드웨이 & 웨스트엔드 대표 10대 명작 뮤지컬 공식 원본 가사 및 한국어 전 262곡 완역 대역 아카이브</p>
   </div>
 
   <div class="cards-container">
@@ -256,6 +348,84 @@
         <div><span class="stat-val">신곡 2곡</span> 포함</div>
       </div>
       <div class="card-btn">위키드 에메랄드 뷰어 ➔</div>
+    </a>
+
+    <!-- Dear Evan Hansen Card -->
+    <a href="./dear_evan_hansen/index.html" class="card card-deh">
+      <div class="card-tag">TONY AWARD BEST MUSICAL</div>
+      <h2>👕 DEAR EVAN HANSEN</h2>
+      <p>벤지 파섹 & 저스틴 폴의 토니상 6관왕 감동 명작! 불안과 고립 속에서 피어난 하얀 거짓말과 우리 모두를 향한 치유와 위로의 메시지. 전 14곡 220행 전수 완역 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">14</span> 넘버 (2막)</div>
+        <div><span class="stat-val">220</span> 행 완역</div>
+        <div><span class="stat-val">100%</span> 검증</div>
+      </div>
+      <div class="card-btn">디어 에반 핸슨 뷰어 ➔</div>
+    </a>
+
+    <!-- Heathers Card -->
+    <a href="./heathers/index.html" class="card card-heathers">
+      <div class="card-tag">CULT POP ROCK HIT</div>
+      <h2>💄 HEATHERS: The Musical</h2>
+      <p>웨스터버그 고교의 잔혹하고 달콤한 하이틴 다크 코미디 록 뮤지컬! 스포티파이 글로벌 차트를 강타한 틱톡 바이럴 히트곡 전 21곡 119행 전수 완역 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">21</span> 넘버 (2막)</div>
+        <div><span class="stat-val">119</span> 행 완역</div>
+        <div><span class="stat-val">100%</span> 검증</div>
+      </div>
+      <div class="card-btn">헤더스 캔디스토어 뷰어 ➔</div>
+    </a>
+
+    <!-- In the Heights Card -->
+    <a href="./in_the_heights/index.html" class="card card-ith">
+      <div class="card-tag">TONY AWARD BEST MUSICAL</div>
+      <h2>☕ IN THE HEIGHTS</h2>
+      <p>린마누엘 미란다의 신화가 시작된 워싱턴 하이츠의 라틴 힙합 뮤지컬! 살사, 메렝게, 힙합 비트 위에 펼쳐지는 이민자 공동체의 꿈과 희망 전 23곡 110행 완역 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">23</span> 넘버 (2막)</div>
+        <div><span class="stat-val">110</span> 행 완역</div>
+        <div><span class="stat-val">100%</span> 검증</div>
+      </div>
+      <div class="card-btn">인더하이츠 바리오 뷰어 ➔</div>
+    </a>
+
+    <!-- Hadestown Card -->
+    <a href="./hadestown/index.html" class="card card-hadestown">
+      <div class="card-tag">TONY AWARD 8 WINS & GRAMMY</div>
+      <h2>🎺 HADESTOWN</h2>
+      <p>오르페우스와 에우리디케의 고대 그리스 신화를 1930년대 대공황 아메리카나 뉴올리언스 재즈/포크로 재해석한 토니상 8관왕 걸작 전 33곡 152행 완역 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">33</span> 넘버 (2막)</div>
+        <div><span class="stat-val">152</span> 행 완역</div>
+        <div><span class="stat-val">100%</span> 검증</div>
+      </div>
+      <div class="card-btn">하데스타운 로드 뷰어 ➔</div>
+    </a>
+
+    <!-- RENT Card -->
+    <a href="./rent/index.html" class="card card-rent">
+      <div class="card-tag">PULITZER & TONY 4 WINS</div>
+      <h2>🎸 RENT</h2>
+      <p>조나단 라슨이 목숨 바쳐 완성한 90년대 뉴욕 이스트 빌리지 청춘들의 뜨거운 찬가! "오직 오늘뿐(No Day But Today)"을 노래하는 불멸의 록 뮤지컬 전 32곡 142행 완역 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">32</span> 넘버 (2막)</div>
+        <div><span class="stat-val">142</span> 행 완역</div>
+        <div><span class="stat-val">100%</span> 검증</div>
+      </div>
+      <div class="card-btn">렌트 보헤미안 뷰어 ➔</div>
+    </a>
+
+    <!-- Les Misérables Card -->
+    <a href="./les_miserables/index.html" class="card card-lesmis">
+      <div class="card-tag">WEST END LONGEST-RUNNING</div>
+      <h2>🇫🇷 LES MISÉRABLES</h2>
+      <p>빅토르 위고 원작, 카메론 매킨토시 & 쇤베르크/부블릴의 세기를 뛰어넘은 세계 4대 뮤지컬 불멸의 기념비! 프랑스 대혁명의 웅장한 서사시 전 34곡 224행 완역 수록.</p>
+      <div class="card-stats">
+        <div><span class="stat-val">34</span> 넘버 (2막)</div>
+        <div><span class="stat-val">224</span> 행 완역</div>
+        <div><span class="stat-val">100%</span> 검증</div>
+      </div>
+      <div class="card-btn">레 미제라블 혁명 뷰어 ➔</div>
     </a>
   </div>
 
